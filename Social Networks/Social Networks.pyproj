@@ -24,7 +24,16 @@
     <Compile Include="language_converter.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="xlsx_language_converter.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="social_network.py" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="casopisi.xlsx" />
+    <Content Include="doma_konferencije.xlsx" />
+    <Content Include="medj_konferencije.xlsx" />
+    <Content Include="ugovori.xlsx" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in

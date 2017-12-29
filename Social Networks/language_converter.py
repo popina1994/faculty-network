@@ -11,17 +11,17 @@ class CyrilicToLatin:
                     'E', 'Ž', 'Z', 'I', 'J', 'K', 'L', 'Lj', 'M', 'N', 'Nj', 'O',
                     'P', 'R', 'S', 'T', 'Ć', 'U', 'F', 'H', 'C', 'Č', 'Dž', 'Š']
 
-    def convertCyrilicToLatin(str):
+    CYRILIC_LATIN_ALPHABET = {}
+    for letter in CYRILIC_ALPHABET:
+        CYRILIC_LATIN_ALPHABET[letter] = LATIN_ALPHABET[CYRILIC_ALPHABET.index(letter)]
+    
+    def convertCyrilicToLatin(string):
         convStr = ""
-        for letter in str:
-            index = -1
-            try:
-                index = CyrilicToLatin.CYRILIC_ALPHABET.index(letter)
-            except:
-                index = -1
-            if (index != -1):
-                latinLetter = CyrilicToLatin.LATIN_ALPHABET[CyrilicToLatin.CYRILIC_ALPHABET.index(letter)]
-            else:
-                latinLetter = letter
+        if (string is None):
+            return convStr
+        if (type(string)) is not str:
+            return string
+        for letter in string:
+            latinLetter = CyrilicToLatin.CYRILIC_LATIN_ALPHABET.get(letter, letter)
             convStr += latinLetter
         return convStr
