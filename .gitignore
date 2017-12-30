@@ -1,2 +1,4 @@
 *.sln
 Social Networks/__pycache__/
+Social Networks/language/__pycache__/
+Social Networks/graph/__pycache__/

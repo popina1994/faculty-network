@@ -1,6 +1,7 @@
 import openpyxl as px
-import language_converter as lc
-class xlsx_cyrilic_latin_converter:
+import language.language_converter as lc
+class XlsxCyrilicLatinConverter:
+    EXTENSION = "LATIN"
     def __init__(self, work_book_name):
         self.work_book_name = work_book_name
 
