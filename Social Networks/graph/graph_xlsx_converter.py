@@ -1,4 +1,5 @@
 import openpyxl as px
+import re
 from openpyxl import Workbook
 class GraphXlsxConverter:
     SOURCE_COLUMN_IDX = 1
@@ -61,10 +62,9 @@ class GraphXlsxConverter:
     def generate_edges_of_authors(self, sheet, authors):
         for author_1 in authors:
                 for author_2 in authors:
-                        if (author_1 != author_2):
-                            sheet.cell(row = self.row_write_idx, column = GraphXlsxConverter.SOURCE_COLUMN_IDX).value = author_1
-                            sheet.cell(row = self.row_write_idx, column = GraphXlsxConverter.TARGET_COLUMN_IDX).value = author_2
-                            self.row_write_idx += 1
+                        sheet.cell(row = self.row_write_idx, column = GraphXlsxConverter.SOURCE_COLUMN_IDX).value = author_1
+                        sheet.cell(row = self.row_write_idx, column = GraphXlsxConverter.TARGET_COLUMN_IDX).value = author_2
+                        self.row_write_idx += 1
 
     def convert_xlsx_to_graph(self):
         work_book_read = px.load_workbook(filename=self.work_book_read_name)
@@ -92,6 +92,7 @@ class GraphXlsxConverter:
                 list_of_authors = []
                 for author_not_format in list_of_authors_not_formated:
                     author = author_not_format.strip()
+                    author = re.sub(' +',' ',author);
                     
                     if (option == GraphXlsxConverter.COLUMN_NAME_OF_AUTHORS_OPT_2):
                         # remove ""

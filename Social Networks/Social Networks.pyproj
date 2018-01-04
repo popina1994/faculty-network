@@ -41,6 +41,7 @@
   <ItemGroup>
     <Folder Include="C:\Users\popina\Documents\Visual Studio 2017\Projects\Social Networks\Social Networks\language\" />
     <Folder Include="graph\" />
+    <Folder Include="language\" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
