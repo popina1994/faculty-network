@@ -10,6 +10,8 @@ class GraphXlsxConverter:
     COLUMN_NAME_OF_AUTHORS_OPT_1 = "autori"
     COLUMN_NAME_OF_AUTHORS_OPT_2 = "autori2"
 
+    COLUMN_NAME_OF_YEAR = "godina"
+
     COLUMN_NAME_SOURCE_NODE = "Source"
     COLUMN_NAME_DEST_NODE = "Target"
 
@@ -53,6 +55,17 @@ class GraphXlsxConverter:
                 return GraphXlsxConverter.COLUMN_NAME_OF_AUTHORS_OPT_2, col_idx
         return "", 0
 
+    def find_year_column_idx(sheet):
+        if (sheet.cell(column = 1, row = GraphXlsxConverter.COLUMN_NAMES_ROW_ID) is None):
+            return "", 0
+        for col_idx in range(1, sheet.max_column):
+            cell = sheet.cell(column = col_idx, row = GraphXlsxConverter.COLUMN_NAMES_ROW_ID)
+            if (cell.value == GraphXlsxConverter.COLUMN_NAME_OF_YEAR):
+                return GraphXlsxConverter.COLUMN_NAME_OF_YEAR, col_idx
+
+        return "", 0
+
+
     def init_sheet_names(sheet):
         sheet.cell(row = GraphXlsxConverter.COLUMN_NAMES_ROW_ID, 
                    column = GraphXlsxConverter.SOURCE_COLUMN_IDX).value = GraphXlsxConverter.COLUMN_NAME_SOURCE_NODE
@@ -74,12 +87,24 @@ class GraphXlsxConverter:
         for sheet_name in sheet_names:
             sheet = work_book_read[sheet_name]
             option, authors_col_idx = GraphXlsxConverter.find_autors_column_idx(sheet)
+            _, year_col_idx = GraphXlsxConverter.find_year_column_idx(sheet)
             if (authors_col_idx == 0):
                 continue
             
             GraphXlsxConverter.init_sheet_names(sheet_write_active)
             self.row_write_idx = GraphXlsxConverter.COLUMN_NAMES_ROW_ID + 1
             for row_idx in range(GraphXlsxConverter.COLUMN_NAMES_ROW_ID + 1, sheet.max_row):
+                year_value = sheet.cell(column = year_col_idx, row = row_idx).value
+                if (type(year_value) is int):
+                    year_value = int(year_value)
+                else:
+                    if (type(year_value) is type(None)):
+                        print("None")
+                    else:
+                        print("Irregular" + year_value + "\n")
+                    continue
+                if ((year_value < 2000) or (year_value > 2016)):
+                    continue
                 cell_value = sheet.cell(column = authors_col_idx, row = row_idx).value
                 if ((cell_value == "") or (cell_value is None)):
                     continue
