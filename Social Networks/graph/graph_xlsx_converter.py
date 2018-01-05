@@ -90,12 +90,14 @@ class GraphXlsxConverter:
 
     def generate_edges_of_authors(self, sheet, authors):
         for author_1 in authors:
-                for author_2 in authors:
-                        sheet.cell(row = self.row_write_idx, column = GraphXlsxConverter.SOURCE_COLUMN_IDX).value = author_1
-                        sheet.cell(row = self.row_write_idx, column = GraphXlsxConverter.TARGET_COLUMN_IDX).value = author_2
-                        authorClass = GraphXlsxConverter.authors[author_1]
-                        authorClass.coauthors_num = authorClass.coauthors_num + 1
-                        self.row_write_idx += 1
+            authorClass = GraphXlsxConverter.authors[author_1]
+            authorClass.work_num = authorClass.work_num + 1
+            for author_2 in authors:
+                sheet.cell(row = self.row_write_idx, column = GraphXlsxConverter.SOURCE_COLUMN_IDX).value = author_1
+                sheet.cell(row = self.row_write_idx, column = GraphXlsxConverter.TARGET_COLUMN_IDX).value = author_2
+                
+
+                self.row_write_idx += 1
 
     def convert_xlsx_to_graph(self):
         work_book_read = px.load_workbook(filename=self.work_book_read_name)
@@ -152,4 +154,7 @@ class GraphXlsxConverter:
         work_book_write.save("GRAPH_" + self.work_book_read_name)
         work_book_read.close()
 
-
+        def sort_authors_by_work_number():
+            list_authors = list(gc.GraphXlsxConverter.authors.values())
+            list_authors.sort()
+            return list_authors

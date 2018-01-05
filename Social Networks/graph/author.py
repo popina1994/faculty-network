@@ -3,7 +3,7 @@
     def __init__(self, author, department):
         self._author = author
         self._department = department
-        self._coauthors_num = 0
+        self._work_num = 0
 
     @property
     def author(self):
@@ -22,9 +22,15 @@
         self._department = department
 
     @property
-    def coauthors_num(self):
-        return self._coauthors_num
+    def work_num(self):
+        return self._work_num
 
-    @coauthors_num.setter
-    def coauthors_num(self, value):
-        self._coauthors_num = value
+    @work_num.setter
+    def work_num(self, value):
+        self._work_num = value
+
+    def __lt__(self, other):
+        return self._work_num < other._work_num
+
+    def __eq__(self, other):
+        return self._work_num == other._work_num
