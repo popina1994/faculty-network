@@ -1,6 +1,8 @@
 import openpyxl as px
 import re
 from openpyxl import Workbook
+from graph.author import Author
+
 class GraphXlsxConverter:
     SOURCE_COLUMN_IDX = 1
     TARGET_COLUMN_IDX = 2
@@ -11,11 +13,12 @@ class GraphXlsxConverter:
     COLUMN_NAME_OF_AUTHORS_OPT_2 = "autori2"
 
     COLUMN_NAME_OF_YEAR = "godina"
+    COLUMN_NAME_DEPARTMENT = "organizaciona_jedinica_naziv"
 
     COLUMN_NAME_SOURCE_NODE = "Source"
     COLUMN_NAME_DEST_NODE = "Target"
 
-    authors = []
+    authors = {}
 
     def find_authors_full_name_column_idx(sheet):
         if (sheet.cell(column = 1, row = GraphXlsxConverter.COLUMN_NAMES_ROW_ID) is None):
@@ -26,20 +29,33 @@ class GraphXlsxConverter:
                 return col_idx
         return 0
 
+    def find_department_column_idx(sheet):
+        if (sheet.cell(column = 1, row = GraphXlsxConverter.COLUMN_NAMES_ROW_ID) is None):
+            return 0
+        for col_idx in range(1, sheet.max_column):
+            cell = sheet.cell(column = col_idx, row = GraphXlsxConverter.COLUMN_NAMES_ROW_ID)
+            if (cell.value == GraphXlsxConverter.COLUMN_NAME_DEPARTMENT):
+                return col_idx
+        return 0
+
     def init(work_book_authors_name):
         work_book_read = px.load_workbook(filename=work_book_authors_name)
         sheet_names = work_book_read.get_sheet_names();
         for sheet_name in sheet_names:
+            #Initialization of idxs
             sheet = work_book_read[sheet_name]
             authors_full_name_col_idx = GraphXlsxConverter.find_authors_full_name_column_idx(sheet)
             if (authors_full_name_col_idx == 0):
                 continue
-            
+            authors_department_name_col_idx = GraphXlsxConverter.find_department_column_idx(sheet)
+
             for row_idx in range(GraphXlsxConverter.COLUMN_NAMES_ROW_ID + 1, sheet.max_row):
                 cell_value = sheet.cell(column = authors_full_name_col_idx, row = row_idx).value
                 if ((cell_value == "") or (cell_value is None)):
                     continue
-                GraphXlsxConverter.authors.append(cell_value.strip())
+                author = cell_value.strip()
+                department = sheet.cell(column = authors_department_name_col_idx, row = row_idx).value.strip()
+                GraphXlsxConverter.authors[author] = Author(author, department)
 
     def __init__(self, work_book_read_name):
         self.work_book_read_name = work_book_read_name
@@ -77,6 +93,8 @@ class GraphXlsxConverter:
                 for author_2 in authors:
                         sheet.cell(row = self.row_write_idx, column = GraphXlsxConverter.SOURCE_COLUMN_IDX).value = author_1
                         sheet.cell(row = self.row_write_idx, column = GraphXlsxConverter.TARGET_COLUMN_IDX).value = author_2
+                        authorClass = GraphXlsxConverter.authors[author_1]
+                        authorClass.coauthors_num = authorClass.coauthors_num + 1
                         self.row_write_idx += 1
 
     def convert_xlsx_to_graph(self):
@@ -98,10 +116,12 @@ class GraphXlsxConverter:
                 if (type(year_value) is int):
                     year_value = int(year_value)
                 else:
+                    """
                     if (type(year_value) is type(None)):
                         print("None")
                     else:
                         print("Irregular" + year_value + "\n")
+                    """
                     continue
                 if ((year_value < 2000) or (year_value > 2016)):
                     continue

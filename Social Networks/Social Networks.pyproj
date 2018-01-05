@@ -24,6 +24,9 @@
     <Compile Include="graph\graph_xlsx_converter.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="graph\author.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="language\language_converter.py">
       <SubType>Code</SubType>
     </Compile>
