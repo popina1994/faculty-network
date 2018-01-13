@@ -13,10 +13,14 @@ class GraphXlsxConverter:
     COLUMN_NAME_OF_AUTHORS_OPT_2 = "autori2"
 
     COLUMN_NAME_OF_YEAR = "godina"
+    COLUMN_NAME_CONF_OR_MAG_OPT_1 = "cas_naslov"
+    COLUMN_NAME_CONF_OR_MAG_OPT_2 = "naziv_skupa"
     COLUMN_NAME_DEPARTMENT = "organizaciona_jedinica_naziv"
 
     COLUMN_NAME_SOURCE_NODE = "Source"
     COLUMN_NAME_DEST_NODE = "Target"
+
+    FILE_NAME_WORK_PER_AUTHOR = "Broj radov po naucniku.txt"
 
     authors = {}
 
@@ -88,10 +92,11 @@ class GraphXlsxConverter:
         sheet.cell(row = GraphXlsxConverter.COLUMN_NAMES_ROW_ID, 
                    column = GraphXlsxConverter.TARGET_COLUMN_IDX).value = GraphXlsxConverter.COLUMN_NAME_DEST_NODE
 
-    def generate_edges_of_authors(self, sheet, authors):
+    def generate_edges_of_authors(self, sheet, authors, conference):
         for author_1 in authors:
             authorClass = GraphXlsxConverter.authors[author_1]
             authorClass.work_num = authorClass.work_num + 1
+            authorClass.conf_num = authorClass.conf_num + int(conference)
             for author_2 in authors:
                 sheet.cell(row = self.row_write_idx, column = GraphXlsxConverter.SOURCE_COLUMN_IDX).value = author_1
                 sheet.cell(row = self.row_write_idx, column = GraphXlsxConverter.TARGET_COLUMN_IDX).value = author_2
@@ -149,12 +154,18 @@ class GraphXlsxConverter:
                     if (author not in GraphXlsxConverter.authors):
                         continue
                     list_of_authors.append(author)
-                self.generate_edges_of_authors(sheet_write_active, list_of_authors)
+                self.generate_edges_of_authors(sheet_write_active, list_of_authors, 
+                                               option == GraphXlsxConverter.COLUMN_NAME_OF_AUTHORS_OPT_2)
 
         work_book_write.save("GRAPH_" + self.work_book_read_name)
         work_book_read.close()
 
-        def sort_authors_by_work_number():
-            list_authors = list(gc.GraphXlsxConverter.authors.values())
-            list_authors.sort()
-            return list_authors
+
+    def sort_authors_by_work_number():
+        list_authors = list(GraphXlsxConverter.authors.values())
+        list_authors.sort()
+        list_authors.reverse()
+        with open(GraphXlsxConverter.FILE_NAME_WORK_PER_AUTHOR, 'w', encoding="utf-8") as f:
+            for author in list_authors:
+                f.write('{0!s}\n'.format(author))
+        return list_authors

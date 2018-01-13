@@ -17,4 +17,5 @@ def xlsx_to_graph():
 
 
 xlsx_to_graph()
-    
+test = gc.GraphXlsxConverter.sort_authors_by_work_number()
+t  = 1
