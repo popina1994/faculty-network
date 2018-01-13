@@ -17,5 +17,7 @@ def xlsx_to_graph():
 
 
 xlsx_to_graph()
-test = gc.GraphXlsxConverter.sort_authors_by_work_number()
-t  = 1
+#gc.GraphXlsxConverter.sort_authors_by_work_number()
+#gc.GraphXlsxConverter.sort_work_by_name_year()
+gc.GraphXlsxConverter.output_department_year_fraction()
+

@@ -1,0 +1,3317 @@
+Ime: Autora: Godina
+konf_0th International Conference on Software, Telecommunications & Computer Networks SoftCOM 2002: 2: 2002
+konf_10th International Conference on Environment and Electrical Engineering (EEEIC): 1: 2011
+konf_10th International OFDM-Workshop (InOWo’05), Hamburg, August 31st / September 1st Germany: 1: 2005
+konf_10th International OFDM-Workshop (InOWo’05), Hamburg, August 31st / September 1st Germany: 2: 2005
+konf_11-th International Symposium on Signals, Circuits and Systems (ISSCS 2013): 3: 2013
+konf_111th Convention of AES: 1: 2001
+konf_11th European Workshop on Advanced Control and Diagnosis (ACD2014): 5: 2014
+konf_11th International Conference on Applied Electromagnetics PES 2013: 2: 2013
+konf_12. Međunarodni simpozijum iz oblasti celuloze, papira, ambalaže i grafike: 3: 2006
+konf_126th Convention AES: 2: 2009
+konf_15th International Conference on Electrical Drives and Power Electronics: 3: 2009
+konf_17TH IEEE MEDITERRANEAN ELECTROTECHNICAL CONFERENCE (MELECON): 3: 2014
+konf_18th International Symposium POWER ELECTRONICS Ee2015: 3: 2015
+konf_18th International Symposium POWER ELECTRONICS Ee2015: 2: 2015
+konf_1st IEEE Conference on Network Softwarization (NetSoft), 2015: 1: 2015
+konf_1th regional  conference on electricity distribution JUKO CIRED: 5: 2004
+konf_2009 IEEE PowerTech Conference: 1: 2009
+konf_2009 MRS (Materials Research Society) Spring Meeting , Symposium NN Active Polymers: 1: 2009
+konf_2010 International Conference on Education and Management Technology (ICEMT): 1: 2010
+konf_2011 IEEE PowerTech Conference: 1: 2011
+konf_2012 IEEE 10th Jubilee International Symposium on Intelligent Systems and Informatics, SISY 2012: 1: 2012
+konf_2012 IEEE 19th International Conference and Workshops on Engineering of Computer-Based Systems: 3: 2012
+konf_2012 IEEE Multi-conference on Systems and Control: 3: 2012
+konf_2013 20th International Conference on Systems, Signals and Image Processing, IWSSIP 2013: 2: 2013
+konf_2013 20th International Conference on Systems, Signals and Image Processing, IWSSIP 2013: 2: 2013
+konf_2013 IEEE Third International Conference on Consumer Electronics - Berlin (ICCE-Berlin): 1: 2013
+konf_2013 IEEE Third cf - Berlin (ICCE-Berlin): 1: 2013
+konf_2015 IEEE 18th International Symposium on Design and Diagnostics of Electronic Circuits & Systems: 2: 2015
+konf_2015 International School on Nonsinusoidal Currents and Compensation (ISNCC): 2: 2015
+konf_20th European Conference on Circuit Theory and Design (ECCTD): 2: 2011
+konf_20th International Conference on Electricity Distribuiton CIRED: 1: 2009
+konf_20th International Conference on Systems, Signals and Image Processing (IWSSIP): 2: 2013
+konf_25th IFTOMM/IEEE International Conference on Robotics in Alpe-Adria-Danube Region – RAAD 2016: 1: 2016
+konf_25th IFTOMM/IEEE International Conference on Robotics in Alpe-Adria-Danube Region – RAAD 2016: 3: 2016
+konf_27th European Photovoltaic Solar Energy Conference (EU PVSEC): 1: 2012
+konf_2nd International Conference on Automation, Control, Engineering & Computer Science: 1: 2015
+konf_2nd International Conference on Energy-Efficient Computing and Networking (E-energy 2011): 1: 2011
+konf_33rd International Convention on Information and Communication Technology, Electronics and Microelectronics: 1: 2010
+konf_34th Annual International Conference of the IEEE Engineering in Medicine & Biology Society EMBC: 1: 2012
+konf_34th Annual International Conference of the IEEE Engineering in Medicine and Biology Society, IEEE EMBS, EMBC: 2: 2012
+konf_37th European Conference and Exhibition on Optical Communication (ECOC 2011): 1: 2011
+konf_37th International Conference of IMAPS-CPMT, Krakow, Poland: 2: 2013
+konf_3rd Computational Electromagnetics International Workshop (CEM'11): 3: 2011
+konf_3rd Congres of the Alps Adria Acoustic Association: 2: 2007
+konf_3rd International Conference on Control and Fault-Tolerant Systems: 2: 2016
+konf_3rd International IEEE Conference on Microwaves, Communications, Antennas and Electronic Systems, IEEE COMCAS 2011: 2: 2011
+konf_4th IEEE International Workshop on Computational Advances in Multi-Sensor Adaptive Processing (CAMSAP): 1: 2011
+konf_4th International Mining Congress BALKANMINE 2011: 3: 2011
+konf_4th Small Systems Simulation Symposium, SSSS 2012: 3: 2012
+konf_5th Balcan Confrence in Informatics: 1: 2012
+konf_5th Congress of Alps-Adria Acoustics Association: 1: 2012
+konf_5th European Conference of the Intarnational FEdearation for Medical and Biological Engineering: 1: 2011
+konf_6th IFAC International Workshop on Knowledge and Technology Transfer in Developing Countries Automation and Infrastructure, DECOM – TT 2009: 3: 2009
+konf_7th CONFERENCE ON SUSTAINABLE DEVELOPMENT OF ENERGY, WATER AND ENVIRONMENT SYSTEMS: 1: 2012
+konf_7th IEEE Sensor Array Multichannel Signal Processing Workshop (SAM): 1: 2012
+konf_7th IFAC Symposium on Intelligent Autonomous Vehicles, Lecce, Italy, September 2010.: 1: 2010
+konf_7th Workshop on Software Engineering Education and Reverse Engineering: 2: 2007
+konf_8th Conference of the European Study Group on Cardiovascular Oscillations (ESGCO): 1: 2014
+konf_8th IEEE International Symposium on Instrumentation and Control Technology (ISICT): 1: 2012
+konf_8th International Scientific Technical Conference Contemporary Theory and Practice in Building Development: 1: 2012
+konf_9th European Workshop on Advanced Control and Diagnosis ACD 2011: 4: 2011
+konf_9th International OFDM-Workshop 2004, Dresden, Germany: 2: 2004
+konf_ACACE: 4: 2008
+konf_ACES: 2: 2009
+konf_ACES: 2: 2011
+konf_ACES: 2: 2012
+konf_ACES: 2: 2012
+konf_ACES: 2: 2012
+konf_ACES: 2: 2013
+konf_ACES: 2: 2013
+konf_ACL Workshop on Building and Using Parallel Texts: 1: 2005
+konf_ACUSTICUM: 2: 2005
+konf_ACUSTICUM: 2: 2005
+konf_ACUSTICUM: 2: 2005
+konf_ACUSTICUM: 1: 2005
+konf_ACUSTICUM: 3: 2011
+konf_ACUSTICUM: 2: 2011
+konf_ACUSTICUM: 2: 2011
+konf_ACUSTICUM: 2: 2011
+konf_ACUSTICUM: 1: 2011
+konf_ACUSTICUM: 3: 2014
+konf_ACUSTICUM: 1: 2014
+konf_AIG'11, Sedma konferencija Avtomatizacija v industriji in gospodarstvu, Maribor, Slovenia, Mart 2011.: 1: 2011
+konf_APSURSI: 1: 2012
+konf_APSURSI: 1: 2012
+konf_APSURSI: 1: 2012
+konf_APSURSI: 2: 2013
+konf_APSURSI: 2: 2013
+konf_APSURSI: 1: 2013
+konf_APSURSI: 1: 2013
+konf_Access Networks and In-house Communications: 2: 2010
+konf_Advances in Artificial Life, ECAL 2013 (Proceedings of the twelfth European Conference on the Synthesis and Simulation of Living Systems): 3: 2013
+konf_Aerospace Sciences and Aviation Technology, May 24-26, 2011, Cairo, Egypt.: 1: 2011
+konf_Automatica.it 2015: 2: 2015
+konf_BCI 2012: 1: 2012
+konf_BPC: 1: 2002
+konf_BPC: 1: 2002
+konf_BPC: 1: 2004
+konf_CD Proceedings of MicroCAD, Q28: 2: 2012
+konf_CIE Session : 1: 2011
+konf_CIE Session : 1: 2011
+konf_CIGRE: 1: 2003
+konf_CIGRE: 1: 2011
+konf_CIGRE: 2: 2011
+konf_CIRED: 2: 2000
+konf_CIRED: 1: 2000
+konf_CIRED: 1: 2002
+konf_CIRED: 1: 2011
+konf_Cigre: 1: 2003
+konf_Cigre: 2: 2005
+konf_Cigre: 2: 2009
+konf_Cigre: 1: 2010
+konf_Cigre: 1: 2011
+konf_Cigre: 1: 2011
+konf_Cigre: 1: 2011
+konf_Cigre: 1: 2011
+konf_Cigre: 1: 2011
+konf_Cigre: 1: 2011
+konf_Cigre: 1: 2011
+konf_Cigre: 3: 2011
+konf_Cigre: 1: 2011
+konf_Cigre: 1: 2011
+konf_Cigre: 2: 2011
+konf_Cigre: 2: 2011
+konf_Cigre: 2: 2011
+konf_Cigre: 2: 2011
+konf_Cigre: 1: 2011
+konf_Cigre: 1: 2011
+konf_Cigre: 1: 2011
+konf_Cigre: 1: 2013
+konf_Cigre: 1: 2013
+konf_Cigre: 3: 2013
+konf_Cigre: 2: 2013
+konf_Cigre: 2: 2013
+konf_Cigre: 2: 2013
+konf_Cigre: 1: 2013
+konf_Cigre: 2: 2013
+konf_Cigre: 1: 2013
+konf_Cigre: 2: 2013
+konf_Cigre: 2: 2013
+konf_Cigre: 2: 2013
+konf_Cigre: 1: 2013
+konf_Cigre: 1: 2013
+konf_Cigre: 1: 2015
+konf_Cigre: 3: 2015
+konf_Cigre: 2: 2015
+konf_Cigre: 3: 2015
+konf_Cigre: 3: 2015
+konf_Cigre: 1: 2015
+konf_Cigre: 3: 2015
+konf_Cigre: 2: 2015
+konf_Cigre: 1: 2015
+konf_Cigre: 1: 2015
+konf_Cigre: 1: 2015
+konf_Computer and Computational Sciences (ICCCS), 2015 International Conference on: 2: 2015
+konf_Conf. DOGS  2010, Proceedings CD: 2: 2010
+konf_Conference Record of the IEEE Symposium on Nuclear Science: 1: 2007
+konf_Conference Record of the IEEE Symposium on Nuclear Science: 1: 2007
+konf_Conference Record of the IEEE Symposium on Nuclear Science: 1: 2008
+konf_Conference on Control and Fault Tolerant Systems SysTol'10: 2: 2010
+konf_Conference on Control and Fault Tolerant Systems SysTol'10, Nice, France, October 2010.: 2: 2010
+konf_Contemporary Materials I−2 (2010): 2: 2011
+konf_DEMI 2011, 10th Int. Conf. on Accomplishments in Elec. and Mech. Eng. and Inf. Techn., Banja Luka, May 2011.: 2: 2011
+konf_Design, Automation & Test in Europe Conference & Exhibition (DATE), 2012: 1: 2011
+konf_Devoxx: 1: 2010
+konf_Devoxx: 1: 2012
+konf_Digitalna obrada govora i  slike DOGS2012, Oktobar 2012, Kovačica, Srbija: 1: 2012
+konf_Digitalna obrada govora i slike DOGS2012, Oktobar 2012, Kovačica, Srbija: 1: 2012
+konf_ECBS-EERC: 3: 2009
+konf_ECBS-EERC: 3: 2011
+konf_ECBS-EERC: 3: 2011
+konf_ECCSC: 2: 2010
+konf_ECCSC: 1: 2010
+konf_ECCSC: 1: 2010
+konf_ECCSC: 2: 2010
+konf_ECCSC: 1: 2010
+konf_ECCSC: 3: 2010
+konf_ECCSC: 1: 2010
+konf_ECCSC: 1: 2010
+konf_ECCSC: 2: 2010
+konf_EFEA: 2: 2016
+konf_EFEA: 2: 2016
+konf_EFEA: 2: 2016
+konf_EFEA: 2: 2016
+konf_EFEA: 2: 2016
+konf_EFEA: 3: 2016
+konf_EFIKASNOST U PRIVREDI-2010: 2: 2010
+konf_EFIKASNOST U PRIVREDI-2010: 2: 2011
+konf_ENERGETIKA 2011: 2: 2010
+konf_EPE-PEMC: 2: 2010
+konf_EPE-PEMC: 3: 2010
+konf_EPE-PEMC: 2: 2012
+konf_EPE-PEMC: 3: 2012
+konf_EPE-PEMC: 3: 2012
+konf_EPE-PEMC: 1: 2012
+konf_EPE-PEMC: 2: 2012
+konf_ETRAN: 1: 2000
+konf_ETRAN: 2: 2001
+konf_ETRAN: 1: 2001
+konf_ETRAN: 1: 2001
+konf_ETRAN: 1: 2002
+konf_ETRAN: 2: 2002
+konf_ETRAN: 2: 2002
+konf_ETRAN: 3: 2002
+konf_ETRAN: 1: 2002
+konf_ETRAN: 2: 2003
+konf_ETRAN: 1: 2003
+konf_ETRAN: 1: 2003
+konf_ETRAN: 2: 2003
+konf_ETRAN: 1: 2003
+konf_ETRAN: 2: 2004
+konf_ETRAN: 3: 2004
+konf_ETRAN: 2: 2004
+konf_ETRAN: 1: 2004
+konf_ETRAN: 1: 2005
+konf_ETRAN: 2: 2005
+konf_ETRAN: 4: 2005
+konf_ETRAN: 1: 2005
+konf_ETRAN: 3: 2005
+konf_ETRAN: 2: 2006
+konf_ETRAN: 2: 2006
+konf_ETRAN: 2: 2006
+konf_ETRAN: 1: 2007
+konf_ETRAN: 5: 2007
+konf_ETRAN: 2: 2007
+konf_ETRAN: 2: 2007
+konf_ETRAN: 3: 2007
+konf_ETRAN: 1: 2007
+konf_ETRAN: 1: 2007
+konf_ETRAN: 2: 2007
+konf_ETRAN: 2: 2007
+konf_ETRAN: 1: 2007
+konf_ETRAN: 1: 2008
+konf_ETRAN: 2: 2008
+konf_ETRAN: 1: 2008
+konf_ETRAN: 1: 2008
+konf_ETRAN: 3: 2008
+konf_ETRAN: 2: 2008
+konf_ETRAN: 3: 2008
+konf_ETRAN: 2: 2008
+konf_ETRAN: 2: 2009
+konf_ETRAN: 1: 2009
+konf_ETRAN: 2: 2009
+konf_ETRAN: 2: 2009
+konf_ETRAN: 1: 2009
+konf_ETRAN: 1: 2009
+konf_ETRAN: 1: 2009
+konf_ETRAN: 1: 2009
+konf_ETRAN: 1: 2009
+konf_ETRAN: 1: 2009
+konf_ETRAN: 3: 2009
+konf_ETRAN: 2: 2009
+konf_ETRAN: 1: 2009
+konf_ETRAN: 2: 2009
+konf_ETRAN: 2: 2009
+konf_ETRAN: 2: 2009
+konf_ETRAN: 2: 2010
+konf_ETRAN: 2: 2010
+konf_ETRAN: 1: 2010
+konf_ETRAN: 1: 2010
+konf_ETRAN: 2: 2010
+konf_ETRAN: 1: 2010
+konf_ETRAN: 3: 2010
+konf_ETRAN: 1: 2010
+konf_ETRAN: 1: 2010
+konf_ETRAN: 2: 2010
+konf_ETRAN: 2: 2010
+konf_ETRAN: 3: 2010
+konf_ETRAN: 4: 2010
+konf_ETRAN: 4: 2010
+konf_ETRAN: 2: 2010
+konf_ETRAN: 2: 2010
+konf_ETRAN: 1: 2010
+konf_ETRAN: 1: 2010
+konf_ETRAN: 2: 2010
+konf_ETRAN: 1: 2010
+konf_ETRAN: 1: 2010
+konf_ETRAN: 2: 2010
+konf_ETRAN: 1: 2010
+konf_ETRAN: 1: 2011
+konf_ETRAN: 2: 2011
+konf_ETRAN: 1: 2011
+konf_ETRAN: 1: 2011
+konf_ETRAN: 2: 2011
+konf_ETRAN: 1: 2011
+konf_ETRAN: 2: 2011
+konf_ETRAN: 4: 2011
+konf_ETRAN: 1: 2011
+konf_ETRAN: 1: 2011
+konf_ETRAN: 3: 2011
+konf_ETRAN: 2: 2011
+konf_ETRAN: 3: 2011
+konf_ETRAN: 2: 2011
+konf_ETRAN: 2: 2011
+konf_ETRAN: 2: 2011
+konf_ETRAN: 2: 2011
+konf_ETRAN: 2: 2011
+konf_ETRAN: 1: 2011
+konf_ETRAN: 2: 2011
+konf_ETRAN: 3: 2011
+konf_ETRAN: 1: 2011
+konf_ETRAN: 2: 2011
+konf_ETRAN: 2: 2011
+konf_ETRAN: 1: 2011
+konf_ETRAN: 4: 2011
+konf_ETRAN: 1: 2011
+konf_ETRAN: 1: 2011
+konf_ETRAN: 2: 2011
+konf_ETRAN: 1: 2011
+konf_ETRAN: 1: 2011
+konf_ETRAN: 1: 2011
+konf_ETRAN: 2: 2012
+konf_ETRAN: 3: 2012
+konf_ETRAN: 1: 2012
+konf_ETRAN: 1: 2012
+konf_ETRAN: 1: 2012
+konf_ETRAN: 2: 2012
+konf_ETRAN: 1: 2012
+konf_ETRAN: 3: 2012
+konf_ETRAN: 2: 2012
+konf_ETRAN: 3: 2012
+konf_ETRAN: 1: 2012
+konf_ETRAN: 1: 2012
+konf_ETRAN: 1: 2012
+konf_ETRAN: 1: 2012
+konf_ETRAN: 1: 2012
+konf_ETRAN: 1: 2012
+konf_ETRAN: 1: 2012
+konf_ETRAN: 3: 2012
+konf_ETRAN: 2: 2012
+konf_ETRAN: 2: 2012
+konf_ETRAN: 1: 2012
+konf_ETRAN: 3: 2012
+konf_ETRAN: 2: 2012
+konf_ETRAN: 1: 2012
+konf_ETRAN: 3: 2012
+konf_ETRAN: 1: 2012
+konf_ETRAN: 1: 2012
+konf_ETRAN: 1: 2012
+konf_ETRAN: 2: 2012
+konf_ETRAN: 1: 2012
+konf_ETRAN: 1: 2012
+konf_ETRAN: 1: 2012
+konf_ETRAN: 2: 2012
+konf_ETRAN: 1: 2012
+konf_ETRAN: 1: 2012
+konf_ETRAN: 1: 2012
+konf_ETRAN: 1: 2012
+konf_ETRAN: 2: 2012
+konf_ETRAN: 2: 2012
+konf_ETRAN: 1: 2012
+konf_ETRAN: 1: 2012
+konf_ETRAN: 3: 2012
+konf_ETRAN: 3: 2013
+konf_ETRAN: 2: 2013
+konf_ETRAN: 3: 2013
+konf_ETRAN: 2: 2013
+konf_ETRAN: 2: 2013
+konf_ETRAN: 3: 2013
+konf_ETRAN: 2: 2013
+konf_ETRAN: 3: 2013
+konf_ETRAN: 2: 2013
+konf_ETRAN: 2: 2013
+konf_ETRAN: 2: 2013
+konf_ETRAN: 1: 2013
+konf_ETRAN: 2: 2013
+konf_ETRAN: 1: 2013
+konf_ETRAN: 2: 2013
+konf_ETRAN: 1: 2013
+konf_ETRAN: 3: 2013
+konf_ETRAN: 2: 2013
+konf_ETRAN: 3: 2013
+konf_ETRAN: 1: 2013
+konf_ETRAN: 2: 2013
+konf_ETRAN: 3: 2013
+konf_ETRAN: 1: 2013
+konf_ETRAN: 1: 2013
+konf_ETRAN: 2: 2013
+konf_ETRAN: 2: 2013
+konf_ETRAN: 3: 2013
+konf_ETRAN: 3: 2013
+konf_ETRAN: 2: 2013
+konf_ETRAN: 2: 2013
+konf_ETRAN: 1: 2014
+konf_ETRAN: 1: 2014
+konf_ETRAN: 1: 2014
+konf_ETRAN: 1: 2014
+konf_ETRAN: 1: 2014
+konf_ETRAN: 2: 2014
+konf_ETRAN: 1: 2014
+konf_ETRAN: 4: 2014
+konf_ETRAN: 3: 2014
+konf_ETRAN: 2: 2014
+konf_ETRAN: 2: 2014
+konf_ETRAN: 1: 2014
+konf_ETRAN: 2: 2014
+konf_ETRAN: 2: 2014
+konf_ETRAN: 1: 2014
+konf_ETRAN: 1: 2014
+konf_ETRAN: 2: 2014
+konf_ETRAN: 2: 2014
+konf_ETRAN: 1: 2014
+konf_ETRAN: 1: 2014
+konf_ETRAN: 1: 2014
+konf_ETRAN: 1: 2015
+konf_ETRAN: 1: 2015
+konf_ETRAN: 1: 2015
+konf_ETRAN: 2: 2015
+konf_ETRAN: 1: 2015
+konf_ETRAN: 2: 2015
+konf_ETRAN: 2: 2015
+konf_ETRAN: 1: 2015
+konf_ETRAN: 1: 2015
+konf_ETRAN: 3: 2015
+konf_ETRAN: 4: 2015
+konf_ETRAN: 3: 2015
+konf_ETRAN: 3: 2015
+konf_ETRAN: 2: 2015
+konf_ETRAN: 2: 2015
+konf_ETRAN: 2: 2015
+konf_ETRAN: 1: 2015
+konf_ETRAN: 1: 2015
+konf_ETRAN: 1: 2015
+konf_ETRAN: 3: 2015
+konf_ETRAN: 3: 2015
+konf_ETRAN: 2: 2015
+konf_ETRAN: 1: 2015
+konf_ETRAN: 3: 2016
+konf_ETRAN: 2: 2016
+konf_ETRAN: 2: 2016
+konf_ETRAN: 2: 2016
+konf_ETRAN: 2: 2016
+konf_ETRAN: 3: 2016
+konf_ETRAN: 1: 2016
+konf_ETRAN: 2: 2016
+konf_ETRAN: 2: 2016
+konf_ETRAN: 1: 2016
+konf_ETRAN: 2: 2016
+konf_ETRAN: 2: 2016
+konf_ETRAN: 2: 2016
+konf_ETRAN: 3: 2016
+konf_ETRAN: 3: 2016
+konf_ETRAN: 2: 2016
+konf_ETRAN: 1: 2016
+konf_ETRAN: 2: 2016
+konf_ETRAN: 1: 2016
+konf_ETRAN: 2: 2016
+konf_ETRAN: 4: 2016
+konf_ETRAN: 3: 2016
+konf_ETRAN: 3: 2016
+konf_ETRAN: 1: 2016
+konf_EUCAP: 1: 2011
+konf_EUCAP: 2: 2011
+konf_EUCAP: 2: 2011
+konf_EUCAP: 1: 2012
+konf_EUCAP: 2: 2012
+konf_EUCAP: 2: 2015
+konf_EUSIPCO: 2: 2005
+konf_EUSIPCO: 3: 2012
+konf_EWEC: 2: 2007
+konf_EWEC: 2: 2009
+konf_EWEC: 2: 2009
+konf_Electra VII: 1: 2012
+konf_Electra VII: 1: 2012
+konf_Electrical and Electronics Engineering SIBIRCON 2010, IEEE Region 8 conference: 2: 2010
+konf_Embedded Computing (MECO): 1: 2016
+konf_Empowering Young Explorers (EYE), Lab Surfing workshop: 1: 2014
+konf_Energetika: 1: 2013
+konf_Energetika Srpske: 1: 2001
+konf_Energetika Srpske: 1: 2001
+konf_Energetika Srpske: 1: 2001
+konf_Energy Conference (ENERGYCON 2014): 3: 2014
+konf_EuroRegio: 2: 2010
+konf_EuroRegio: 2: 2010
+konf_Eurocon: 2: 2003
+konf_Eurocon: 1: 2005
+konf_Eurocon: 2: 2005
+konf_Eurocon: 1: 2005
+konf_Eurocon: 2: 2009
+konf_Eurocon: 1: 2011
+konf_Eurocon: 2: 2011
+konf_Eurocon: 3: 2011
+konf_Eurocon: 2: 2013
+konf_Euronoise: 2: 2012
+konf_Euronoise: 2: 2012
+konf_Euronoise: 2: 2012
+konf_Euronoise: 1: 2012
+konf_European Symposium „Harmonisation of European Sound Insulation Descriptors and Clasification Standards: 2: 2010
+konf_European Wireless 2010: 1: 2010
+konf_FAC Conference on Control Methodologies and Technology for Energy Efficiency – IFAC CMTEE 2010: 4: 2010
+konf_Festival kvaliteta, 40.Nacionalna konferencija o kvalitetu, 8. Nacionalna konferencija o kvalitetu života: 1: 2013
+konf_First International Conference on Applied Bionics and Biomechanics ICABB: 3: 2010
+konf_First International Conference on Teaching English for Specific Purposes: 1: 2013
+konf_Fundamental and Applied Aspects of Speech and Language: 1: 2004
+konf_Fundamental and Applied Aspects of Speech and Language: 1: 2004
+konf_Fundamental and Applied Aspects of Speech and Language: 1: 2004
+konf_Fundamental and Applied Aspects of Speech and Language: 1: 2004
+konf_Fundamental and Applied Aspects of Speech and Language: 1: 2004
+konf_Fundamental and Applied Aspects of Speech and Language: 1: 2009
+konf_Fundamental and Applied Aspects of Speech and Language: 1: 2009
+konf_Fundamental and Applied Aspects of Speech and Language: 1: 2009
+konf_Fundamental and Applied Aspects of Speech and Language: 1: 2009
+konf_Fundamental and Applied Aspects of Speech and Language: 1: 2013
+konf_Fundamental and Applied Aspects of Speech and Language: 1: 2015
+konf_GCC POWER 2016: 1: 2016
+konf_HICSS-33: 2: 2000
+konf_Humboldt Kolleg Belgrade 2013: 2: 2013
+konf_ICA: 1: 2004
+konf_ICA: 1: 2004
+konf_ICEAA: 2: 2011
+konf_ICEAA: 2: 2013
+konf_ICEE: 2: 2015
+konf_ICEE: 2: 2015
+konf_ICEGD: 1: 2011
+konf_ICEGD: 2: 2013
+konf_ICEGD: 1: 2013
+konf_ICERI: 2: 2010
+konf_ICERI: 1: 2010
+konf_ICERI: 1: 2011
+konf_ICEST: 2: 2011
+konf_ICEST: 2: 2011
+konf_ICEST: 1: 2011
+konf_ICEST: 2: 2013
+konf_ICEST: 2: 2013
+konf_ICFDA: 1: 2014
+konf_ICFDA: 1: 2014
+konf_ICFDA: 1: 2014
+konf_ICFDA: 1: 2014
+konf_ICIST: 1: 2014
+konf_ICIST: 1: 2016
+konf_ICIT: 3: 2010
+konf_ICIT: 3: 2012
+konf_ICIT: 3: 2012
+konf_ICIT: 4: 2012
+konf_ICIT: 3: 2012
+konf_ICIT: 4: 2012
+konf_ICIT: 4: 2012
+konf_ICNR: 2: 2012
+konf_ICNR: 1: 2012
+konf_ICRERA: 2: 2013
+konf_ICRERA: 4: 2013
+konf_ICRERA: 3: 2013
+konf_IECON: 3: 2009
+konf_IECON: 3: 2013
+konf_IEEE 12th International Conference on Rehabilitation Robotics: 2: 2011
+konf_IEEE Africon 2013: 2: 2013
+konf_IEEE GLOBECOM 2010: 1: 2010
+konf_IEEE ICC 2008: 1: 2008
+konf_IEEE Int. Conference on UWB: 1: 2011
+konf_IEEE Intelligent Systems: 3: 2012
+konf_IEEE International Conference on Software Testing, Verification and Validation (ICST) 2014: 2: 2014
+konf_IEEE International Conference “EE Education in 21st Century in South-Eastern Europe (+Greece and Turkey)”: 1: 2003
+konf_IEEE Multi-Conference on Systems and Control (MSC): 2: 2012
+konf_IEEE PACRIM 2009: 2: 2009
+konf_IEEE PowerTech 2015: 2: 2015
+konf_IEEE Symposium on Computers and Communications (ISCC2012): 1: 2012
+konf_IEEE WCNC 2012: 2: 2012
+konf_IEEE/EMBS: 1: 2001
+konf_IEEE/EMBS: 1: 2001
+konf_IEEESTEC Student projects conference: 1: 2008
+konf_IEEESTEC Student projects conference: 2: 2013
+konf_IET Conference Publication: 1: 2010
+konf_IFAC Conference on Control Methodologies and Technology for Energy Efficiency CMTEE 2010: 1: 2010
+konf_IFESS: 3: 2010
+konf_IFESS: 2: 2013
+konf_IFMBE: 3: 2011
+konf_IFMBE: 2: 2011
+konf_INDEL: 1: 2000
+konf_INDEL: 1: 2010
+konf_INDEL: 2: 2010
+konf_INDEL: 2: 2010
+konf_INDEL: 1: 2010
+konf_INDEL: 2: 2012
+konf_INDEL: 1: 2014
+konf_INFOTEH: 1: 2003
+konf_INFOTEH: 1: 2003
+konf_INFOTEH: 1: 2006
+konf_INFOTEH: 2: 2006
+konf_INFOTEH: 2: 2007
+konf_INFOTEH: 2: 2007
+konf_INFOTEH: 2: 2007
+konf_INFOTEH: 1: 2008
+konf_INFOTEH: 2: 2008
+konf_INFOTEH: 2: 2008
+konf_INFOTEH: 2: 2009
+konf_INFOTEH: 2: 2009
+konf_INFOTEH: 2: 2009
+konf_INFOTEH: 2: 2009
+konf_INFOTEH: 1: 2009
+konf_INFOTEH: 2: 2010
+konf_INFOTEH: 1: 2010
+konf_INFOTEH: 2: 2010
+konf_INFOTEH: 1: 2010
+konf_INFOTEH: 2: 2010
+konf_INFOTEH: 2: 2010
+konf_INFOTEH: 2: 2010
+konf_INFOTEH: 2: 2010
+konf_INFOTEH: 2: 2010
+konf_INFOTEH: 1: 2010
+konf_INFOTEH: 1: 2011
+konf_INFOTEH: 1: 2011
+konf_INFOTEH: 1: 2011
+konf_INFOTEH: 2: 2011
+konf_INFOTEH: 1: 2011
+konf_INFOTEH: 3: 2011
+konf_INFOTEH: 1: 2011
+konf_INFOTEH: 1: 2011
+konf_INFOTEH: 2: 2011
+konf_INFOTEH: 2: 2011
+konf_INFOTEH: 1: 2011
+konf_INFOTEH: 2: 2011
+konf_INFOTEH: 1: 2011
+konf_INFOTEH: 1: 2012
+konf_INFOTEH: 2: 2012
+konf_INFOTEH: 2: 2012
+konf_INFOTEH: 2: 2012
+konf_INFOTEH: 2: 2012
+konf_INFOTEH: 1: 2012
+konf_INFOTEH: 1: 2012
+konf_INFOTEH: 1: 2012
+konf_INFOTEH: 2: 2012
+konf_INFOTEH: 1: 2012
+konf_INFOTEH: 1: 2012
+konf_INFOTEH: 1: 2012
+konf_INFOTEH: 2: 2012
+konf_INFOTEH: 2: 2012
+konf_INFOTEH: 5: 2012
+konf_INFOTEH: 2: 2012
+konf_INFOTEH: 2: 2012
+konf_INFOTEH: 3: 2012
+konf_INFOTEH: 2: 2012
+konf_INFOTEH: 2: 2013
+konf_INFOTEH: 2: 2013
+konf_INFOTEH: 2: 2013
+konf_INFOTEH: 1: 2013
+konf_INFOTEH: 2: 2013
+konf_INFOTEH: 2: 2013
+konf_INFOTEH: 1: 2013
+konf_INFOTEH: 2: 2013
+konf_INFOTEH: 2: 2013
+konf_INFOTEH: 2: 2013
+konf_INFOTEH: 1: 2013
+konf_INFOTEH: 1: 2014
+konf_INFOTEH: 1: 2014
+konf_INFOTEH: 3: 2014
+konf_INFOTEH: 2: 2014
+konf_INFOTEH: 2: 2014
+konf_INFOTEH: 1: 2014
+konf_INFOTEH: 4: 2014
+konf_INFOTEH: 2: 2014
+konf_INFOTEH: 1: 2014
+konf_INFOTEH: 3: 2014
+konf_INFOTEH: 1: 2014
+konf_INFOTEH: 1: 2014
+konf_INFOTEH: 2: 2015
+konf_INFOTEH: 1: 2015
+konf_INFOTEH: 2: 2015
+konf_INFOTEH: 2: 2015
+konf_INFOTEH: 2: 2015
+konf_INFOTEH: 1: 2015
+konf_INFOTEH: 2: 2015
+konf_INFOTEH: 1: 2015
+konf_INFOTEH: 3: 2015
+konf_INFOTEH: 1: 2015
+konf_INFOTEH: 2: 2015
+konf_INFOTEH: 1: 2015
+konf_INFOTEH: 1: 2015
+konf_INFOTEH: 2: 2016
+konf_INFOTEH: 2: 2016
+konf_INFOTEH: 2: 2016
+konf_INFOTEH: 3: 2016
+konf_INFOTEH: 1: 2016
+konf_INFOTEH: 1: 2016
+konf_INFOTEH: 1: 2016
+konf_INFOTEH: 2: 2016
+konf_INFOTEH: 2: 2016
+konf_INFOTEH: 1: 2016
+konf_INFOTEH: 1: 2016
+konf_INFOTEH: 1: 2016
+konf_INFOTEH: 1: 2016
+konf_INTED: 1: 2012
+konf_INTED: 1: 2012
+konf_IPSI-2003: 2: 2003
+konf_ISAP 2012 - International Symposium on Antennas and Propagation: 2: 2012
+konf_ISCSM: 3: 2016
+konf_ISCSM: 2: 2016
+konf_ISSSTA: 2: 2000
+konf_ISSSTA: 2: 2000
+konf_ISSSTA: 2: 2002
+konf_IT Žabljak: 2: 2000
+konf_IT Žabljak: 2: 2001
+konf_IT Žabljak: 1: 2002
+konf_IT Žabljak: 2: 2003
+konf_IT Žabljak: 2: 2004
+konf_IT Žabljak: 2: 2004
+konf_IT Žabljak: 4: 2007
+konf_IV International Symposium Power Plants: 2: 2012
+konf_IV naučni skup Mreža" (zbornik radova)": 2: 2013
+konf_Indel: 3: 2008
+konf_Indel: 3: 2010
+konf_Indel: 3: 2010
+konf_Indel: 3: 2010
+konf_Indel: 1: 2010
+konf_Indel: 2: 2012
+konf_Indel: 1: 2012
+konf_Indel: 1: 2012
+konf_Indel: 1: 2012
+konf_Indel: 3: 2012
+konf_Indel: 1: 2012
+konf_Indel: 1: 2012
+konf_Indel: 1: 2014
+konf_Indel: 2: 2016
+konf_Indel: 1: 2016
+konf_Indel: 2: 2016
+konf_Informacione Tehnologije: 2: 2004
+konf_Informacione Tehnologije: 2: 2005
+konf_Informacione Tehnologije: 3: 2005
+konf_Informacione Tehnologije: 1: 2015
+konf_Informacione Tehnologije: 1: 2016
+konf_Informacione Tehnologije: 1: 2016
+konf_Informatics'2013 - International Scientific Conference on Informatics: 2: 2013
+konf_Int. Conf. Acoustics’08: 1: 2008
+konf_Int. Conf. Acoustics’08: 1: 2008
+konf_Int. Conf. on Applied linguistics: 1: 2009
+konf_Int. Conf. on Applied linguistics: 1: 2009
+konf_Int. Conf. on Applied linguistics: 1: 2009
+konf_Int. Symp. on Electronics and Telecomm. ISETC 2012, Timisoara, Nov. 15-16, 2012.: 1: 2012
+konf_Intelligent Systems (IS), 2012 6th IEEE International Conference: 2: 2012
+konf_International  Scientific  Conference UNITECH'11: 1: 2011
+konf_International Conference Mathematical and Informational Technologies, MIT-2011: 1: 2011
+konf_International Conference for Geometry and Engineering Graphics: 1: 2008
+konf_International Conference for Geometry and Engineering Graphics: 2: 2010
+konf_International Conference for Geometry and Engineering Graphics: 1: 2010
+konf_International Conference for Geometry and Engineering Graphics: 1: 2012
+konf_International Conference for Geometry and Engineering Graphics: 1: 2012
+konf_International Conference for Geometry and Engineering Graphics: 1: 2012
+konf_International Conference for Geometry and Engineering Graphics: 1: 2012
+konf_International Conference of Numerical Analysis and Applied Mathematics: 2: 2010
+konf_International Conference on Advanced Control and Diagnosis - ACD 2011: 4: 2011
+konf_International Conference on Applied Electromagnetic -PES 2011,, 2011, pp.: 2: 2011
+konf_International Conference on Computational and Experimental Science and Engineering (ICCESEN 2014): 3: 2014
+konf_International Conference on Electrical, Electronic and Computing Engineering: 1: 2015
+konf_International Conference on Electrical, Electronic and Computing Engineering: 2: 2015
+konf_International Conference on Environment and Electrical Engineering (EEEIC): 1: 2011
+konf_International Conference on Fractional Differentiation and its Applications: 1: 2016
+konf_International Conference on Fractional Differentiation and its Applications: 1: 2016
+konf_International Conference on Fractional Differentiation and its Applications: 1: 2016
+konf_International Conference on Fractional Differentiation and its Applications: 2: 2016
+konf_International Conference on Fractional Differentiation and its Applications: 1: 2016
+konf_International Conference on Lightning Protection 2010: 2: 2010
+konf_International Conference on Lightning Protection 2012: 4: 2012
+konf_International Conference on Microelectronics, Devices and Materials (MIDEM): 1: 2009
+konf_International Conference on Numerical Simulation of Optoelectronic Devices: 2: 2005
+konf_International Conference on Spoken Language Processing, ICSLP-2004: 1: 2004
+konf_International Congress on Acoustics: 2: 2001
+konf_International Congress on Acoustics: 1: 2001
+konf_International Congress on Acoustics: 1: 2007
+konf_International Congress on Acoustics: 2: 2007
+konf_International Congress on Acoustics: 2: 2007
+konf_International Electrotechnical and Computer Science Conference: 1: 2012
+konf_International Electrotechnical and Computer Science Conference: 1: 2012
+konf_International Electrotechnical and Computer Science Conference: 1: 2012
+konf_International Electrotechnical and Computer Science Conference: 4: 2013
+konf_International Electrotechnical and Computer Science Conference: 3: 2013
+konf_International Federation for Medical and Biological Engineering Proceedings: 1: 2012
+konf_International Linear Collider Workshop 2007, Hamburg 30/05/2007 – 03/06/2007: 1: 2007
+konf_International Radar Symposium-2005, Berlin, Sept.2005. Germany: 2: 2005
+konf_International Radar Symposium-2005, Sept. 2005. Berlin, Germany: 2: 2005
+konf_International School on Nonsinusoidal Currents and Compensation (ISNCC): 2: 2010
+konf_International Scientific Conference on Defensive Technologies, Belgrade, 6-7 October, 2011: 2: 2011
+konf_International Symposium on Power Electronics: 1: 2009
+konf_International Symposium on Power Electronics: 1: 2009
+konf_International Symposium on Power Electronics: 1: 2009
+konf_International Symposium on Power Electronics: 1: 2011
+konf_International Symposium on Power Electronics: 1: 2011
+konf_International Symposium on Power Electronics: 3: 2011
+konf_International Symposium on Power Electronics: 3: 2011
+konf_International Symposium on Power Electronics: 3: 2011
+konf_International Symposium on Power Electronics: 2: 2013
+konf_International Symposium on Power Electronics: 2: 2013
+konf_International Symposium on Power Electronics: 3: 2013
+konf_International Symposium on Power Electronics: 1: 2013
+konf_International Symposium on Power Electronics: 2: 2013
+konf_International Symposium on Power Electronics: 2: 2015
+konf_International Symposium on Power Electronics: 2: 2015
+konf_International Symposium on Power Electronics: 2: 2015
+konf_International Symposium on Power Electronics: 2: 2015
+konf_International Symposium on Power Electronics: 2: 2015
+konf_International Symposium on Power Electronics: 2: 2015
+konf_International Symposium on Power Electronics: 3: 2015
+konf_International Symposium on Power Electronics: 1: 2015
+konf_International Symposium on Power Electronics, Ee 2009: 1: 2009
+konf_International Workshop on Recent Advances in Sliding Modes (RASM): 2: 2015
+konf_International scientific conference UNITECH ’12: 3: 2012
+konf_Internoise: 2: 2013
+konf_Internoise: 2: 2013
+konf_Jezik struke izazovi i perspektive: 1: 2011
+konf_Jezik struke izazovi i perspektive: 1: 2011
+konf_Jezik struke teorija i  praksa. Zbornik radova: 1: 2009
+konf_Jezik, književnost, komunikacija: 1: 2012
+konf_Jezik, književnost, vrednosti: 1: 2013
+konf_Jubilarno savetovanje o elektrodistributivnim mreţama Srbije sa regionalnim učešćem: 1: 2016
+konf_Language for Specific Purposes, Conference Proceedings: 1: 2007
+konf_Linguistique Appliquee aujourd'hui entre la theorie et la pratique: 1: 2011
+konf_MAREN: 3: 2010
+konf_MAREN: 3: 2010
+konf_MAREN: 3: 2012
+konf_MIPRO: 3: 2012
+konf_MIPRO: 1: 2012
+konf_MIPRO: 3: 2012
+konf_MIPRO: 1: 2015
+konf_MKOIEE: 2: 2013
+konf_MKOIEE: 2: 2013
+konf_MKOIEE: 2: 2013
+konf_MKOIEE: 2: 2013
+konf_MKOIEE: 1: 2013
+konf_MODELSWARD: 1: 2015
+konf_MODELSWARD: 2: 2015
+konf_MedPower: 1: 2002
+konf_MedPower: 1: 2002
+konf_MedPower: 1: 2008
+konf_MedPower: 1: 2011
+konf_MedPower: 2: 2014
+konf_MedPower: 2: 2016
+konf_MedPower: 3: 2016
+konf_MedPower: 2: 2016
+konf_MedPower: 3: 2016
+konf_MedPower: 2: 2016
+konf_MedPower: 3: 2016
+konf_MedPower: 2: 2016
+konf_MedPower: 2: 2016
+konf_Međunarodni kongres o grejanju, hlađenju i klimatizaciji: 1: 2011
+konf_Međunarodni naučni skup FILOLOŠKA ISTRAŽIVANJA DANAS - jezik, književnost, kultura - FID 2010: 1: 2010
+konf_Međunarodno savetovanje Energetika 2015: 1: 2015
+konf_Međunarodno savetovanje Rizik i bezbednosni inženjering: 1: 2012
+konf_NEUREL: 3: 2000
+konf_NEUREL: 2: 2002
+konf_NEUREL: 1: 2002
+konf_NEUREL: 1: 2004
+konf_NEUREL: 2: 2006
+konf_NEUREL: 1: 2006
+konf_NEUREL: 1: 2008
+konf_NEUREL: 1: 2008
+konf_NEUREL: 1: 2010
+konf_NEUREL: 2: 2010
+konf_NEUREL: 2: 2010
+konf_NEUREL: 1: 2010
+konf_NEUREL: 1: 2010
+konf_NEUREL: 1: 2010
+konf_NEUREL: 2: 2010
+konf_NEUREL: 2: 2012
+konf_NEUREL: 2: 2012
+konf_NEUREL: 2: 2012
+konf_NEUREL: 2: 2012
+konf_NEUREL: 2: 2012
+konf_NEUREL: 2: 2012
+konf_NEUREL: 2: 2012
+konf_NEUREL: 1: 2012
+konf_NEUREL: 1: 2012
+konf_NEUREL: 2: 2012
+konf_NEUREL: 1: 2012
+konf_NEUREL: 2: 2014
+konf_NEUREL: 1: 2014
+konf_NEUREL: 2: 2014
+konf_NEUREL: 3: 2014
+konf_NEUREL: 2: 2014
+konf_NEUREL: 1: 2014
+konf_NEUREL: 1: 2014
+konf_NEUREL: 1: 2014
+konf_NEUREL: 1: 2014
+konf_NEUREL: 1: 2014
+konf_NEUREL: 2: 2016
+konf_NEUREL: 2: 2016
+konf_NEUREL: 1: 2016
+konf_NEUREL: 2: 2016
+konf_Naučno-stručni simpozijum Energetska Efiksanost (ENEF): 2: 2013
+konf_Nema: 2: 2002
+konf_Nema: 2: 2003
+konf_Nema: 1: 2003
+konf_Nema: 2: 2004
+konf_Nema: 2: 2004
+konf_Nema: 2: 2005
+konf_Nema: 2: 2005
+konf_Nema: 3: 2007
+konf_Nema: 2: 2007
+konf_Nema: 4: 2008
+konf_Nema: 2: 2009
+konf_Nema: 1: 2009
+konf_Nema: 2: 2010
+konf_Nema: 1: 2010
+konf_Nema: 1: 2010
+konf_Nema: 3: 2010
+konf_Nema: 2: 2010
+konf_Nema: 1: 2011
+konf_Nema: 2: 2011
+konf_Nema: 1: 2011
+konf_Nema: 2: 2011
+konf_Nema: 1: 2011
+konf_Nema: 2: 2011
+konf_Nema: 2: 2011
+konf_Nema: 2: 2011
+konf_Nema: 2: 2012
+konf_Nema: 2: 2012
+konf_Nema: 2: 2012
+konf_Nema: 2: 2012
+konf_Nema: 1: 2012
+konf_Nema: 2: 2012
+konf_Nema: 1: 2012
+konf_Nema: 2: 2012
+konf_Nema: 2: 2012
+konf_Nema: 2: 2012
+konf_Nema: 3: 2012
+konf_Nema: 2: 2012
+konf_Nema: 2: 2012
+konf_Nema: 2: 2012
+konf_Nema: 4: 2013
+konf_Nema: 3: 2013
+konf_Nema: 4: 2013
+konf_Nema: 1: 2013
+konf_Nema: 1: 2013
+konf_Nema: 1: 2013
+konf_Nema: 2: 2014
+konf_Nema: 2: 2014
+konf_Nema: 1: 2014
+konf_Nema: 2: 2014
+konf_Nema: 3: 2014
+konf_Nema: 3: 2014
+konf_Nema: 1: 2014
+konf_Nema: 3: 2015
+konf_Nema: 3: 2015
+konf_Nema: 3: 2015
+konf_Nema: 3: 2015
+konf_Nema: 3: 2015
+konf_Nema: 2: 2015
+konf_Nema: 3: 2015
+konf_Nema: 2: 2015
+konf_Nema: 3: 2015
+konf_Nema: 4: 2016
+konf_Nema: 3: 2016
+konf_Nema: 2: 2016
+konf_Nema: 3: 2016
+konf_Nema: 1: 2016
+konf_Nema: 1: 2016
+konf_Nema: 1: 2016
+konf_Nema: 1: 2016
+konf_Nema: 1: 2016
+konf_Neural Network Applications in Electrical Engineering: 2: 2012
+konf_Neural Network Applications in Electrical Engineering: 2: 2014
+konf_Neural Network Applications in Electrical Engineering: 2: 2014
+konf_OSDOC: 1: 2012
+konf_OSDOC: 1: 2012
+konf_OTEH: 1: 2009
+konf_OTEH: 2: 2009
+konf_OTEH: 1: 2009
+konf_OTEH: 2: 2011
+konf_OTEH: 2: 2012
+konf_OTEH: 1: 2012
+konf_OTEH: 1: 2016
+konf_OTEH: 2: 2016
+konf_On the Limits of Theory Papers on English Language and Literary Studies: 1: 2011
+konf_PIERS: 1: 2012
+konf_PIERS: 1: 2012
+konf_PIERS: 2: 2012
+konf_POSTEL: 2: 2004
+konf_POSTEL: 1: 2010
+konf_POSTEL: 2: 2010
+konf_POSTEL: 1: 2013
+konf_PROC. 29th INTERNATIONAL CONFERENCE ON MICROELECTRONICS (MIEL 2014), BELGRADE, SERBIA, 12-15 MAY, 2014: 4: 2014
+konf_PROC. 29th INTERNATIONAL CONFERENCE ON MICROELECTRONICS (MIEL 2014), BELGRADE, SERBIA, 12-15 MAY, 2014: 4: 2014
+konf_Photonics West: 1: 2007
+konf_Power Electronics Specialists Conference: 1: 2000
+konf_Power Electronics Specialists Conference: 1: 2000
+konf_Power Electronics and Motion Control: 1: 2000
+konf_Power Electronics and Motion Control: 1: 2000
+konf_Power Tech 2009: 1: 2009
+konf_Power turbines Europe 2013: 3: 2013
+konf_PowerTech 2015, IEEE Conference: 3: 2015
+konf_Primenjena lingvistika danas - između teorije i prakse: 1: 2009
+konf_Proc of the 5th ICGG conference moNGeometrija 2016: 2: 2016
+konf_Proc. 10th IFAC Symposium on Robot Control (SYROCO 2012): 1: 2012
+konf_Proc. 10th IFAC Symposium on Robot Control (SYROCO 2012): 2: 2012
+konf_Proc. 2012 IEEE Multi-conference on Systems and Control (IEEE MSC 2012): 2: 2012
+konf_Proc. 2nd Int. Conf. Fundam. & Appl. Aspects of Speech and Language Speech and Language 2004", Editors S. Jovičić, M. Sovilj": 1: 2005
+konf_Proc. 2nd Int. Conf. Fundam. & Appl. Aspects of Speech and Language Speech and Language 2004", Editors S. Jovičić, M. Sovilj": 1: 2005
+konf_Proc. 2nd Int. Workshop on Knowledge Federation, Dubrovnik, Croatia, 2010, D. Karabeg, J. Park, eds.: 1: 2011
+konf_Proc. 3rd Int. Multi-Conf. IS'2000 New Science of Consciousness: 1: 2000
+konf_Proc. 3rd Int. Multi-Conf. IS'2000 New Science of Consciousness: 1: 2000
+konf_Proc. 6th Int. Multi-Conf. IS’2003 Mind-Body Studies: 1: 2003
+konf_Proc. International Joint Conference on Computational Intelligence (CFP IJCCI 2012): 2: 2012
+konf_Proc. Meet. Ideas of Nikola Tesla, Editor D. Mirjanić: 1: 2006
+konf_Proc. Of the 2008 IEEE international conference on ultra-wideband (ICUWB2008), VOL.1.,10-12 Sept. 2008: 1: 2008
+konf_Proc. Of the 4th Karlsruhe Workshop on Software Radios WSR’06, Karlsruhe, Germany, March 22/23 2006,: 1: 2006
+konf_Proc. Round Table Knowledge Federation Dialog Belgrade 2011 Partial Versus Holistic Oriented Approaches, Symp. Quantum-Informational Medicine QIM 2011, Editors D. Karabeg, D. Raković, S. Arandjelović, M. Mićović: 1: 2011
+konf_Proc. Round Table Knowledge Federation Dialog Belgrade 2011 Partial Versus Holistic Oriented Approaches, Symp. Quantum-Informational Medicine QIM 2011, Editors D. Karabeg, D. Raković, S. Arandjelović, M. Mićović: 1: 2011
+konf_Proc. Speech and Language", Editors M. Sovilj, P. Marković, S. Jovičić, A. Kostić, D. Raković": 1: 2003
+konf_Proc. Symp. Quantum-Informational Medicine QIM 2011 Acupuncture-Based and Consciousness-Based Holistic Approaches and Techniques, Editors D. Raković, S. Arandjelović, M. Mićović: 1: 2011
+konf_Proc. Symp. Quantum-Informational Medicine QIM 2011 Acupuncture-Based and Consciousness-Based Holistic Approaches and Techniques, Editors D. Raković, S. Arandjelović, M. Mićović: 1: 2011
+konf_Proc. of  European Wind Energy Association (EWEA 2012): 2: 2012
+konf_Proc. of 11th International OFDM-Workshop 2006 (InOWo'06) August 30th - 31st, Hamburg, Germany: 1: 2006
+konf_Proc. of 6th International Syimposium Nikola Tesla: 1: 2006
+konf_Proc. of 6th International Syimposium Nikola Tesla: 2: 2006
+konf_Proc. of USNC/URSI: 1: 2011
+konf_Proc. of WPMC 2006, San Diego, USA, Sept. 17-20, 2006. P2-7: 1: 2006
+konf_Proc. of the 19th International Conference on Systams,Signals and Image Processing IWSSIP 2012, Viena 11-13.April 2012,: 1: 2012
+konf_Proc. of the 2nd Olympus International Conference on Supply Chains (ICSC 2012): 1: 2012
+konf_Proc. of the 34th Internatioanl Conference on Telecommunications and Signal Processing – TSP2011: 1: 2011
+konf_Proc. of the 34th International Conference on Telecommunications and Signal Processing – TSP2011: 1: 2011
+konf_Proc. of the 4th Berlin Beamformer Conference BeBeC-2012-4,22-23.02.2012., Berlin: 1: 2012
+konf_Proc. of the 6th International Quality Conference: 1: 2012
+konf_Proc. of the 6th International Quality Conference: 1: 2012
+konf_Proc. of the CENTERIS 2009 Conference on ENTERprise Information Systems – CENTERIS: 1: 2009
+konf_Proc. of the X NEUREL, Belgrade: 1: 2014
+konf_Proc. of the XV Int. Symposium on Theoretical Engineering – ISTET 2009: 1: 2009
+konf_Proc. of the eChallenges e-2009 Conference, 51: 1: 2009
+konf_Proc.of 12th International OFDMWorkshop August 31st - September 1st 2007, Hamburg, Germany: 1: 2007
+konf_Proceedings II International Symposium Light Metals and Composite Materials: 1: 2004
+konf_Proceedings of 13th International Conference on Fundamental and Applied Aspects of Physical Chemistry (Physical Chemistry 2016): 1: 2016
+konf_Proceedings of 42nd European Microwave Conference (EuMC2012): 2: 2012
+konf_Proceedings of ITeO 2011: 1: 2011
+konf_Proceedings of International Conference ”Mathematical and Informational Technologies 2011”: 1: 2011
+konf_Proceedings of VI International Triennial Conference Heavy Machinery – HM’08, Kraljevo, 24.-29. June 2008: 1: 2008
+konf_Proceedings of the 18th International Conference on System Theory, Control and Computing: 1: 2014
+konf_Proceedings of the 2005 International Symposium on Wireless Personal Multimedia Communications. IWS 2005/ WPMC’05 - 18-22 September 2005, Aalborg, Denmark,: 1: 2005
+konf_Proceedings of the 2008 Topical Workshop on Electronics for Particle Physics, Naxos, Greece, 15 – 19 September 2008: 1: 2008
+konf_Proceedings of the ACACES (Advanced Computer Architecture and Compilation for Embedded Systems): 2: 2011
+konf_Proceedings of the Conference of the International Journal of Arts and Sciences: 3: 2013
+konf_Proceedings of the IEEE/ACM HPCA-02 Workshop on Computer Architecture Education: 2: 2002
+konf_Proceedings of the Sixth International Symposium Nikola Tesla: 2: 2006
+konf_Proceedings of the Small Systems Simulation Symposium: 3: 2014
+konf_Proceedings of the Small Systems Simulation Symposium: 2: 2014
+konf_Proceedings of the Small Systems Simulation Symposium: 6: 2016
+konf_Proceedings of the Universities Power Engineering Conference: 1: 2000
+konf_Proceedings of the international conference on Lasers 2001, december 3–7, 2001: 1: 2002
+konf_Proceedings of the international conference on Lasers 2001, december 3–7, 2001: 1: 2002
+konf_Proceedings of the15th International Society of Scientometrics and Informetrics Conference: 1: 2015
+konf_Progress In Electromagnetics Research Symposium Kuala Lumpur 2012: 3: 2012
+konf_Prva konferencija o obnovljivim izvorima elektricne energije: 1: 2011
+konf_Prva konferencija o obnovljivim izvorima električne energije: 3: 2011
+konf_Prvo savetovanje Sadašnjost i budućnost bezbednosti od požara: 2: 2008
+konf_Prvo savetovanje „Sadašnjost i budućnost bezbednosti od požara: 1: 2008
+konf_RAD Conference Proceedings, Vol. 1: 3: 2016
+konf_Remote Engineering and Virtual Instrumentation (REV), 2014 11th International Conference on: 4: 2014
+konf_SAUM: 3: 2010
+konf_SAUM: 3: 2010
+konf_SAUM: 1: 2012
+konf_SAUM: 2: 2012
+konf_SAUM: 4: 2016
+konf_SAUM: 4: 2016
+konf_SPECOM: 1: 2004
+konf_SPECOM: 1: 2004
+konf_SPECOM: 1: 2004
+konf_SPECOM: 1: 2006
+konf_SPECOM: 1: 2007
+konf_SPECOM: 1: 2007
+konf_SPECOM: 1: 2007
+konf_SPECOM: 1: 2011
+konf_SPECOM: 1: 2014
+konf_SSGRR: 1: 2002
+konf_SSGRR: 2: 2003
+konf_SSGRR: 1: 2003
+konf_SSSS 2016: 3: 2016
+konf_SYMOPSIS: 1: 2011
+konf_SYMOPSIS: 1: 2011
+konf_SYMOPSIS: 3: 2011
+konf_SYMOPSIS: 1: 2011
+konf_SYMOPSIS: 1: 2013
+konf_SYMOPSIS: 2: 2015
+konf_SYMOPSIS: 3: 2015
+konf_Savremena elektromašinska oprema i upravljanje sistemima vodovoda i kanalizacije: 2: 2004
+konf_Second Int’l Symposium on Constructing Software Engineering Tools (CoSET2000): 1: 2000
+konf_Second regional conference industrial energy and environmental protection: 1: 2012
+konf_Semiconductor Laser Conference (ISLC), 2012 23rd IEEE International: 4: 2012
+konf_Simpozijum Teorijski i praktični aspekti savremenih operacija: 1: 2004
+konf_Sinteza: 1: 2014
+konf_Sinteza: 1: 2014
+konf_Skup TRENDOVI RAZVOJA: 2: 2011
+konf_Skup TRENDOVI RAZVOJA: 1: 2012
+konf_Skup TRENDOVI RAZVOJA: 1: 2012
+konf_Skup TRENDOVI RAZVOJA: 2: 2013
+konf_Skup TRENDOVI RAZVOJA: 2: 2013
+konf_Skup TRENDOVI RAZVOJA: 2: 2014
+konf_Skup TRENDOVI RAZVOJA: 2: 2014
+konf_Skup TRENDOVI RAZVOJA: 5: 2014
+konf_Skup TRENDOVI RAZVOJA: 2: 2014
+konf_Skup TRENDOVI RAZVOJA: 1: 2015
+konf_Skup TRENDOVI RAZVOJA: 2: 2015
+konf_Skup TRENDOVI RAZVOJA: 3: 2015
+konf_Skup TRENDOVI RAZVOJA: 3: 2016
+konf_Skup TRENDOVI RAZVOJA: 1: 2016
+konf_Skup TRENDOVI RAZVOJA: 4: 2016
+konf_Skup TRENDOVI RAZVOJA: 2: 2016
+konf_Solar 2009- ASES (American Solar Energy Society) National Solar Conference: 1: 2009
+konf_Student Conference on Medical Engineering Science 2013: 1: 2013
+konf_Symposium on Neural Network Applications in Electrical Engineering, NEUREL 2014 - Proceedings: 1: 2014
+konf_TECHNICS AND INFORMATICS IN EDUCATION, 6th International Conference, Faculty of Technical Sciences: 1: 2016
+konf_TELEFOR: 1: 2011
+konf_TELEFOR: 2: 2013
+konf_TELFOR: 1: 2000
+konf_TELFOR: 2: 2000
+konf_TELFOR: 1: 2001
+konf_TELFOR: 3: 2001
+konf_TELFOR: 2: 2001
+konf_TELFOR: 2: 2001
+konf_TELFOR: 1: 2001
+konf_TELFOR: 2: 2002
+konf_TELFOR: 2: 2002
+konf_TELFOR: 4: 2003
+konf_TELFOR: 2: 2003
+konf_TELFOR: 2: 2004
+konf_TELFOR: 3: 2004
+konf_TELFOR: 2: 2005
+konf_TELFOR: 2: 2005
+konf_TELFOR: 2: 2005
+konf_TELFOR: 2: 2005
+konf_TELFOR: 2: 2005
+konf_TELFOR: 2: 2006
+konf_TELFOR: 3: 2006
+konf_TELFOR: 2: 2006
+konf_TELFOR: 2: 2007
+konf_TELFOR: 2: 2007
+konf_TELFOR: 2: 2007
+konf_TELFOR: 1: 2007
+konf_TELFOR: 3: 2008
+konf_TELFOR: 2: 2008
+konf_TELFOR: 1: 2008
+konf_TELFOR: 2: 2009
+konf_TELFOR: 3: 2009
+konf_TELFOR: 1: 2009
+konf_TELFOR: 2: 2009
+konf_TELFOR: 1: 2009
+konf_TELFOR: 2: 2009
+konf_TELFOR: 1: 2009
+konf_TELFOR: 1: 2009
+konf_TELFOR: 2: 2009
+konf_TELFOR: 1: 2010
+konf_TELFOR: 1: 2010
+konf_TELFOR: 1: 2010
+konf_TELFOR: 2: 2010
+konf_TELFOR: 2: 2010
+konf_TELFOR: 3: 2010
+konf_TELFOR: 2: 2010
+konf_TELFOR: 2: 2010
+konf_TELFOR: 1: 2010
+konf_TELFOR: 2: 2010
+konf_TELFOR: 2: 2010
+konf_TELFOR: 2: 2010
+konf_TELFOR: 1: 2010
+konf_TELFOR: 3: 2010
+konf_TELFOR: 2: 2010
+konf_TELFOR: 2: 2010
+konf_TELFOR: 1: 2011
+konf_TELFOR: 1: 2011
+konf_TELFOR: 2: 2011
+konf_TELFOR: 2: 2011
+konf_TELFOR: 2: 2011
+konf_TELFOR: 2: 2011
+konf_TELFOR: 2: 2011
+konf_TELFOR: 3: 2011
+konf_TELFOR: 1: 2011
+konf_TELFOR: 4: 2011
+konf_TELFOR: 2: 2011
+konf_TELFOR: 1: 2011
+konf_TELFOR: 1: 2011
+konf_TELFOR: 1: 2011
+konf_TELFOR: 1: 2011
+konf_TELFOR: 1: 2011
+konf_TELFOR: 1: 2011
+konf_TELFOR: 1: 2011
+konf_TELFOR: 2: 2011
+konf_TELFOR: 2: 2011
+konf_TELFOR: 2: 2011
+konf_TELFOR: 2: 2011
+konf_TELFOR: 2: 2011
+konf_TELFOR: 1: 2011
+konf_TELFOR: 2: 2011
+konf_TELFOR: 2: 2011
+konf_TELFOR: 1: 2011
+konf_TELFOR: 1: 2011
+konf_TELFOR: 1: 2011
+konf_TELFOR: 4: 2011
+konf_TELFOR: 1: 2011
+konf_TELFOR: 2: 2011
+konf_TELFOR: 3: 2011
+konf_TELFOR: 2: 2011
+konf_TELFOR: 1: 2011
+konf_TELFOR: 2: 2011
+konf_TELFOR: 1: 2011
+konf_TELFOR: 3: 2011
+konf_TELFOR: 1: 2011
+konf_TELFOR: 1: 2011
+konf_TELFOR: 1: 2011
+konf_TELFOR: 1: 2011
+konf_TELFOR: 1: 2011
+konf_TELFOR: 1: 2011
+konf_TELFOR: 1: 2011
+konf_TELFOR: 2: 2011
+konf_TELFOR: 1: 2012
+konf_TELFOR: 2: 2012
+konf_TELFOR: 1: 2012
+konf_TELFOR: 2: 2012
+konf_TELFOR: 1: 2012
+konf_TELFOR: 2: 2012
+konf_TELFOR: 2: 2012
+konf_TELFOR: 1: 2012
+konf_TELFOR: 2: 2012
+konf_TELFOR: 2: 2012
+konf_TELFOR: 2: 2012
+konf_TELFOR: 1: 2012
+konf_TELFOR: 2: 2012
+konf_TELFOR: 1: 2012
+konf_TELFOR: 1: 2012
+konf_TELFOR: 1: 2012
+konf_TELFOR: 1: 2012
+konf_TELFOR: 2: 2012
+konf_TELFOR: 2: 2012
+konf_TELFOR: 1: 2012
+konf_TELFOR: 2: 2012
+konf_TELFOR: 2: 2012
+konf_TELFOR: 2: 2012
+konf_TELFOR: 2: 2012
+konf_TELFOR: 1: 2012
+konf_TELFOR: 1: 2012
+konf_TELFOR: 1: 2012
+konf_TELFOR: 1: 2012
+konf_TELFOR: 2: 2012
+konf_TELFOR: 2: 2012
+konf_TELFOR: 1: 2012
+konf_TELFOR: 2: 2012
+konf_TELFOR: 2: 2012
+konf_TELFOR: 2: 2012
+konf_TELFOR: 2: 2012
+konf_TELFOR: 1: 2012
+konf_TELFOR: 1: 2012
+konf_TELFOR: 1: 2012
+konf_TELFOR: 1: 2012
+konf_TELFOR: 2: 2012
+konf_TELFOR: 2: 2013
+konf_TELFOR: 2: 2013
+konf_TELFOR: 2: 2013
+konf_TELFOR: 2: 2013
+konf_TELFOR: 2: 2013
+konf_TELFOR: 1: 2013
+konf_TELFOR: 1: 2013
+konf_TELFOR: 2: 2013
+konf_TELFOR: 2: 2013
+konf_TELFOR: 2: 2013
+konf_TELFOR: 2: 2013
+konf_TELFOR: 1: 2013
+konf_TELFOR: 1: 2013
+konf_TELFOR: 1: 2013
+konf_TELFOR: 1: 2013
+konf_TELFOR: 1: 2013
+konf_TELFOR: 1: 2013
+konf_TELFOR: 1: 2013
+konf_TELFOR: 2: 2013
+konf_TELFOR: 1: 2013
+konf_TELFOR: 1: 2013
+konf_TELFOR: 2: 2013
+konf_TELFOR: 1: 2013
+konf_TELFOR: 2: 2013
+konf_TELFOR: 1: 2013
+konf_TELFOR: 2: 2013
+konf_TELFOR: 2: 2014
+konf_TELFOR: 2: 2014
+konf_TELFOR: 3: 2014
+konf_TELFOR: 2: 2014
+konf_TELFOR: 1: 2014
+konf_TELFOR: 4: 2014
+konf_TELFOR: 2: 2014
+konf_TELFOR: 2: 2014
+konf_TELFOR: 1: 2014
+konf_TELFOR: 1: 2014
+konf_TELFOR: 1: 2014
+konf_TELFOR: 2: 2014
+konf_TELFOR: 1: 2014
+konf_TELFOR: 3: 2014
+konf_TELFOR: 1: 2014
+konf_TELFOR: 2: 2014
+konf_TELFOR: 3: 2014
+konf_TELFOR: 3: 2014
+konf_TELFOR: 3: 2014
+konf_TELFOR: 2: 2014
+konf_TELFOR: 3: 2014
+konf_TELFOR: 2: 2015
+konf_TELFOR: 3: 2015
+konf_TELFOR: 3: 2015
+konf_TELFOR: 1: 2015
+konf_TELFOR: 1: 2015
+konf_TELFOR: 1: 2015
+konf_TELFOR: 2: 2015
+konf_TELFOR: 1: 2015
+konf_TELFOR: 1: 2015
+konf_TELFOR: 2: 2015
+konf_TELFOR: 2: 2015
+konf_TELFOR: 1: 2016
+konf_TELFOR: 2: 2016
+konf_TELFOR: 2: 2016
+konf_TELFOR: 3: 2016
+konf_TELFOR: 4: 2016
+konf_TELFOR: 1: 2016
+konf_TELFOR: 1: 2016
+konf_TELFOR: 1: 2016
+konf_TELFOR: 3: 2016
+konf_TELSIKS: 2: 2003
+konf_TELSIKS: 1: 2007
+konf_TELSIKS: 2: 2009
+konf_TELSIKS: 2: 2009
+konf_TELSIKS: 1: 2009
+konf_TELSIKS: 2: 2011
+konf_TELSIKS: 2: 2011
+konf_TELSIKS: 3: 2011
+konf_TELSIKS: 2: 2011
+konf_TELSIKS: 2: 2011
+konf_TELSIKS: 2: 2011
+konf_TELSIKS: 2: 2011
+konf_TELSIKS: 1: 2011
+konf_TELSIKS: 1: 2011
+konf_TELSIKS: 1: 2011
+konf_TELSIKS: 1: 2011
+konf_TELSIKS: 1: 2011
+konf_TELSIKS: 1: 2011
+konf_TELSIKS: 1: 2011
+konf_TELSIKS: 2: 2011
+konf_TELSIKS: 2: 2011
+konf_TELSIKS: 1: 2011
+konf_TELSIKS: 2: 2012
+konf_TELSIKS: 2: 2013
+konf_TELSIKS: 3: 2013
+konf_TELSIKS: 1: 2013
+konf_TELSIKS: 1: 2013
+konf_TELSIKS: 2: 2013
+konf_TELSIKS: 2: 2015
+konf_Taktons 2013: 2: 2013
+konf_Tehnika: 2: 2011
+konf_Tehnika: 1: 2013
+konf_Telekomunikacije - Stručno-naučni časopis Republičke agencije za elektronske komunikacije: 3: 2012
+konf_The 15th IASTED International Conference on Robotics and Applications: 2: 2010
+konf_The 19th Mediterranean Conference on Control and Automation: 2: 2011
+konf_The 2007 Europhysics Conference on High Energy Physics, Manchester: 1: 2007
+konf_The 2nd IASTED International Conference on Robotics (Robo 2011): 2: 2011
+konf_The 35th ASME Mechanisms and Robotics Conference: 3: 2011
+konf_The International Conference on Computer as a Tool"": 1: 2005
+konf_The International Conference on Renewable Energy and Power Quality (ICREPQ´11): 2: 2011
+konf_The Java Pathfinder Workshop: 1: 2011
+konf_The Mediterranean Conference on Power Generation, Transmission, Distribution and Energy Conversion: 3: 2016
+konf_The Second International Conference on Renewable Electrical Power Sources: 2: 2013
+konf_Third European Congress on Early Prevention, Detection and Diagnostics of Verbal Communication Disorders: 1: 2010
+konf_Treća  međunarodna konferencija o upravljanju zaštitom okoline (Energetska efikasnost u energetici): 1: 2004
+konf_UNESCO Sponsored 8th Conf. On Sustainable Development of Energy, Water and Environment System, Sept. 22-2: 1: 2013
+konf_URSI National Radio Science Meeting: 2: 2011
+konf_URSI National Radio Science Meeting: 2: 2011
+konf_URSI National Radio Science Meeting: 1: 2011
+konf_URSI National Radio Science Meeting: 3: 2012
+konf_URSI National Radio Science Meeting: 2: 2012
+konf_URSI National Radio Science Meeting: 2: 2012
+konf_URSI National Radio Science Meeting: 2: 2012
+konf_URSI National Radio Science Meeting: 1: 2015
+konf_URSI National Radio Science Meeting: 1: 2015
+konf_URSI National Radio Science Meeting: 1: 2015
+konf_URSI National Radio Science Meeting: 1: 2015
+konf_VDE-Hochspannungstechnik 2016 ∙ 14.-16.11.2016 in Berlin: 1: 2016
+konf_Voicing the Alternative Essays in Language and Literary Studies: 1: 2012
+konf_WSEAS: 1: 2002
+konf_WSEAS: 1: 2002
+konf_WSEAS: 2: 2003
+konf_WSEAS: 2: 2004
+konf_WSEAS: 1: 2009
+konf_WSEAS: 1: 2011
+konf_WSEAS: 1: 2011
+konf_WSEAS: 1: 2012
+konf_Water Water Supply  Sanitary Technology: 2: 2006
+konf_Wind Europe Summit 2016: 2: 2016
+konf_Workshop Tesla and the Nature of Creativity 2015, organized within 1st Int. Congress Nikola Tesla The History of the Future, April 24-26, Belgrade, Proceedings in press: 1: 2015
+konf_Workshop on High Performance Switching and Routing: 2: 2009
+konf_Workshop on High Performance Switching and Routing: 1: 2009
+konf_Workshop on High Performance Switching and Routing: 2: 2011
+konf_Workshop on High Performance Switching and Routing: 3: 2012
+konf_Workshop on High Performance Switching and Routing: 1: 2012
+konf_Workshop on High Performance Switching and Routing: 1: 2012
+konf_World Academic Scientific Engineering and Technology  Conference: 1: 2009
+konf_X Jubilarno savetovanje o elektrodistributivnim mreţama Srbije sa regionalnim uĉešćem: 1: 2016
+konf_X jubilarno savetovanje o elektrodistributivnim mrežama Srbije sa regionalnim učešćem CIRED 2016: 2: 2016
+konf_X međunarodni simpozijum ISTRAŽIVANJA I PROJEKTOVANJA ZA PRIVREDU: 3: 2014
+konf_XII Int. Symp. on Theoretical Electrical Eng. (ISTET-03): 3: 2003
+konf_XIII International symposium SymOrg 2012"": 1: 2012
+konf_XIX International Conference on Electrical Machines ICEM 2010: 3: 2010
+konf_XVI International Symposium of the Power Electronics: 2: 2012
+konf_XXXVIII Simpozijum o operacionim istraživanjima, XXXVIII Simpozijum o operacionim istraživanjima: 1: 2011
+konf_YuInfo: 1: 2002
+konf_YuInfo: 2: 2003
+konf_YuInfo: 2: 2006
+konf_YuInfo: 1: 2008
+konf_YuInfo: 1: 2008
+konf_YuInfo: 1: 2009
+konf_YuInfo: 1: 2010
+konf_YuInfo: 2: 2010
+konf_YuInfo: 2: 2010
+konf_YuInfo: 1: 2011
+konf_YuInfo: 1: 2012
+konf_YuInfo: 2: 2012
+konf_YuInfo: 1: 2012
+konf_YuInfo: 1: 2012
+konf_YuInfo: 3: 2012
+konf_YuInfo: 1: 2012
+konf_YuInfo: 2: 2012
+konf_YuInfo: 3: 2013
+konf_YuInfo: 4: 2013
+konf_YuInfo: 3: 2013
+konf_YuInfo: 2: 2013
+konf_YuInfo: 2: 2013
+konf_YuInfo: 2: 2013
+konf_YuInfo: 1: 2014
+konf_YuInfo: 2: 2014
+konf_YuInfo: 2: 2015
+konf_YuInfo: 3: 2015
+konf_YuInfo: 3: 2015
+konf_YuInfo: 1: 2016
+konf_YuInfo: 3: 2016
+konf_YuInfo: 2: 2016
+konf_YuInfo: 3: 2016
+konf_ZBORNIK RADOVA 15. SIMPOZIJUMA - UPRAVLJANJE I TELEKOMUNIKACIJE U ELEKTROENERGETSKOM SISTEMU, RD2 03: 1: 2012
+konf_ZINC: 1: 2016
+konf_Zbornik radova 6th Balcan Power Conference: 2: 2006
+konf_Zbornik radova III Međunarodne konferencije STRANI JEZIK STRUKE prošlost, sadašnjost, budućnost: 2: 2015
+konf_Zbornik radova IV Internacionalnog Simpozijuma Elektrane 2010- društvo termičara Srbije: 2: 2010
+konf_Zbornik radova IV Internacionalnog Simpozijuma Elektrane 2010- društvo termičara Srbije: 2: 2010
+konf_Zbornik radova Satelitski simpozijum epoha kvanta 100 godina od otkrića kvanta", D. Mirjanić, ed.": 1: 2001
+konf_Zbornik radova Savjetovanje iz biofizike", D. Mirjanić, ed.": 1: 2001
+konf_Zbornik radova Savremeni materijali’08: 1: 2008
+konf_Zbornik radova Simpozijuma matematika i primene, Matematički fakultet: 1: 2011
+konf_Zbornik radova Simpozijuma matematika i primene, Matematički fakultet: 2: 2011
+konf_Zbornik radova Simpozijuma matematika i primene, Matematički fakultet: 3: 2012
+konf_Zbornik radova Tesla vizije, delo, život", M. Benišek, Đ. Koruga. S. Pokrajac, eds.": 1: 2007
+konf_Zbornik radova XII Kongres fizičara Srbije, Vrnjačka banja 2013: 3: 2013
+konf_Zbornik radova XII Kongres fizičara Srbije, Vrnjačka banja 2013: 3: 2013
+konf_Zbornik radova XV Međunarodnog  simpozijuma Energetska elektronika – Ee 2009: 3: 2009
+konf_Zbornik radova XV Međunarodnog simpozijuma Energetska elektronika – Ee 2009: 3: 2009
+konf_Zbornik radova sa Međunarodnog simpozijuma iz oblasti celuloze, papira, ambalaže i grafike CPA&G: 3: 2009
+konf_Zbornik radova sa Međunarodnog simpozijuma iz oblasti celuloze, papira, ambalaže i grafike CPA&G: 3: 2010
+konf_Zbornik radova sa Međunarodnog simpozijuma iz oblasti celuloze, papira, ambalaže i grafike CPA&G: 3: 2011
+konf_Zbornik radova sa Međunarodnog simpozijuma iz oblasti celuloze, papira, ambalaže i grafike CPA&G: 2: 2012
+konf_Zbornik radova sa Međunarodnog simpozijuma iz oblasti celuloze, papira, ambalaže i grafike CPA&G: 3: 2012
+konf_Zbornik radova sa Međunarodnog simpozijuma iz oblasti celuloze, papira, ambalaže i grafike CPA&G: 2: 2013
+konf_Zbornik radova sa Međunarodnog simpozijuma iz oblasti celuloze, papira, ambalaže i grafike CPA&G: 3: 2015
+konf_Zbornik radova sa Međunarodnog simpozijuma iz oblasti celuloze, papira, ambalaže i grafike CPA&G: 2: 2016
+konf_Zbornik radova – naučni skup nacionalnog značaja Jugoslovensko savetovanje za nacrtnu geometriju i inženjersku grafiku: 1: 2002
+konf_Zbornik radova – naučni skup nacionalnog značaja Jugoslovensko savetovanje za nacrtnu geometriju i inženjersku grafiku: 1: 2004
+konf_Zbornik radova “Nauka-Religija-Društvo”, V. Jerotić, Đ. Koruga, D. Raković, eds.: 1: 2002
+konf_Zbornik radova “Nauka-Religija-Društvo”, V. Jerotić, Đ. Koruga, D. Raković, eds.: 1: 2002
+konf_Zbornik radova, Elektrotehnički institut Nikola Tesla", Beograd": 1: 2012
+konf_in proceedings of 2013 IEEE International Conference on Consumer Electronics (ICCE): 1: 2013
+konf_matematička konferencija RS: 1: 2012
+konf_matematička konferencija RS: 1: 2012
+konf_matematička konferencija RS: 1: 2013
+konf_matematička konferencija RS: 1: 2013
+konf_matematička konferencija RS: 1: 2014
+konf_matematička konferencija RS: 1: 2014
+konf_of the 5th Balkan Conference in Informatics: 2: 2012
+konf_radionica fotonike: 3: 2013
+konf_radionica fotonike: 2: 2014
+konf_radionica fotonike: 3: 2015
+konf_savetovanje Energetska elektronika - Ee 2013: 2: 2013
+konf_Šesto savetovanje o elektrodistributivnim mrežama Srbije i Crne Gore, Juko CIRED: 1: 2008
+konf_“Arcibald Rais”, KPA: 1: 2011
+mag_ABSTRACT AND APPLIED ANALYSIS: 1: 2010
+mag_ABSTRACT AND APPLIED ANALYSIS: 1: 2010
+mag_ABSTRACT AND APPLIED ANALYSIS: 1: 2010
+mag_ABSTRACT AND APPLIED ANALYSIS: 1: 2011
+mag_ABSTRACT AND APPLIED ANALYSIS: 1: 2011
+mag_ABSTRACT AND APPLIED ANALYSIS: 1: 2012
+mag_ABSTRACT AND APPLIED ANALYSIS: 1: 2012
+mag_ABSTRACT AND APPLIED ANALYSIS: 1: 2012
+mag_ABSTRACT AND APPLIED ANALYSIS: 1: 2012
+mag_ABSTRACT AND APPLIED ANALYSIS: 1: 2012
+mag_ABSTRACT AND APPLIED ANALYSIS: 1: 2013
+mag_ABSTRACT AND APPLIED ANALYSIS: 1: 2013
+mag_ACM COMPUTING SURVEYS: 2: 2016
+mag_ACM SIGARCH COMPUTER ARCHITECTURE NEWS: 1: 2001
+mag_ACM SIGPLAN NOTICES: 2: 2000
+mag_ACM SIGSOFT SOFTWARE ENGINEERING NOTES: 1: 2000
+mag_ACTA ACUSTICA UNITED WITH ACUSTICA: 2: 2007
+mag_ACTA CHIRURGICA IUGOSLAVICA: 1: 2014
+mag_ACTA CHIRURGICA IUGOSLAVICA: 1: 2014
+mag_ACTA FISIATRICA: 1: 2008
+mag_ACTA NEUROCHIRURGICA: 1: 2007
+mag_ACTA PHYSICA POLONICA A: 1: 2005
+mag_ACTA PHYSICA POLONICA A: 2: 2007
+mag_ACTA PHYSICA POLONICA A: 1: 2007
+mag_ACTA PHYSICA POLONICA A: 3: 2007
+mag_ACTA PHYSICA POLONICA A: 2: 2009
+mag_ACTA PHYSICA POLONICA A: 2: 2009
+mag_ACTA PHYSICA POLONICA A: 2: 2009
+mag_ACTA PHYSICA POLONICA A: 2: 2009
+mag_ACTA PHYSICA POLONICA A: 2: 2009
+mag_ACTA PHYSICA POLONICA A: 2: 2009
+mag_ACTA PHYSICA POLONICA A: 3: 2009
+mag_ACTA PHYSICA POLONICA A: 1: 2009
+mag_ACTA PHYSICA POLONICA A: 1: 2009
+mag_ACTA PHYSICA POLONICA A: 3: 2010
+mag_ACTA PHYSICA POLONICA A: 3: 2010
+mag_ACTA PHYSICA POLONICA A: 2: 2010
+mag_ACTA PHYSICA POLONICA A: 2: 2010
+mag_ACTA PHYSICA POLONICA A: 1: 2010
+mag_ACTA PHYSICA POLONICA A: 1: 2010
+mag_ACTA PHYSICA POLONICA A: 1: 2011
+mag_ACTA PHYSICA POLONICA A: 4: 2011
+mag_ACTA PHYSICA POLONICA A: 2: 2011
+mag_ACTA PHYSICA POLONICA A: 2: 2011
+mag_ACTA PHYSICA POLONICA A: 3: 2015
+mag_AD HOC & SENSOR WIRELESS NETWORKS: 1: 2011
+mag_AD HOC & SENSOR WIRELESS NETWORKS: 3: 2014
+mag_AD HOC & SENSOR WIRELESS NETWORKS: 1: 2014
+mag_ADVANCED ROBOTICS THE INTERNATIONAL JOURNAL OF THE ROBOTICS SOCIETY OF JAPAN: 1: 2010
+mag_ADVANCED ROBOTICS THE INTERNATIONAL JOURNAL OF THE ROBOTICS SOCIETY OF JAPAN: 2: 2014
+mag_ADVANCES IN COMPUTERS: 2: 2013
+mag_ADVANCES IN COMPUTERS: 1: 2013
+mag_ADVANCES IN COMPUTERS: 2: 2014
+mag_ADVANCES IN COMPUTERS: 2: 2014
+mag_ADVANCES IN COMPUTERS: 1: 2015
+mag_ADVANCES IN COMPUTERS: 3: 2015
+mag_ADVANCES IN COMPUTERS: 2: 2015
+mag_ADVANCES IN COMPUTERS: 1: 2015
+mag_ADVANCES IN DIFFERENCE EQUATIONS: 1: 2010
+mag_ADVANCES IN DIFFERENCE EQUATIONS: 1: 2015
+mag_ADVANCES IN DIFFERENCE EQUATIONS: 1: 2015
+mag_ADVANCES IN DIFFERENCE EQUATIONS: 1: 2016
+mag_ADVANCES IN ELECTRICAL AND COMPUTER ENGINEERING: 1: 2009
+mag_ADVANCES IN ELECTRICAL AND COMPUTER ENGINEERING: 1: 2011
+mag_ADVANCES IN ELECTRICAL AND COMPUTER ENGINEERING: 3: 2013
+mag_ADVANCES IN ELECTRICAL AND COMPUTER ENGINEERING: 2: 2014
+mag_ADVANCES IN ELECTRICAL AND COMPUTER ENGINEERING: 1: 2015
+mag_ADVANCES IN ELECTRICAL AND COMPUTER ENGINEERING: 2: 2015
+mag_ADVANCES IN ELECTRICAL AND COMPUTER ENGINEERING: 1: 2015
+mag_AEU-INTERNATIONAL JOURNAL OF ELECTRONICS AND COMMUNICATIONS: 1: 2002
+mag_AEU-INTERNATIONAL JOURNAL OF ELECTRONICS AND COMMUNICATIONS: 1: 2002
+mag_AEU-INTERNATIONAL JOURNAL OF ELECTRONICS AND COMMUNICATIONS: 1: 2003
+mag_AEU-INTERNATIONAL JOURNAL OF ELECTRONICS AND COMMUNICATIONS: 1: 2006
+mag_AEU-INTERNATIONAL JOURNAL OF ELECTRONICS AND COMMUNICATIONS: 2: 2007
+mag_AEU-INTERNATIONAL JOURNAL OF ELECTRONICS AND COMMUNICATIONS: 2: 2010
+mag_AEU-INTERNATIONAL JOURNAL OF ELECTRONICS AND COMMUNICATIONS: 2: 2011
+mag_AEU-INTERNATIONAL JOURNAL OF ELECTRONICS AND COMMUNICATIONS: 1: 2011
+mag_AEU-INTERNATIONAL JOURNAL OF ELECTRONICS AND COMMUNICATIONS: 3: 2012
+mag_AEU-INTERNATIONAL JOURNAL OF ELECTRONICS AND COMMUNICATIONS: 1: 2012
+mag_AEU-INTERNATIONAL JOURNAL OF ELECTRONICS AND COMMUNICATIONS: 2: 2013
+mag_AEU-INTERNATIONAL JOURNAL OF ELECTRONICS AND COMMUNICATIONS: 1: 2013
+mag_AEU-INTERNATIONAL JOURNAL OF ELECTRONICS AND COMMUNICATIONS: 2: 2013
+mag_AEU-INTERNATIONAL JOURNAL OF ELECTRONICS AND COMMUNICATIONS: 1: 2014
+mag_AEU-INTERNATIONAL JOURNAL OF ELECTRONICS AND COMMUNICATIONS: 3: 2015
+mag_AKTUELNOSTI IZ NEUROLOGIJE, PSIHIJATRIJE I GRANIČNIH PODRUČJA: 2: 2005
+mag_AMERICAN JOURNAL OF ROENTGENOLOGY: 1: 2008
+mag_ANALOG INTEGRATED CIRCUITS AND SIGNAL PROCESSING: 2: 2014
+mag_ANALYTICAL SCIENCES: 2: 2001
+mag_ANALYTICAL SCIENCES: 1: 2001
+mag_ANALYTICAL SCIENCES: 1: 2001
+mag_ANNALES DES TELECOMMUNICATIONS-ANNALS OF TELECOMMUNICATIONS: 1: 2009
+mag_ANNALES DES TELECOMMUNICATIONS-ANNALS OF TELECOMMUNICATIONS: 1: 2009
+mag_ANNALES DES TELECOMMUNICATIONS-ANNALS OF TELECOMMUNICATIONS: 3: 2014
+mag_ANNALES DES TELECOMMUNICATIONS-ANNALS OF TELECOMMUNICATIONS: 3: 2015
+mag_ANNALES DES TELECOMMUNICATIONS-ANNALS OF TELECOMMUNICATIONS: 2: 2015
+mag_ANNALES DES TELECOMMUNICATIONS-ANNALS OF TELECOMMUNICATIONS: 1: 2015
+mag_ANNALS OF BIOMEDICAL ENGINEERING: 1: 2012
+mag_ANNALS OF GEOPHYSICS: 1: 2003
+mag_ANNALS OF NUCLEAR MEDICINE: 1: 2014
+mag_ANNALS OF THE ACADEMY OF STUDENICA: 2: 2001
+mag_ANNALS OF THE ACADEMY OF STUDENICA: 2: 2001
+mag_APPLICABLE ANALYSIS AND DISCRETE MATHEMATICS: 1: 2007
+mag_APPLICABLE ANALYSIS AND DISCRETE MATHEMATICS: 1: 2007
+mag_APPLICABLE ANALYSIS AND DISCRETE MATHEMATICS: 1: 2007
+mag_APPLICABLE ANALYSIS AND DISCRETE MATHEMATICS: 1: 2013
+mag_APPLIED ACOUSTICS: 1: 2005
+mag_APPLIED ACOUSTICS: 2: 2008
+mag_APPLIED ACOUSTICS: 2: 2013
+mag_APPLIED ACOUSTICS: 4: 2014
+mag_APPLIED COMPUTATIONAL ELECTROMAGNETICS SOCIETY JOURNAL: 3: 2012
+mag_APPLIED ENERGY: 1: 2002
+mag_APPLIED ENERGY: 2: 2014
+mag_APPLIED MATHEMATICAL MODELLING: 3: 2011
+mag_APPLIED MATHEMATICS AND COMPUTATION: 1: 2008
+mag_APPLIED MATHEMATICS AND COMPUTATION: 1: 2009
+mag_APPLIED MATHEMATICS AND COMPUTATION: 1: 2009
+mag_APPLIED MATHEMATICS AND COMPUTATION: 1: 2009
+mag_APPLIED MATHEMATICS AND COMPUTATION: 1: 2009
+mag_APPLIED MATHEMATICS AND COMPUTATION: 1: 2010
+mag_APPLIED MATHEMATICS AND COMPUTATION: 1: 2010
+mag_APPLIED MATHEMATICS AND COMPUTATION: 1: 2011
+mag_APPLIED MATHEMATICS AND COMPUTATION: 3: 2014
+mag_APPLIED MATHEMATICS AND COMPUTATION: 1: 2014
+mag_APPLIED MATHEMATICS AND COMPUTATION: 1: 2014
+mag_APPLIED MATHEMATICS AND COMPUTATION: 1: 2015
+mag_APPLIED MATHEMATICS AND COMPUTATION: 1: 2016
+mag_APPLIED MATHEMATICS LETTERS: 1: 2007
+mag_APPLIED MATHEMATICS LETTERS: 1: 2009
+mag_APPLIED MATHEMATICS LETTERS: 1: 2009
+mag_APPLIED MATHEMATICS LETTERS: 2: 2010
+mag_APPLIED MATHEMATICS LETTERS: 1: 2010
+mag_APPLIED MATHEMATICS LETTERS: 1: 2010
+mag_APPLIED MATHEMATICS LETTERS: 1: 2011
+mag_APPLIED PHYSICS LETTERS: 1: 2002
+mag_APPLIED PHYSICS LETTERS: 1: 2006
+mag_APPLIED PHYSICS LETTERS: 1: 2006
+mag_APPLIED PHYSICS LETTERS: 1: 2007
+mag_APPLIED PHYSICS LETTERS: 2: 2010
+mag_APPLIED PHYSICS LETTERS: 1: 2012
+mag_APPLIED PHYSICS LETTERS: 2: 2014
+mag_APPLIED PHYSICS LETTERS: 1: 2015
+mag_APPLIED PHYSICS. A, MATERIALS SCIENCE AND PROCESSING: 2: 2012
+mag_APPLIED PHYSICS. A, MATERIALS SCIENCE AND PROCESSING: 2: 2012
+mag_APPLIED RADIATION AND ISOTOPES: 1: 2013
+mag_ARCHIVE OF ONCOLOGY: 2: 2002
+mag_ARCHIVES OF PHYSICAL MEDICINE AND REHABILITATION: 2: 2005
+mag_ARS: 1: 2010
+mag_ARS COMBINATORIA: 1: 2009
+mag_ARS COMBINATORIA: 1: 2010
+mag_ARTIFICIAL LIFE: 2: 2013
+mag_ARTIFICIAL ORGANS: 2: 2002
+mag_ARTIFICIAL ORGANS: 2: 2005
+mag_ARTIFICIAL ORGANS: 2: 2009
+mag_ARTIFICIAL ORGANS: 1: 2010
+mag_ARTIFICIAL ORGANS: 1: 2011
+mag_ASSISTIVE TECHNOLOGY: 1: 2015
+mag_ASSOCIATION FOR COMPUTING MACHINERY. COMMUNICATIONS OF THE ACM: 1: 2013
+mag_ATMOSPHERIC RESEARCH: 3: 2012
+mag_ATMOSPHERIC RESEARCH: 3: 2014
+mag_AUTOMATICA: 2: 2007
+mag_AUTOMATICA: 1: 2008
+mag_AUTOMATICA: 1: 2009
+mag_AUTOMATICA: 2: 2011
+mag_AUTOMATIKA: 2: 2015
+mag_Advanced Materials Research: 2: 2014
+mag_Advanced Materials Research: 2: 2014
+mag_Annals of the Faculty of Engineering Hunedoara: 1: 2016
+mag_Applied Sciences: 2: 2015
+mag_BALNEOCLIMATOLOGIA: 1: 2014
+mag_BEZBEDNOST: 1: 2013
+mag_BIOELECTROMAGNETICS: 2: 2016
+mag_BIOELECTROMAGNETICS: 4: 2016
+mag_BIOINFORMATICS: 1: 2008
+mag_BIOMED RESEARCH INTERNATIONAL: 1: 2014
+mag_BIOMED RESEARCH INTERNATIONAL: 1: 2015
+mag_BIOMEDICAL ENGINEERING-APPLICATIONS BASIS COMMUNICATIONS: 1: 2014
+mag_BIOMEDICAL MICRODEVICES: 2: 2012
+mag_BIOMEDIZINISCHE TECHNIK: 1: 2013
+mag_BRAIN AND LANGUAGE: 1: 2015
+mag_BRAZILIAN JOURNAL OF MEDICAL AND BIOLOGICAL RESEARCH: 2: 2008
+mag_BRAZILIAN JOURNAL OF MEDICAL AND BIOLOGICAL RESEARCH: 1: 2010
+mag_BUILDING AND ENVIRONMENT: 1: 2009
+mag_BULETINUL STIINTIFIC AL UNIVERSITATII POLITEHNICA DIN TIMISOARA: 2: 2000
+mag_BULLETIN OF THE BELGIAN MATHEMATICAL SOCIETY-SIMON STEVIN: 1: 2008
+mag_BULLETIN OF THE POLISH ACADEMY OF SCIENCESTECHNICAL SCIENCES: 1: 2016
+mag_Bakar: 2: 2013
+mag_CANADIAN JOURNAL OF PHYSIOLOGY AND PHARMACOLOGY: 2: 2004
+mag_CARDIOLOGY: 1: 2012
+mag_CATHETERIZATION AND CARDIOVASCULAR INTERVENTIONS: 1: 2010
+mag_CELLULOSE CHEMISTRY AND TECHNOLOGY: 2: 2002
+mag_CELLULOSE CHEMISTRY AND TECHNOLOGY: 2: 2004
+mag_CERAMICS INTERNATIONAL: 1: 2013
+mag_CERAMICS INTERNATIONAL: 2: 2016
+mag_CERAMICS INTERNATIONAL: 1: 2016
+mag_CERAMICS INTERNATIONAL: 1: 2016
+mag_CHAOS SOLITONS & FRACTALS: 1: 2008
+mag_CHAOS SOLITONS & FRACTALS: 1: 2008
+mag_CHAOS SOLITONS & FRACTALS: 1: 2009
+mag_CHEMICAL PHYSICS LETTERS: 1: 2005
+mag_CHEMICAL PHYSICS LETTERS: 1: 2006
+mag_CHEMICKE LISTY: 2: 2008
+mag_CHEMISTRY CENTRAL JOURNAL: 1: 2012
+mag_CHEMPHYSCHEM: 1: 2004
+mag_CHINESE OPTICS LETTERS: 1: 2009
+mag_CIRCUITS, SYSTEMS, AND SIGNAL PROCESSING: 2: 2000
+mag_CIRCUITS, SYSTEMS, AND SIGNAL PROCESSING: 2: 2010
+mag_CIRCUITS, SYSTEMS, AND SIGNAL PROCESSING: 1: 2011
+mag_CLINICAL BIOMECHANICS: 1: 2005
+mag_CLINICAL JOURNAL OF PAIN: 1: 2015
+mag_CLINICAL NEUROPHYSIOLOGY: 2: 2009
+mag_CLINICAL NEUROPHYSIOLOGY: 2: 2009
+mag_CLINICAL NEUROPHYSIOLOGY: 1: 2010
+mag_CLINICAL NEUROPHYSIOLOGY: 2: 2010
+mag_CLINICAL NEUROPHYSIOLOGY: 2: 2010
+mag_CLINICAL NEUROPHYSIOLOGY: 2: 2011
+mag_CLINICAL NEUROPHYSIOLOGY: 2: 2012
+mag_CLINICAL NEUROPHYSIOLOGY: 1: 2013
+mag_CLINICAL NEUROPHYSIOLOGY: 1: 2013
+mag_CLINICAL NUCLEAR MEDICINE: 1: 2014
+mag_COMMUNICATIONS IN THEORETICAL PHYSICS: 3: 2016
+mag_COMPEL THE INTERNATIONAL JOURNAL FOR COMPUTATION AND MATHEMATICS IN ELECTRICAL AND ELECTRONIC ENGINEERING: 1: 2005
+mag_COMPEL THE INTERNATIONAL JOURNAL FOR COMPUTATION AND MATHEMATICS IN ELECTRICAL AND ELECTRONIC ENGINEERING: 1: 2010
+mag_COMPUTATIONAL AND MATHEMATICAL METHODS IN MEDICINE: 1: 2012
+mag_COMPUTATIONAL AND MATHEMATICAL METHODS IN MEDICINE: 1: 2012
+mag_COMPUTATIONAL AND MATHEMATICAL METHODS IN MEDICINE: 3: 2013
+mag_COMPUTATIONAL INTELLIGENCE AND NEUROSCIENCE: 2: 2010
+mag_COMPUTER APPLICATIONS IN ENGINEERING EDUCATION: 2: 2008
+mag_COMPUTER APPLICATIONS IN ENGINEERING EDUCATION: 1: 2011
+mag_COMPUTER APPLICATIONS IN ENGINEERING EDUCATION: 1: 2011
+mag_COMPUTER APPLICATIONS IN ENGINEERING EDUCATION: 2: 2011
+mag_COMPUTER APPLICATIONS IN ENGINEERING EDUCATION: 3: 2014
+mag_COMPUTER APPLICATIONS IN ENGINEERING EDUCATION: 3: 2016
+mag_COMPUTER COMMUNICATIONS: 1: 2010
+mag_COMPUTER COMMUNICATIONS: 2: 2011
+mag_COMPUTER JOURNAL: 1: 2000
+mag_COMPUTER JOURNAL: 2: 2005
+mag_COMPUTER JOURNAL: 3: 2016
+mag_COMPUTER METHODS AND PROGRAMS IN BIOMEDICINE: 2: 2010
+mag_COMPUTER METHODS AND PROGRAMS IN BIOMEDICINE: 3: 2014
+mag_COMPUTER NETWORKS-THE INTERNATIONAL JOURNAL OF COMPUTER AND TELECOMMUNICATI: 2: 2012
+mag_COMPUTER NETWORKS-THE INTERNATIONAL JOURNAL OF COMPUTER AND TELECOMMUNICATI: 1: 2013
+mag_COMPUTER NETWORKS-THE INTERNATIONAL JOURNAL OF COMPUTER AND TELECOMMUNICATI: 1: 2016
+mag_COMPUTER PHYSICS COMMUNICATIONS: 2: 2011
+mag_COMPUTER PHYSICS COMMUNICATIONS: 2: 2014
+mag_COMPUTER PHYSICS COMMUNICATIONS: 2: 2014
+mag_COMPUTER PHYSICS COMMUNICATIONS: 3: 2015
+mag_COMPUTER PHYSICS COMMUNICATIONS: 2: 2015
+mag_COMPUTER SCIENCE AND INFORMATION SYSTEMS - COMSIS: 1: 2011
+mag_COMPUTER SCIENCE AND INFORMATION SYSTEMS - COMSIS: 1: 2012
+mag_COMPUTER SCIENCE AND INFORMATION SYSTEMS - COMSIS: 1: 2012
+mag_COMPUTER SCIENCE AND INFORMATION SYSTEMS - COMSIS: 1: 2013
+mag_COMPUTER SCIENCE AND INFORMATION SYSTEMS - COMSIS: 3: 2014
+mag_COMPUTER SCIENCE AND INFORMATION SYSTEMS - COMSIS: 2: 2015
+mag_COMPUTER SCIENCE AND INFORMATION SYSTEMS - COMSIS: 1: 2015
+mag_COMPUTER STANDARDS & INTERFACES: 1: 2015
+mag_COMPUTERS & EDUCATION: 2: 2010
+mag_COMPUTERS & EDUCATION: 3: 2016
+mag_COMPUTERS & ELECTRICAL ENGINEERING: 3: 2013
+mag_COMPUTERS & MATHEMATICS WITH APPLICATIONS: 1: 2005
+mag_COMPUTERS & MATHEMATICS WITH APPLICATIONS: 1: 2009
+mag_COMPUTERS IN BIOLOGY AND MEDICINE: 2: 2014
+mag_CONCEPTS IN MAGNETIC RESONANCE PART B-MAGNETIC RESONANCE ENGINEERING: 1: 2016
+mag_CONCEPTS IN MAGNETIC RESONANCE PART B-MAGNETIC RESONANCE ENGINEERING: 1: 2016
+mag_CONCURRENCY AND COMPUTATION-PRACTICE & EXPERIENCE: 1: 2015
+mag_CONTEMPORARY MATERIALS: 1: 2010
+mag_CONTEMPORARY MATERIALS: 2: 2011
+mag_CONTEMPORARY MATERIALS: 1: 2012
+mag_CONTRIBUTIONS TO PLASMA PHYSICS: 1: 2015
+mag_CONTRIBUTIONS TO PLASMA PHYSICS: 1: 2016
+mag_CONTROL ENGINEERING PRACTICE: 3: 2013
+mag_CONTROL ENGINEERING PRACTICE: 3: 2016
+mag_CURRENT EYE RESEARCH: 1: 2012
+mag_DECISION SUPPORT SYSTEMS: 2: 2013
+mag_DIAGNOSTIC PATHOLOGY: 2: 2011
+mag_DIGEST JOURNAL OF NANOMATERIALS AND BIOSTRUCTURES: 1: 2012
+mag_DIGITAL SIGNAL PROCESSING: 1: 2010
+mag_DISCRETE APPLIED MATHEMATICS: 1: 2012
+mag_DISCRETE DYNAMICS IN NATURE AND SOCIETY: 1: 2007
+mag_DISCRETE DYNAMICS IN NATURE AND SOCIETY: 1: 2007
+mag_DISCRETE DYNAMICS IN NATURE AND SOCIETY: 1: 2007
+mag_DISCRETE DYNAMICS IN NATURE AND SOCIETY: 1: 2010
+mag_DISCRETE DYNAMICS IN NATURE AND SOCIETY: 1: 2010
+mag_DISCRETE DYNAMICS IN NATURE AND SOCIETY: 1: 2010
+mag_DISCRETE DYNAMICS IN NATURE AND SOCIETY: 1: 2010
+mag_DISCRETE MATHEMATICS: 2: 2005
+mag_DISCRETE MATHEMATICS: 3: 2008
+mag_DISCRETE MATHEMATICS: 3: 2008
+mag_DR. DOBB`S JOURNAL SOFTWARE TOOLS FOR THE PROFESSIONAL PROGRAMMER: 1: 2005
+mag_DR. DOBB`S JOURNAL SOFTWARE TOOLS FOR THE PROFESSIONAL PROGRAMMER: 1: 2006
+mag_DR. DOBB`S JOURNAL SOFTWARE TOOLS FOR THE PROFESSIONAL PROGRAMMER: 1: 2008
+mag_DYNAMICS OF CONTINUOUS DISCRETE AND IMPULSIVE SYSTEMS. SERIES A MATHEMATICAL: 1: 2006
+mag_E T R I JOURNAL: 1: 2009
+mag_EARLY HUMAN DEVELOPMENT: 1: 2012
+mag_ELECTRIC MACHINES AND POWER SYSTEMS: 1: 2000
+mag_ELECTRIC POWER COMPONENTS AND SYSTEMS: 3: 2001
+mag_ELECTRIC POWER COMPONENTS AND SYSTEMS: 1: 2003
+mag_ELECTRIC POWER COMPONENTS AND SYSTEMS: 2: 2003
+mag_ELECTRIC POWER COMPONENTS AND SYSTEMS: 1: 2006
+mag_ELECTRIC POWER COMPONENTS AND SYSTEMS: 2: 2011
+mag_ELECTRIC POWER COMPONENTS AND SYSTEMS: 1: 2015
+mag_ELECTRIC POWER SYSTEMS RESEARCH: 1: 2005
+mag_ELECTRIC POWER SYSTEMS RESEARCH: 2: 2005
+mag_ELECTRIC POWER SYSTEMS RESEARCH: 3: 2008
+mag_ELECTRIC POWER SYSTEMS RESEARCH: 2: 2008
+mag_ELECTRIC POWER SYSTEMS RESEARCH: 2: 2011
+mag_ELECTRIC POWER SYSTEMS RESEARCH: 4: 2011
+mag_ELECTRIC POWER SYSTEMS RESEARCH: 1: 2011
+mag_ELECTRIC POWER SYSTEMS RESEARCH: 1: 2012
+mag_ELECTRIC POWER SYSTEMS RESEARCH: 1: 2012
+mag_ELECTRIC POWER SYSTEMS RESEARCH: 2: 2013
+mag_ELECTRIC POWER SYSTEMS RESEARCH: 2: 2014
+mag_ELECTRIC POWER SYSTEMS RESEARCH: 1: 2014
+mag_ELECTRIC POWER SYSTEMS RESEARCH: 1: 2014
+mag_ELECTRIC POWER SYSTEMS RESEARCH: 2: 2015
+mag_ELECTRIC POWER SYSTEMS RESEARCH: 3: 2015
+mag_ELECTRIC POWER SYSTEMS RESEARCH: 2: 2016
+mag_ELECTRIC POWER SYSTEMS RESEARCH: 1: 2016
+mag_ELECTRICAL ENGINEERING (ARCHIV FUR ELEKTROTECHNIK): 2: 2000
+mag_ELECTRICAL ENGINEERING (ARCHIV FUR ELEKTROTECHNIK): 2: 2000
+mag_ELECTRICAL ENGINEERING (ARCHIV FUR ELEKTROTECHNIK): 1: 2001
+mag_ELECTRICAL ENGINEERING (ARCHIV FUR ELEKTROTECHNIK): 1: 2001
+mag_ELECTRICAL ENGINEERING (ARCHIV FUR ELEKTROTECHNIK): 1: 2002
+mag_ELECTRICAL ENGINEERING (ARCHIV FUR ELEKTROTECHNIK): 2: 2003
+mag_ELECTRICAL ENGINEERING (ARCHIV FUR ELEKTROTECHNIK): 1: 2003
+mag_ELECTRICAL ENGINEERING (ARCHIV FUR ELEKTROTECHNIK): 2: 2004
+mag_ELECTRICAL ENGINEERING (ARCHIV FUR ELEKTROTECHNIK): 2: 2004
+mag_ELECTRICAL ENGINEERING (ARCHIV FUR ELEKTROTECHNIK): 2: 2005
+mag_ELECTRICAL ENGINEERING (ARCHIV FUR ELEKTROTECHNIK): 2: 2005
+mag_ELECTRICAL ENGINEERING (ARCHIV FUR ELEKTROTECHNIK): 1: 2005
+mag_ELECTRICAL ENGINEERING (ARCHIV FUR ELEKTROTECHNIK): 1: 2006
+mag_ELECTRICAL ENGINEERING (ARCHIV FUR ELEKTROTECHNIK): 1: 2006
+mag_ELECTRICAL ENGINEERING (ARCHIV FUR ELEKTROTECHNIK): 2: 2006
+mag_ELECTRICAL ENGINEERING (ARCHIV FUR ELEKTROTECHNIK): 2: 2006
+mag_ELECTRICAL ENGINEERING (ARCHIV FUR ELEKTROTECHNIK): 2: 2006
+mag_ELECTRICAL ENGINEERING (ARCHIV FUR ELEKTROTECHNIK): 1: 2007
+mag_ELECTRICAL ENGINEERING (ARCHIV FUR ELEKTROTECHNIK): 1: 2007
+mag_ELECTRICAL ENGINEERING (ARCHIV FUR ELEKTROTECHNIK): 2: 2007
+mag_ELECTRICAL ENGINEERING (ARCHIV FUR ELEKTROTECHNIK): 1: 2007
+mag_ELECTRICAL ENGINEERING (ARCHIV FUR ELEKTROTECHNIK): 2: 2008
+mag_ELECTRICAL ENGINEERING (ARCHIV FUR ELEKTROTECHNIK): 1: 2010
+mag_ELECTRICAL ENGINEERING (ARCHIV FUR ELEKTROTECHNIK): 1: 2011
+mag_ELECTRICAL ENGINEERING (ARCHIV FUR ELEKTROTECHNIK): 2: 2014
+mag_ELECTRICAL ENGINEERING (ARCHIV FUR ELEKTROTECHNIK): 1: 2015
+mag_ELECTRO- AND MAGNETOBIOLOGY: 1: 2000
+mag_ELECTROCHEMISTRY COMMUNICATIONS: 1: 2007
+mag_ELECTROMAGNETICS: 1: 2006
+mag_ELECTROMAGNETICS: 2: 2014
+mag_ELECTRONIC JOURNAL OF LINEAR ALGEBRA: 1: 2012
+mag_ELECTRONICS: 2: 2002
+mag_ELECTRONICS: 1: 2002
+mag_ELECTRONICS: 2: 2005
+mag_ELECTRONICS: 2: 2005
+mag_ELECTRONICS: 2: 2008
+mag_ELECTRONICS: 2: 2009
+mag_ELECTRONICS: 2: 2009
+mag_ELECTRONICS: 1: 2011
+mag_ELECTRONICS: 1: 2011
+mag_ELECTRONICS: 1: 2011
+mag_ELECTRONICS: 3: 2011
+mag_ELECTRONICS: 2: 2011
+mag_ELECTRONICS: 1: 2013
+mag_ELECTRONICS: 3: 2013
+mag_ELECTRONICS: 3: 2014
+mag_ELECTRONICS: 1: 2014
+mag_ELECTRONICS LETTERS: 1: 2001
+mag_ELECTRONICS LETTERS: 1: 2002
+mag_ELECTRONICS LETTERS: 1: 2008
+mag_ELECTRONICS LETTERS: 1: 2008
+mag_ELECTRONICS LETTERS: 1: 2010
+mag_ELECTRONICS LETTERS: 2: 2011
+mag_ELECTRONICS LETTERS: 2: 2011
+mag_ELECTRONICS LETTERS: 1: 2012
+mag_ELECTRONICS LETTERS: 3: 2012
+mag_ELECTRONICS LETTERS: 2: 2013
+mag_ELECTRONICS LETTERS: 3: 2013
+mag_ELECTRONICS LETTERS: 1: 2014
+mag_ELECTRONICS LETTERS: 2: 2016
+mag_ELECTRONICS LETTERS: 1: 2016
+mag_ELEKTRODISTRIBUCIJA: 2: 2003
+mag_ELEKTRODISTRIBUCIJA: 1: 2010
+mag_ELEKTRONIKA IR ELEKTROTECHNIKA: 1: 2011
+mag_ELEKTRONIKA IR ELEKTROTECHNIKA: 1: 2012
+mag_ELEKTRONIKA IR ELEKTROTECHNIKA: 1: 2012
+mag_ELEKTRONIKA IR ELEKTROTECHNIKA: 1: 2012
+mag_ELEKTRONIKA IR ELEKTROTECHNIKA: 2: 2013
+mag_ELEKTRONIKA IR ELEKTROTECHNIKA: 1: 2014
+mag_ELEKTRONIKA IR ELEKTROTECHNIKA: 1: 2014
+mag_ELEKTRONIKA IR ELEKTROTECHNIKA: 1: 2015
+mag_ELEKTRONIKA IR ELEKTROTECHNIKA: 1: 2016
+mag_ELEKTROPRIVREDA: 1: 2000
+mag_ELEKTROPRIVREDA: 1: 2005
+mag_ELEKTROPRIVREDA: 1: 2005
+mag_ELEKTROPRIVREDA: 1: 2006
+mag_ELEKTROPRIVREDA: 2: 2007
+mag_ELEKTROPRIVREDA: 1: 2007
+mag_ELEKTROPRIVREDA: 1: 2008
+mag_ELEKTROPRIVREDA: 3: 2009
+mag_ELEKTROPRIVREDA: 1: 2010
+mag_ELEKTROPRIVREDA: 1: 2010
+mag_ELEKTROPRIVREDA: 1: 2010
+mag_ELEKTROPRIVREDA: 2: 2011
+mag_ELEKTROPRIVREDA: 2: 2011
+mag_ELEKTROPRIVREDA: 2: 2011
+mag_ELEKTROPRIVREDA: 1: 2011
+mag_ELEKTROTEHNIŠKI VESTNIK: 1: 2012
+mag_ELTA NEWSLETTER: 1: 2011
+mag_ENERGETSKE TEHNOLOGIJE: 2: 2010
+mag_ENERGIJA, EKONOMIJA, EKOLOGIJA: 1: 2000
+mag_ENERGIJA, EKONOMIJA, EKOLOGIJA: 2: 2005
+mag_ENERGIJA, EKONOMIJA, EKOLOGIJA: 2: 2005
+mag_ENERGIJA, EKONOMIJA, EKOLOGIJA: 3: 2005
+mag_ENERGIJA, EKONOMIJA, EKOLOGIJA: 1: 2006
+mag_ENERGIJA, EKONOMIJA, EKOLOGIJA: 1: 2006
+mag_ENERGIJA, EKONOMIJA, EKOLOGIJA: 2: 2006
+mag_ENERGIJA, EKONOMIJA, EKOLOGIJA: 3: 2007
+mag_ENERGIJA, EKONOMIJA, EKOLOGIJA: 2: 2007
+mag_ENERGIJA, EKONOMIJA, EKOLOGIJA: 3: 2007
+mag_ENERGIJA, EKONOMIJA, EKOLOGIJA: 1: 2008
+mag_ENERGIJA, EKONOMIJA, EKOLOGIJA: 2: 2008
+mag_ENERGIJA, EKONOMIJA, EKOLOGIJA: 2: 2008
+mag_ENERGIJA, EKONOMIJA, EKOLOGIJA: 1: 2008
+mag_ENERGIJA, EKONOMIJA, EKOLOGIJA: 1: 2009
+mag_ENERGIJA, EKONOMIJA, EKOLOGIJA: 1: 2009
+mag_ENERGIJA, EKONOMIJA, EKOLOGIJA: 2: 2009
+mag_ENERGIJA, EKONOMIJA, EKOLOGIJA: 3: 2010
+mag_ENERGIJA, EKONOMIJA, EKOLOGIJA: 3: 2010
+mag_ENERGIJA, EKONOMIJA, EKOLOGIJA: 4: 2011
+mag_ENERGIJA, EKONOMIJA, EKOLOGIJA: 1: 2011
+mag_ENERGIJA, EKONOMIJA, EKOLOGIJA: 1: 2012
+mag_ENERGIJA, EKONOMIJA, EKOLOGIJA: 1: 2012
+mag_ENERGIJA, EKONOMIJA, EKOLOGIJA: 3: 2012
+mag_ENERGIJA, EKONOMIJA, EKOLOGIJA: 2: 2013
+mag_ENERGIJA, EKONOMIJA, EKOLOGIJA: 2: 2013
+mag_ENERGIJA, EKONOMIJA, EKOLOGIJA: 2: 2013
+mag_ENERGIJA, EKONOMIJA, EKOLOGIJA: 2: 2015
+mag_ENERGIJA, EKONOMIJA, EKOLOGIJA: 2: 2015
+mag_ENERGIJA, EKONOMIJA, EKOLOGIJA: 3: 2015
+mag_ENERGIJA, EKONOMIJA, EKOLOGIJA: 1: 2015
+mag_ENERGIJA, EKONOMIJA, EKOLOGIJA: 2: 2015
+mag_ENERGIJA, EKONOMIJA, EKOLOGIJA: 2: 2015
+mag_ENERGIJA, EKONOMIJA, EKOLOGIJA: 2: 2015
+mag_ENERGIJA, EKONOMIJA, EKOLOGIJA: 3: 2016
+mag_ENERGIJA, EKONOMIJA, EKOLOGIJA: 3: 2016
+mag_ENERGIJA, EKONOMIJA, EKOLOGIJA: 1: 2016
+mag_ENERGIJA, EKONOMIJA, EKOLOGIJA: 3: 2016
+mag_ENERGIJA, EKONOMIJA, EKOLOGIJA: 1: 2016
+mag_ENERGIJA, EKONOMIJA, EKOLOGIJA: 4: 2016
+mag_ENERGY: 5: 2009
+mag_ENERGY: 1: 2009
+mag_ENERGY: 1: 2013
+mag_ENERGY: 1: 2015
+mag_ENERGY: 1: 2015
+mag_ENERGY: 1: 2016
+mag_ENGINEERING ANALYSIS WITH BOUNDARY ELEMENTS: 2: 2003
+mag_ENVIRONMENTAL SCIENCE AND POLLUTION RESEARCH: 1: 2016
+mag_EPE JOURNAL: 1: 2004
+mag_EPILEPSIA: 1: 2013
+mag_ETF JOURNAL OF ELECTRICAL ENGINEERING: 1: 2006
+mag_ETF JOURNAL OF ELECTRICAL ENGINEERING: 1: 2007
+mag_ETF JOURNAL OF ELECTRICAL ENGINEERING: 1: 2008
+mag_EURASIP JOURNAL ON ADVANCES IN SIGNAL PROCESSING: 1: 2010
+mag_EURASIP JOURNAL ON APPLIED SIGNAL PROCESSING: 2: 2006
+mag_EURASIP JOURNAL ON APPLIED SIGNAL PROCESSING: 2: 2007
+mag_EURASIP JOURNAL ON IMAGE AND VIDEO PROCESSING: 1: 2015
+mag_EURASIP JOURNAL ON WIRELESS COMMUNICATIONS AND NETWORKING: 1: 2012
+mag_EURASIP JOURNAL ON WIRELESS COMMUNICATIONS AND NETWORKING: 1: 2014
+mag_EUROPEAN JOURNAL OF NEUROLOGY: 1: 2006
+mag_EUROPEAN JOURNAL OF PHYSICS: 2: 2012
+mag_EUROPEAN JOURNAL OF RADIOLOGY: 1: 2011
+mag_EUROPEAN JOURNAL OF RADIOLOGY: 1: 2012
+mag_EUROPEAN JOURNAL OF RADIOLOGY: 1: 2012
+mag_EUROPEAN PHYSICAL JOURNAL B CONDENSED MATTER: 1: 2000
+mag_EUROPEAN TRANSACTIONS ON ELECTRICAL POWER: 2: 2002
+mag_EUROPEAN TRANSACTIONS ON ELECTRICAL POWER: 1: 2002
+mag_EUROPEAN TRANSACTIONS ON ELECTRICAL POWER: 2: 2002
+mag_EUROPEAN TRANSACTIONS ON ELECTRICAL POWER: 1: 2002
+mag_EUROPEAN TRANSACTIONS ON ELECTRICAL POWER: 1: 2002
+mag_EUROPEAN TRANSACTIONS ON ELECTRICAL POWER: 1: 2003
+mag_EUROPEAN TRANSACTIONS ON ELECTRICAL POWER: 1: 2003
+mag_EUROPEAN TRANSACTIONS ON ELECTRICAL POWER: 1: 2003
+mag_EUROPEAN TRANSACTIONS ON ELECTRICAL POWER: 1: 2003
+mag_EUROPEAN TRANSACTIONS ON ELECTRICAL POWER: 1: 2004
+mag_EUROPEAN TRANSACTIONS ON ELECTRICAL POWER: 1: 2004
+mag_EUROPEAN TRANSACTIONS ON ELECTRICAL POWER: 1: 2006
+mag_EUROPEAN TRANSACTIONS ON ELECTRICAL POWER: 1: 2008
+mag_EUROPEAN TRANSACTIONS ON ELECTRICAL POWER: 2: 2009
+mag_EUROPEAN TRANSACTIONS ON TELECOMMUNICATIONS: 1: 2000
+mag_EUROPEAN TRANSACTIONS ON TELECOMMUNICATIONS: 1: 2001
+mag_EUROPEAN TRANSACTIONS ON TELECOMMUNICATIONS: 1: 2003
+mag_EUROPEAN TRANSACTIONS ON TELECOMMUNICATIONS: 1: 2006
+mag_EUROPEAN TRANSACTIONS ON TELECOMMUNICATIONS: 1: 2009
+mag_EUROPHYSICS LETTERS: 1: 2006
+mag_EXPERIMENTAL BRAIN RESEARCH: 1: 2008
+mag_Electronic Journal of Differential Equations: 1: 2014
+mag_Electronic Journal of Differential Equations: 1: 2015
+mag_Electronic Journal of Differential Equations: 1: 2016
+mag_FACTA UNIVERSITATIS - SERIES AUTOMATIC CONTROL AND ROBOTICS: 3: 2010
+mag_FACTA UNIVERSITATIS - SERIES AUTOMATIC CONTROL AND ROBOTICS: 2: 2012
+mag_FACTA UNIVERSITATIS - SERIES AUTOMATIC CONTROL AND ROBOTICS: 2: 2015
+mag_FACTA UNIVERSITATIS - SERIES ELECTRONICS AND ENERGETICS: 2: 2003
+mag_FACTA UNIVERSITATIS - SERIES ELECTRONICS AND ENERGETICS: 1: 2003
+mag_FACTA UNIVERSITATIS - SERIES ELECTRONICS AND ENERGETICS: 2: 2005
+mag_FACTA UNIVERSITATIS - SERIES ELECTRONICS AND ENERGETICS: 2: 2005
+mag_FACTA UNIVERSITATIS - SERIES ELECTRONICS AND ENERGETICS: 2: 2006
+mag_FACTA UNIVERSITATIS - SERIES ELECTRONICS AND ENERGETICS: 1: 2015
+mag_FACTA UNIVERSITATIS - SERIES ELECTRONICS AND ENERGETICS: 2: 2016
+mag_FACTA UNIVERSITATIS - SERIES ELECTRONICS AND ENERGETICS: 1: 2016
+mag_FILOMAT: 1: 2009
+mag_FILOMAT: 2: 2009
+mag_FILOMAT: 1: 2013
+mag_FILOMAT: 1: 2014
+mag_FILOMAT: 2: 2016
+mag_FIXED POINT THEORY: 1: 2008
+mag_FIXED POINT THEORY: 1: 2009
+mag_FIXED POINT THEORY AND APPLICATIONS: 1: 2008
+mag_FOLIA HISTOCHEMICA ET CYTOBIOLOGICA: 2: 2009
+mag_FOLIA LINGUISTICA ET LITTERARIA: 1: 2011
+mag_FOLIA LINGUISTICA ET LITTERARIA: 1: 2012
+mag_FREQUENZ: 2: 2014
+mag_FREQUENZ: 2: 2016
+mag_FRONTIERS IN COMPUTATIONAL NEUROSCIENCE: 1: 2015
+mag_FUTURE GENERATION COMPUTER SYSTEMS: 1: 2001
+mag_FUTURE GENERATION COMPUTER SYSTEMS: 1: 2006
+mag_Fixed Point Theory And Applications: 1: 2013
+mag_GAIT & POSTURE: 1: 2011
+mag_GEOINFORMATICA: 2: 2013
+mag_GESTS INTERNATIONAL TRANSACTION ON SPEECH SCIENCE AND ENGINEERING: 1: 2005
+mag_GESTS INTERNATIONAL TRANSACTION ON SPEECH SCIENCE AND ENGINEERING: 1: 2005
+mag_GODIŠNJAK FAKULTETA ZA KULTURU I MEDIJE: 1: 2010
+mag_HEMIJSKA INDUSTRIJA: 1: 2007
+mag_HEMIJSKA INDUSTRIJA: 2: 2008
+mag_HEMIJSKA INDUSTRIJA: 1: 2009
+mag_HEMIJSKA INDUSTRIJA: 2: 2010
+mag_HEPATO-GASTROENTEROLOGY: 2: 2013
+mag_Hemijski pregled: 2: 2016
+mag_Hemijski pregled: 1: 2016
+mag_IEE PROCEEDINGS. ELECTRIC POWER APPLICATIONS: 3: 2001
+mag_IEE PROCEEDINGS. ELECTRIC POWER APPLICATIONS: 3: 2002
+mag_IEE PROCEEDINGS. ELECTRIC POWER APPLICATIONS: 1: 2003
+mag_IEE PROCEEDINGS. ELECTRIC POWER APPLICATIONS: 1: 2003
+mag_IEE PROCEEDINGS. ELECTRIC POWER APPLICATIONS: 1: 2005
+mag_IEE PROCEEDINGS. ELECTRIC POWER APPLICATIONS: 1: 2005
+mag_IEE PROCEEDINGS. ELECTRIC POWER APPLICATIONS: 2: 2005
+mag_IEE PROCEEDINGS. GENERATION, TRANSMISSION, AND DISTRIBUTION: 1: 2001
+mag_IEE PROCEEDINGS. GENERATION, TRANSMISSION, AND DISTRIBUTION: 2: 2001
+mag_IEE PROCEEDINGS. MICROWAVES, ANTENNAS, AND PROPAGATION: 1: 2001
+mag_IEE PROCEEDINGS. VISION, IMAGE, AND SIGNAL PROCESSING: 2: 2001
+mag_IEE PROCEEDINGS. VISION, IMAGE, AND SIGNAL PROCESSING: 3: 2006
+mag_IEEE ACCESS: 2: 2016
+mag_IEEE ANNALS OF THE HISTORY OF COMPUTING: 1: 2012
+mag_IEEE ANTENNAS AND PROPAGATION MAGAZINE: 2: 2006
+mag_IEEE ANTENNAS AND PROPAGATION MAGAZINE: 1: 2006
+mag_IEEE ANTENNAS AND PROPAGATION MAGAZINE: 4: 2012
+mag_IEEE ANTENNAS AND WIRELESS PROPAGATION LETTERS: 1: 2004
+mag_IEEE ANTENNAS AND WIRELESS PROPAGATION LETTERS: 2: 2006
+mag_IEEE ANTENNAS AND WIRELESS PROPAGATION LETTERS: 1: 2009
+mag_IEEE ANTENNAS AND WIRELESS PROPAGATION LETTERS: 2: 2011
+mag_IEEE ANTENNAS AND WIRELESS PROPAGATION LETTERS: 1: 2013
+mag_IEEE COMMUNICATIONS LETTERS: 3: 2000
+mag_IEEE COMMUNICATIONS LETTERS: 1: 2002
+mag_IEEE COMMUNICATIONS LETTERS: 1: 2002
+mag_IEEE COMMUNICATIONS LETTERS: 1: 2002
+mag_IEEE COMMUNICATIONS LETTERS: 1: 2004
+mag_IEEE COMMUNICATIONS LETTERS: 2: 2007
+mag_IEEE COMMUNICATIONS LETTERS: 1: 2007
+mag_IEEE COMMUNICATIONS LETTERS: 2: 2007
+mag_IEEE COMMUNICATIONS LETTERS: 2: 2007
+mag_IEEE COMMUNICATIONS LETTERS: 1: 2008
+mag_IEEE COMMUNICATIONS LETTERS: 1: 2008
+mag_IEEE COMMUNICATIONS LETTERS: 2: 2008
+mag_IEEE COMMUNICATIONS LETTERS: 1: 2009
+mag_IEEE COMMUNICATIONS LETTERS: 1: 2009
+mag_IEEE COMMUNICATIONS LETTERS: 1: 2010
+mag_IEEE COMMUNICATIONS LETTERS: 2: 2012
+mag_IEEE COMMUNICATIONS LETTERS: 2: 2012
+mag_IEEE COMMUNICATIONS LETTERS: 1: 2014
+mag_IEEE COMMUNICATIONS LETTERS: 2: 2015
+mag_IEEE COMMUNICATIONS LETTERS: 2: 2015
+mag_IEEE COMMUNICATIONS LETTERS: 1: 2016
+mag_IEEE COMMUNICATIONS MAGAZINE: 1: 2002
+mag_IEEE COMMUNICATIONS MAGAZINE: 2: 2005
+mag_IEEE COMMUNICATIONS MAGAZINE: 1: 2010
+mag_IEEE COMMUNICATIONS MAGAZINE: 2: 2013
+mag_IEEE COMMUNICATIONS SURVEYS & TUTORIALS: 1: 2000
+mag_IEEE COMPUTER: 1: 2000
+mag_IEEE COMPUTER: 1: 2003
+mag_IEEE COMPUTER: 1: 2004
+mag_IEEE COMPUTER: 1: 2006
+mag_IEEE Concurrency: 1: 2000
+mag_IEEE ENGINEERING IN MEDICINE AND BIOLOGY MAGAZINE: 2: 2001
+mag_IEEE ENGINEERING IN MEDICINE AND BIOLOGY MAGAZINE: 1: 2010
+mag_IEEE JOURNAL OF QUANTUM ELECTRONICS: 1: 2001
+mag_IEEE JOURNAL OF QUANTUM ELECTRONICS: 1: 2001
+mag_IEEE JOURNAL OF QUANTUM ELECTRONICS: 1: 2002
+mag_IEEE JOURNAL OF QUANTUM ELECTRONICS: 2: 2003
+mag_IEEE JOURNAL OF QUANTUM ELECTRONICS: 1: 2004
+mag_IEEE JOURNAL OF QUANTUM ELECTRONICS: 1: 2005
+mag_IEEE JOURNAL OF QUANTUM ELECTRONICS: 1: 2012
+mag_IEEE JOURNAL OF SELECTED TOPICS IN QUANTUM ELECTRONICS: 1: 2003
+mag_IEEE JOURNAL OF SELECTED TOPICS IN QUANTUM ELECTRONICS: 3: 2012
+mag_IEEE JOURNAL OF SELECTED TOPICS IN QUANTUM ELECTRONICS: 4: 2013
+mag_IEEE JOURNAL OF SELECTED TOPICS IN QUANTUM ELECTRONICS: 5: 2013
+mag_IEEE JOURNAL OF SELECTED TOPICS IN QUANTUM ELECTRONICS: 4: 2015
+mag_IEEE JOURNAL OF SELECTED TOPICS IN QUANTUM ELECTRONICS: 4: 2015
+mag_IEEE JOURNAL ON SELECTED AREAS IN COMMUNICATIONS: 3: 2002
+mag_IEEE JOURNAL ON SELECTED AREAS IN COMMUNICATIONS: 2: 2010
+mag_IEEE JOURNAL ON SELECTED AREAS IN COMMUNICATIONS: 1: 2014
+mag_IEEE MICRO: 1: 2000
+mag_IEEE MICROWAVE AND WIRELESS COMPONENTS LETTERS: 3: 2011
+mag_IEEE MICROWAVE AND WIRELESS COMPONENTS LETTERS: 1: 2012
+mag_IEEE MICROWAVE AND WIRELESS COMPONENTS LETTERS: 3: 2012
+mag_IEEE MICROWAVE AND WIRELESS COMPONENTS LETTERS: 1: 2016
+mag_IEEE MICROWAVE MAGAZINE: 1: 2008
+mag_IEEE PHOTONICS TECHNOLOGY LETTERS: 1: 2002
+mag_IEEE PHOTONICS TECHNOLOGY LETTERS: 1: 2008
+mag_IEEE PHOTONICS TECHNOLOGY LETTERS: 1: 2016
+mag_IEEE ROBOTICS & AUTOMATION MAGAZINE: 1: 2001
+mag_IEEE ROBOTICS & AUTOMATION MAGAZINE: 1: 2003
+mag_IEEE ROBOTICS & AUTOMATION MAGAZINE: 1: 2013
+mag_IEEE SENSORS JOURNAL: 2: 2007
+mag_IEEE SENSORS JOURNAL: 3: 2013
+mag_IEEE SENSORS JOURNAL: 1: 2015
+mag_IEEE SENSORS JOURNAL: 2: 2016
+mag_IEEE SIGNAL PROCESSING LETTERS: 1: 2000
+mag_IEEE SIGNAL PROCESSING LETTERS: 1: 2005
+mag_IEEE SIGNAL PROCESSING LETTERS: 1: 2009
+mag_IEEE SIGNAL PROCESSING LETTERS: 1: 2009
+mag_IEEE SOFTWARE: 1: 2002
+mag_IEEE SOFTWARE: 1: 2013
+mag_IEEE TRANSACTIONS COMPUTERS: 1: 2002
+mag_IEEE TRANSACTIONS ON AEROSPACE AND ELECTRONIC SYSTEMS: 1: 2002
+mag_IEEE TRANSACTIONS ON AEROSPACE AND ELECTRONIC SYSTEMS: 1: 2003
+mag_IEEE TRANSACTIONS ON ANTENNAS AND PROPAGATION: 2: 2005
+mag_IEEE TRANSACTIONS ON ANTENNAS AND PROPAGATION: 2: 2005
+mag_IEEE TRANSACTIONS ON ANTENNAS AND PROPAGATION: 2: 2006
+mag_IEEE TRANSACTIONS ON ANTENNAS AND PROPAGATION: 2: 2009
+mag_IEEE TRANSACTIONS ON ANTENNAS AND PROPAGATION: 1: 2009
+mag_IEEE TRANSACTIONS ON ANTENNAS AND PROPAGATION: 1: 2009
+mag_IEEE TRANSACTIONS ON ANTENNAS AND PROPAGATION: 2: 2009
+mag_IEEE TRANSACTIONS ON ANTENNAS AND PROPAGATION: 2: 2011
+mag_IEEE TRANSACTIONS ON ANTENNAS AND PROPAGATION: 2: 2012
+mag_IEEE TRANSACTIONS ON ANTENNAS AND PROPAGATION: 1: 2012
+mag_IEEE TRANSACTIONS ON ANTENNAS AND PROPAGATION: 1: 2013
+mag_IEEE TRANSACTIONS ON ANTENNAS AND PROPAGATION: 1: 2013
+mag_IEEE TRANSACTIONS ON ANTENNAS AND PROPAGATION: 1: 2015
+mag_IEEE TRANSACTIONS ON ANTENNAS AND PROPAGATION: 2: 2016
+mag_IEEE TRANSACTIONS ON AUTOMATIC CONTROL: 1: 2002
+mag_IEEE TRANSACTIONS ON AUTOMATIC CONTROL: 1: 2009
+mag_IEEE TRANSACTIONS ON AUTOMATIC CONTROL: 2: 2009
+mag_IEEE TRANSACTIONS ON AUTOMATIC CONTROL: 1: 2011
+mag_IEEE TRANSACTIONS ON BIOMEDICAL ENGINEERING: 1: 2008
+mag_IEEE TRANSACTIONS ON BIOMEDICAL ENGINEERING: 1: 2009
+mag_IEEE TRANSACTIONS ON BIOMEDICAL ENGINEERING: 1: 2016
+mag_IEEE TRANSACTIONS ON CIRCUITS AND SYSTEMS I-FUNDAMENTAL THEORY AND APPLICAT: 1: 2002
+mag_IEEE TRANSACTIONS ON CIRCUITS AND SYSTEMS I-REGULAR PAPERS: 2: 2016
+mag_IEEE TRANSACTIONS ON CIRCUITS AND SYSTEMS. II EXPRESS BRIEFS: 1: 2008
+mag_IEEE TRANSACTIONS ON CIRCUITS AND SYSTEMS. II EXPRESS BRIEFS: 1: 2010
+mag_IEEE TRANSACTIONS ON COMMUNICATIONS: 1: 2016
+mag_IEEE TRANSACTIONS ON COMPUTER-AIDED DESIGN OF INTEGRATED CIRCUITS AND SYSTE: 1: 2013
+mag_IEEE TRANSACTIONS ON CONSUMER ELECTRONICS: 1: 2001
+mag_IEEE TRANSACTIONS ON CONSUMER ELECTRONICS: 1: 2002
+mag_IEEE TRANSACTIONS ON CONSUMER ELECTRONICS: 1: 2010
+mag_IEEE TRANSACTIONS ON CONSUMER ELECTRONICS: 1: 2011
+mag_IEEE TRANSACTIONS ON CONSUMER ELECTRONICS: 1: 2011
+mag_IEEE TRANSACTIONS ON CONSUMER ELECTRONICS: 2: 2012
+mag_IEEE TRANSACTIONS ON CONSUMER ELECTRONICS: 2: 2015
+mag_IEEE TRANSACTIONS ON CONSUMER ELECTRONICS: 2: 2016
+mag_IEEE TRANSACTIONS ON CONTROL SYSTEMS TECHNOLOGY: 1: 2000
+mag_IEEE TRANSACTIONS ON DIELECTRICS AND ELECTRICAL INSULATION: 2: 2007
+mag_IEEE TRANSACTIONS ON DIELECTRICS AND ELECTRICAL INSULATION: 3: 2007
+mag_IEEE TRANSACTIONS ON DIELECTRICS AND ELECTRICAL INSULATION: 3: 2007
+mag_IEEE TRANSACTIONS ON DIELECTRICS AND ELECTRICAL INSULATION: 3: 2008
+mag_IEEE TRANSACTIONS ON DIELECTRICS AND ELECTRICAL INSULATION: 4: 2009
+mag_IEEE TRANSACTIONS ON DIELECTRICS AND ELECTRICAL INSULATION: 3: 2010
+mag_IEEE TRANSACTIONS ON DIELECTRICS AND ELECTRICAL INSULATION: 2: 2011
+mag_IEEE TRANSACTIONS ON DIELECTRICS AND ELECTRICAL INSULATION: 3: 2011
+mag_IEEE TRANSACTIONS ON DIELECTRICS AND ELECTRICAL INSULATION: 3: 2012
+mag_IEEE TRANSACTIONS ON DIELECTRICS AND ELECTRICAL INSULATION: 4: 2012
+mag_IEEE TRANSACTIONS ON DIELECTRICS AND ELECTRICAL INSULATION: 2: 2014
+mag_IEEE TRANSACTIONS ON EDUCATION: 2: 2005
+mag_IEEE TRANSACTIONS ON EDUCATION: 4: 2009
+mag_IEEE TRANSACTIONS ON EDUCATION: 3: 2010
+mag_IEEE TRANSACTIONS ON EDUCATION: 1: 2011
+mag_IEEE TRANSACTIONS ON EDUCATION: 4: 2011
+mag_IEEE TRANSACTIONS ON EDUCATION: 3: 2013
+mag_IEEE TRANSACTIONS ON ELECTROMAGNETIC COMPATIBILITY: 2: 2001
+mag_IEEE TRANSACTIONS ON ELECTROMAGNETIC COMPATIBILITY: 1: 2010
+mag_IEEE TRANSACTIONS ON ELECTROMAGNETIC COMPATIBILITY: 1: 2014
+mag_IEEE TRANSACTIONS ON ELECTROMAGNETIC COMPATIBILITY: 1: 2016
+mag_IEEE TRANSACTIONS ON ENERGY CONVERSION: 1: 2000
+mag_IEEE TRANSACTIONS ON ENERGY CONVERSION: 1: 2000
+mag_IEEE TRANSACTIONS ON ENERGY CONVERSION: 1: 2003
+mag_IEEE TRANSACTIONS ON ENERGY CONVERSION: 1: 2003
+mag_IEEE TRANSACTIONS ON ENERGY CONVERSION: 1: 2004
+mag_IEEE TRANSACTIONS ON ENERGY CONVERSION: 1: 2005
+mag_IEEE TRANSACTIONS ON ENERGY CONVERSION: 1: 2006
+mag_IEEE TRANSACTIONS ON ENERGY CONVERSION: 1: 2006
+mag_IEEE TRANSACTIONS ON ENERGY CONVERSION: 1: 2007
+mag_IEEE TRANSACTIONS ON ENERGY CONVERSION: 1: 2009
+mag_IEEE TRANSACTIONS ON ENERGY CONVERSION: 1: 2011
+mag_IEEE TRANSACTIONS ON ENERGY CONVERSION: 3: 2013
+mag_IEEE TRANSACTIONS ON ENERGY CONVERSION: 1: 2013
+mag_IEEE TRANSACTIONS ON ENERGY CONVERSION: 2: 2014
+mag_IEEE TRANSACTIONS ON ENERGY CONVERSION: 3: 2016
+mag_IEEE TRANSACTIONS ON GEOSCIENCE AND REMOTE SENSING: 2: 2013
+mag_IEEE TRANSACTIONS ON IMAGE PROCESSING: 1: 2000
+mag_IEEE TRANSACTIONS ON INDUSTRIAL ELECTRONICS: 1: 2000
+mag_IEEE TRANSACTIONS ON INDUSTRIAL ELECTRONICS: 1: 2001
+mag_IEEE TRANSACTIONS ON INDUSTRIAL ELECTRONICS: 1: 2003
+mag_IEEE TRANSACTIONS ON INDUSTRIAL ELECTRONICS: 1: 2007
+mag_IEEE TRANSACTIONS ON INDUSTRIAL ELECTRONICS: 1: 2007
+mag_IEEE TRANSACTIONS ON INDUSTRIAL ELECTRONICS: 1: 2007
+mag_IEEE TRANSACTIONS ON INDUSTRIAL ELECTRONICS: 1: 2009
+mag_IEEE TRANSACTIONS ON INDUSTRIAL ELECTRONICS: 1: 2009
+mag_IEEE TRANSACTIONS ON INDUSTRIAL ELECTRONICS: 2: 2010
+mag_IEEE TRANSACTIONS ON INDUSTRIAL ELECTRONICS: 2: 2011
+mag_IEEE TRANSACTIONS ON INDUSTRIAL ELECTRONICS: 2: 2012
+mag_IEEE TRANSACTIONS ON INDUSTRIAL ELECTRONICS: 4: 2016
+mag_IEEE TRANSACTIONS ON INDUSTRY APPLICATIONS: 1: 2005
+mag_IEEE TRANSACTIONS ON INDUSTRY APPLICATIONS: 1: 2007
+mag_IEEE TRANSACTIONS ON INDUSTRY APPLICATIONS: 2: 2015
+mag_IEEE TRANSACTIONS ON INDUSTRY APPLICATIONS: 1: 2015
+mag_IEEE TRANSACTIONS ON INFORMATION TECHNOLOGY IN BIOMEDICINE: 2: 2005
+mag_IEEE TRANSACTIONS ON INSTRUMENTATION AND MEASUREMENT: 1: 2000
+mag_IEEE TRANSACTIONS ON INSTRUMENTATION AND MEASUREMENT: 1: 2000
+mag_IEEE TRANSACTIONS ON INSTRUMENTATION AND MEASUREMENT: 1: 2000
+mag_IEEE TRANSACTIONS ON INSTRUMENTATION AND MEASUREMENT: 3: 2003
+mag_IEEE TRANSACTIONS ON INSTRUMENTATION AND MEASUREMENT: 4: 2004
+mag_IEEE TRANSACTIONS ON INSTRUMENTATION AND MEASUREMENT: 1: 2004
+mag_IEEE TRANSACTIONS ON INSTRUMENTATION AND MEASUREMENT: 3: 2006
+mag_IEEE TRANSACTIONS ON INSTRUMENTATION AND MEASUREMENT: 1: 2006
+mag_IEEE TRANSACTIONS ON INSTRUMENTATION AND MEASUREMENT: 3: 2007
+mag_IEEE TRANSACTIONS ON INSTRUMENTATION AND MEASUREMENT: 2: 2007
+mag_IEEE TRANSACTIONS ON INSTRUMENTATION AND MEASUREMENT: 1: 2009
+mag_IEEE TRANSACTIONS ON INSTRUMENTATION AND MEASUREMENT: 1: 2010
+mag_IEEE TRANSACTIONS ON INSTRUMENTATION AND MEASUREMENT: 1: 2010
+mag_IEEE TRANSACTIONS ON INTELLEIGENT TRANSPORTATION SYSTEMS.: 2: 2012
+mag_IEEE TRANSACTIONS ON INTELLEIGENT TRANSPORTATION SYSTEMS.: 1: 2016
+mag_IEEE TRANSACTIONS ON LEARNING TECHNOLOGIES: 3: 2014
+mag_IEEE TRANSACTIONS ON MICROWAVE THEORY AND TECHNIQUES: 2: 2003
+mag_IEEE TRANSACTIONS ON MICROWAVE THEORY AND TECHNIQUES: 1: 2003
+mag_IEEE TRANSACTIONS ON MICROWAVE THEORY AND TECHNIQUES: 2: 2003
+mag_IEEE TRANSACTIONS ON MICROWAVE THEORY AND TECHNIQUES: 1: 2004
+mag_IEEE TRANSACTIONS ON MICROWAVE THEORY AND TECHNIQUES: 1: 2005
+mag_IEEE TRANSACTIONS ON MICROWAVE THEORY AND TECHNIQUES: 1: 2005
+mag_IEEE TRANSACTIONS ON MICROWAVE THEORY AND TECHNIQUES: 1: 2013
+mag_IEEE TRANSACTIONS ON MICROWAVE THEORY AND TECHNIQUES: 2: 2013
+mag_IEEE TRANSACTIONS ON MICROWAVE THEORY AND TECHNIQUES: 2: 2016
+mag_IEEE TRANSACTIONS ON NEURAL NETWORKS: 1: 2001
+mag_IEEE TRANSACTIONS ON NEURAL SYSTEMS AND REHABILITATION ENGINEERING: 1: 2000
+mag_IEEE TRANSACTIONS ON NEURAL SYSTEMS AND REHABILITATION ENGINEERING: 1: 2005
+mag_IEEE TRANSACTIONS ON NEURAL SYSTEMS AND REHABILITATION ENGINEERING: 1: 2008
+mag_IEEE TRANSACTIONS ON NEURAL SYSTEMS AND REHABILITATION ENGINEERING: 1: 2009
+mag_IEEE TRANSACTIONS ON NEURAL SYSTEMS AND REHABILITATION ENGINEERING: 1: 2013
+mag_IEEE TRANSACTIONS ON NEURAL SYSTEMS AND REHABILITATION ENGINEERING: 2: 2014
+mag_IEEE TRANSACTIONS ON NUCLEAR SCIENCE: 1: 2003
+mag_IEEE TRANSACTIONS ON NUCLEAR SCIENCE: 1: 2009
+mag_IEEE TRANSACTIONS ON NUCLEAR SCIENCE: 3: 2010
+mag_IEEE TRANSACTIONS ON NUCLEAR SCIENCE: 2: 2014
+mag_IEEE TRANSACTIONS ON PLASMA SCIENCE: 1: 2000
+mag_IEEE TRANSACTIONS ON PLASMA SCIENCE: 1: 2002
+mag_IEEE TRANSACTIONS ON PLASMA SCIENCE: 1: 2002
+mag_IEEE TRANSACTIONS ON PLASMA SCIENCE: 2: 2003
+mag_IEEE TRANSACTIONS ON PLASMA SCIENCE: 1: 2004
+mag_IEEE TRANSACTIONS ON PLASMA SCIENCE: 1: 2005
+mag_IEEE TRANSACTIONS ON PLASMA SCIENCE: 1: 2005
+mag_IEEE TRANSACTIONS ON PLASMA SCIENCE: 1: 2005
+mag_IEEE TRANSACTIONS ON PLASMA SCIENCE: 1: 2006
+mag_IEEE TRANSACTIONS ON PLASMA SCIENCE: 1: 2006
+mag_IEEE TRANSACTIONS ON PLASMA SCIENCE: 1: 2007
+mag_IEEE TRANSACTIONS ON PLASMA SCIENCE: 1: 2008
+mag_IEEE TRANSACTIONS ON PLASMA SCIENCE: 1: 2009
+mag_IEEE TRANSACTIONS ON PLASMA SCIENCE: 2: 2009
+mag_IEEE TRANSACTIONS ON PLASMA SCIENCE: 3: 2013
+mag_IEEE TRANSACTIONS ON PLASMA SCIENCE: 2: 2014
+mag_IEEE TRANSACTIONS ON POWER DELIVERY: 3: 2000
+mag_IEEE TRANSACTIONS ON POWER DELIVERY: 1: 2001
+mag_IEEE TRANSACTIONS ON POWER DELIVERY: 1: 2002
+mag_IEEE TRANSACTIONS ON POWER DELIVERY: 1: 2003
+mag_IEEE TRANSACTIONS ON POWER DELIVERY: 1: 2003
+mag_IEEE TRANSACTIONS ON POWER DELIVERY: 2: 2004
+mag_IEEE TRANSACTIONS ON POWER DELIVERY: 1: 2005
+mag_IEEE TRANSACTIONS ON POWER DELIVERY: 1: 2006
+mag_IEEE TRANSACTIONS ON POWER DELIVERY: 1: 2007
+mag_IEEE TRANSACTIONS ON POWER DELIVERY: 3: 2008
+mag_IEEE TRANSACTIONS ON POWER DELIVERY: 1: 2010
+mag_IEEE TRANSACTIONS ON POWER DELIVERY: 1: 2010
+mag_IEEE TRANSACTIONS ON POWER DELIVERY: 1: 2010
+mag_IEEE TRANSACTIONS ON POWER DELIVERY: 1: 2012
+mag_IEEE TRANSACTIONS ON POWER DELIVERY: 1: 2015
+mag_IEEE TRANSACTIONS ON POWER DELIVERY: 1: 2015
+mag_IEEE TRANSACTIONS ON POWER ELECTRONICS: 1: 2000
+mag_IEEE TRANSACTIONS ON POWER ELECTRONICS: 1: 2004
+mag_IEEE TRANSACTIONS ON POWER ELECTRONICS: 1: 2008
+mag_IEEE TRANSACTIONS ON POWER ELECTRONICS: 2: 2016
+mag_IEEE TRANSACTIONS ON POWER SYSTEMS: 2: 2002
+mag_IEEE TRANSACTIONS ON POWER SYSTEMS: 1: 2006
+mag_IEEE TRANSACTIONS ON SIGNAL PROCESSING: 2: 2002
+mag_IEEE TRANSACTIONS ON SMART GRID: 1: 2015
+mag_IEEE TRANSACTIONS ON SYSTEMS MAN AND CYBERNETICS PART A-SYSTEMS AND HUMANS: 1: 2002
+mag_IEEE TRANSACTIONS ON SYSTEMS MAN AND CYBERNETICS PART C-APPLICATIONS AND RE: 1: 2000
+mag_IEEE TRANSACTIONS ON VEHICULAR TECHNOLOGY: 3: 2011
+mag_IEEE TRANSACTIONS ON VERY LARGE SCALE INTEGRATION (VLSI) SYSTEMS: 1: 2009
+mag_IEEE TRANSACTIONS SOFTWARE ENGINEERING: 1: 2002
+mag_IEEE TRANSACTIONS SOFTWARE ENGINEERING: 1: 2004
+mag_IEEE TRANSACTIONS SOFTWARE ENGINEERING: 1: 2007
+mag_IEEE TRANSACTIONS SOFTWARE ENGINEERING: 1: 2013
+mag_IEEE-ACM TRANSACTIONS ON NETWORKING: 1: 2008
+mag_IEEJ TRANSACTIONS ON ELECTRICAL AND ELECTRONIC ENGINEERING: 1: 2016
+mag_IEICE TRANSACTIONS ON COMMUNICATIONS: 1: 2000
+mag_IET COMMUNICATIONS: 1: 2011
+mag_IET COMMUNICATIONS: 3: 2011
+mag_IET CONTROL THEORY AND APPLICATIONS: 3: 2011
+mag_IET ELECTRIC POWER APPLICATIONS: 1: 2007
+mag_IET ELECTRIC POWER APPLICATIONS: 1: 2008
+mag_IET ELECTRIC POWER APPLICATIONS: 1: 2010
+mag_IET ELECTRIC POWER APPLICATIONS: 1: 2010
+mag_IET ELECTRIC POWER APPLICATIONS: 1: 2011
+mag_IET ELECTRIC POWER APPLICATIONS: 1: 2016
+mag_IET GENERATION, TRANSMISSION AND DISTRIBUTION: 2: 2007
+mag_IET GENERATION, TRANSMISSION AND DISTRIBUTION: 2: 2015
+mag_IET GENERATION, TRANSMISSION AND DISTRIBUTION: 1: 2015
+mag_IET GENERATION, TRANSMISSION AND DISTRIBUTION: 3: 2015
+mag_IET GENERATION, TRANSMISSION AND DISTRIBUTION: 1: 2016
+mag_IET IMAGE PROCESSING: 1: 2013
+mag_IET POWER ELECTRONICS: 2: 2014
+mag_IET SIGNAL PROCESSING: 2: 2009
+mag_IET SOFTWARE: 1: 2015
+mag_INFO M: 1: 2000
+mag_INFO M: 2: 2011
+mag_INFO M: 1: 2012
+mag_INFO M: 2: 2012
+mag_INFO M: 1: 2013
+mag_INFO M: 2: 2014
+mag_INFO M: 3: 2014
+mag_INFO M: 1: 2015
+mag_INFO M: 2: 2016
+mag_INFO M: 1: 2016
+mag_INFORMACIJE MIDEM-JOURNAL OF MICROELECTRONICS ELECTRONIC COMPONENTS AND MAT: 1: 2009
+mag_INFORMACIJE MIDEM-JOURNAL OF MICROELECTRONICS ELECTRONIC COMPONENTS AND MAT: 3: 2012
+mag_INFORMACIJE MIDEM-JOURNAL OF MICROELECTRONICS ELECTRONIC COMPONENTS AND MAT: 3: 2012
+mag_INFORMACIJE MIDEM-JOURNAL OF MICROELECTRONICS ELECTRONIC COMPONENTS AND MAT: 2: 2012
+mag_INFORMACIJE MIDEM-JOURNAL OF MICROELECTRONICS ELECTRONIC COMPONENTS AND MAT: 1: 2013
+mag_INFORMACIJE MIDEM-JOURNAL OF MICROELECTRONICS ELECTRONIC COMPONENTS AND MAT: 1: 2015
+mag_INFORMACIJE MIDEM-JOURNAL OF MICROELECTRONICS ELECTRONIC COMPONENTS AND MAT: 1: 2016
+mag_INFORMACIJE MIDEM-JOURNAL OF MICROELECTRONICS ELECTRONIC COMPONENTS AND MAT: 2: 2016
+mag_INFORMATICA: 1: 2002
+mag_INFORMATION AND SOFTWARE TECHNOLOGY: 3: 2014
+mag_INGINERIA ILUMINATULUI (LIGHTING ENGINEERING): 1: 2005
+mag_INOVACIJE U NASTAVI - ČASOPIS ZA SAVREMENU NASTAVU: 1: 2005
+mag_INOVACIJE U NASTAVI - ČASOPIS ZA SAVREMENU NASTAVU: 1: 2009
+mag_INSTRUMENTATION SCIENCE AND TECHNOLOGY: 1: 2008
+mag_INSTRUMENTATION SCIENCE AND TECHNOLOGY: 1: 2015
+mag_INTEGRAL TRANSFORMS AND SPECIAL FUNCTIONS: 1: 2008
+mag_INTEGRITET I VEK KONSTRUKCIJA: 3: 2010
+mag_INTERNATIONAL JOURNAL OF ADVANCED MANUFACTURING TECHNOLOGY: 1: 2009
+mag_INTERNATIONAL JOURNAL OF ADVANCED ROBOTIC SYSTEMS: 1: 2012
+mag_INTERNATIONAL JOURNAL OF ADVANCED ROBOTIC SYSTEMS: 2: 2012
+mag_INTERNATIONAL JOURNAL OF ADVANCED ROBOTIC SYSTEMS: 1: 2012
+mag_INTERNATIONAL JOURNAL OF ADVANCED ROBOTIC SYSTEMS: 2: 2013
+mag_INTERNATIONAL JOURNAL OF APPLIED MATHEMATICS AND STATISTICS: 1: 2007
+mag_INTERNATIONAL JOURNAL OF APPLIED SCIENCE & COMPUTATIONS: 1: 2000
+mag_INTERNATIONAL JOURNAL OF COMMUNICATION SYSTEMS: 2: 2012
+mag_INTERNATIONAL JOURNAL OF COMMUNICATION SYSTEMS: 1: 2015
+mag_INTERNATIONAL JOURNAL OF COMPUTER RESEARCH: 2: 2001
+mag_INTERNATIONAL JOURNAL OF CONTROL: 1: 2005
+mag_INTERNATIONAL JOURNAL OF CONTROL: 2: 2006
+mag_INTERNATIONAL JOURNAL OF CONTROL: 1: 2015
+mag_INTERNATIONAL JOURNAL OF DISTRIBUTED SENSOR NETWORKS: 1: 2015
+mag_INTERNATIONAL JOURNAL OF ELECTRICAL ENGINEERING EDUCATION: 2: 2003
+mag_INTERNATIONAL JOURNAL OF ELECTRICAL ENGINEERING EDUCATION: 1: 2006
+mag_INTERNATIONAL JOURNAL OF ELECTRICAL ENGINEERING EDUCATION: 2: 2007
+mag_INTERNATIONAL JOURNAL OF ELECTRICAL ENGINEERING EDUCATION: 4: 2008
+mag_INTERNATIONAL JOURNAL OF ELECTRICAL ENGINEERING EDUCATION: 1: 2009
+mag_INTERNATIONAL JOURNAL OF ELECTRICAL ENGINEERING EDUCATION: 1: 2010
+mag_INTERNATIONAL JOURNAL OF ELECTRICAL ENGINEERING EDUCATION: 1: 2011
+mag_INTERNATIONAL JOURNAL OF ELECTRICAL ENGINEERING EDUCATION: 3: 2012
+mag_INTERNATIONAL JOURNAL OF ELECTRICAL ENGINEERING EDUCATION: 2: 2013
+mag_INTERNATIONAL JOURNAL OF ELECTRICAL ENGINEERING EDUCATION: 1: 2014
+mag_INTERNATIONAL JOURNAL OF ELECTRICAL ENGINEERING EDUCATION: 1: 2014
+mag_INTERNATIONAL JOURNAL OF ELECTRICAL ENGINEERING EDUCATION: 2: 2015
+mag_INTERNATIONAL JOURNAL OF ELECTRICAL ENGINEERING EDUCATION: 9: 2015
+mag_INTERNATIONAL JOURNAL OF ELECTRICAL POWER AND ENERGY SYSTEMS: 1: 2000
+mag_INTERNATIONAL JOURNAL OF ELECTRICAL POWER AND ENERGY SYSTEMS: 2: 2003
+mag_INTERNATIONAL JOURNAL OF ELECTRICAL POWER AND ENERGY SYSTEMS: 1: 2007
+mag_INTERNATIONAL JOURNAL OF ELECTRICAL POWER AND ENERGY SYSTEMS: 3: 2012
+mag_INTERNATIONAL JOURNAL OF ELECTRICAL POWER AND ENERGY SYSTEMS: 4: 2012
+mag_INTERNATIONAL JOURNAL OF ELECTRICAL POWER AND ENERGY SYSTEMS: 1: 2013
+mag_INTERNATIONAL JOURNAL OF ELECTRICAL POWER AND ENERGY SYSTEMS: 2: 2013
+mag_INTERNATIONAL JOURNAL OF ENGINEERING EDUCATION: 2: 2014
+mag_INTERNATIONAL JOURNAL OF ENGINEERING EDUCATION: 3: 2015
+mag_INTERNATIONAL JOURNAL OF ENGINEERING EDUCATION: 3: 2016
+mag_INTERNATIONAL JOURNAL OF HUMAN-COMPUTER INTERACTION: 1: 2004
+mag_INTERNATIONAL JOURNAL OF HUMAN-COMPUTER STUDIES: 1: 2014
+mag_INTERNATIONAL JOURNAL OF HUMANOID ROBOTICS: 1: 2005
+mag_INTERNATIONAL JOURNAL OF HUMANOID ROBOTICS: 1: 2005
+mag_INTERNATIONAL JOURNAL OF HUMANOID ROBOTICS: 1: 2006
+mag_INTERNATIONAL JOURNAL OF HUMANOID ROBOTICS: 1: 2006
+mag_INTERNATIONAL JOURNAL OF HUMANOID ROBOTICS: 2: 2008
+mag_INTERNATIONAL JOURNAL OF HUMANOID ROBOTICS: 1: 2008
+mag_INTERNATIONAL JOURNAL OF HUMANOID ROBOTICS: 1: 2009
+mag_INTERNATIONAL JOURNAL OF INFRARED AND MILLIMETER WAVES: 2: 2001
+mag_INTERNATIONAL JOURNAL OF INTELLIGENT SYSTEMS: 3: 2013
+mag_INTERNATIONAL JOURNAL OF MATERIALS RESEARCH: 1: 2006
+mag_INTERNATIONAL JOURNAL OF MATERIALS RESEARCH: 1: 2008
+mag_INTERNATIONAL JOURNAL OF MEDICAL INFORMATICS: 1: 2000
+mag_INTERNATIONAL JOURNAL OF NETWORK MANAGEMENT: 1: 2015
+mag_INTERNATIONAL JOURNAL OF NEURAL SYSTEMS: 1: 2011
+mag_INTERNATIONAL JOURNAL OF NEURAL SYSTEMS: 2: 2012
+mag_INTERNATIONAL JOURNAL OF NEURAL SYSTEMS: 2: 2016
+mag_INTERNATIONAL JOURNAL OF NEUROSCIENCE: 1: 2009
+mag_INTERNATIONAL JOURNAL OF NUMERICAL MODELLING-ELECTRONIC NETWORKS DEVICES AN: 1: 2001
+mag_INTERNATIONAL JOURNAL OF PARALLEL PROGRAMMING: 2: 2002
+mag_INTERNATIONAL JOURNAL OF PATTERN RECOGNITION AND ARTIFICIAL INTELLIGENCE: 1: 2001
+mag_INTERNATIONAL JOURNAL OF PHOTOENERGY: 1: 2013
+mag_INTERNATIONAL JOURNAL OF PHOTOENERGY: 2: 2013
+mag_INTERNATIONAL JOURNAL OF PHOTOENERGY: 1: 2013
+mag_INTERNATIONAL JOURNAL OF PHOTOENERGY: 1: 2013
+mag_INTERNATIONAL JOURNAL OF PHOTOENERGY: 1: 2013
+mag_INTERNATIONAL JOURNAL OF PHOTOENERGY: 1: 2013
+mag_INTERNATIONAL JOURNAL OF PHOTOENERGY: 2: 2013
+mag_INTERNATIONAL JOURNAL OF PHOTOENERGY: 1: 2013
+mag_INTERNATIONAL JOURNAL OF REASONING-BASED INTELLIGENT SYSTEMS: 2: 2012
+mag_INTERNATIONAL JOURNAL OF REASONING-BASED INTELLIGENT SYSTEMS: 2: 2013
+mag_INTERNATIONAL JOURNAL OF SOFTWARE ENGINEERING AND KNOWLEDGE ENGINEERING: 3: 2016
+mag_INTERNATIONAL JOURNAL OF SYSTEMS SCIENCE: 2: 2002
+mag_INTERNATIONAL JOURNAL OF SYSTEMS SCIENCE: 2: 2008
+mag_INTERNATIONAL REVIEW OF ELECTRICAL ENGINEERING / IREE: 2: 2008
+mag_INTERNATIONAL REVIEW OF ELECTRICAL ENGINEERING / IREE: 1: 2009
+mag_INTERNATIONAL REVIEW OF ELECTRICAL ENGINEERING / IREE: 1: 2011
+mag_INTERNATIONAL REVIEW OF ELECTRICAL ENGINEERING / IREE: 2: 2012
+mag_INTERNATIONAL REVIEW ON MODELLING AND SIMULATIONS (IREMOS): 1: 2011
+mag_INTERNATIONAL TRANSACTIONS ON ELECTRICAL ENERGY SYSTEMS: 1: 2014
+mag_IOP CONFERENCE SERIES EARTH AND ENVIRONMENTAL SCIENCE: 2: 2008
+mag_IPSI TRANSACTIONS ON INTERNET RESEARCH: 3: 2006
+mag_IPSI TRANSACTIONS ON INTERNET RESEARCH: 3: 2006
+mag_IPSI TRANSACTIONS ON INTERNET RESEARCH: 2: 2007
+mag_IPSI TRANSACTIONS ON INTERNET RESEARCH: 2: 2010
+mag_IPSI TRANSACTIONS ON INTERNET RESEARCH: 2: 2013
+mag_IPSI TRANSACTIONS ON INTERNET RESEARCH: 3: 2013
+mag_IPSI TRANSACTIONS ON INTERNET RESEARCH: 3: 2013
+mag_IRANIAN JOURNAL OF SCIENCE AND TECHNOLOGY. TRANSACTION B ENGINEERING: 1: 2010
+mag_ISA TRANSACTIONS: 2: 2014
+mag_ISA TRANSACTIONS: 1: 2016
+mag_ISRN Algebra: 2: 2013
+mag_ISRN MATHEMATICAL ANALYSIS: 2: 2012
+mag_IUGOSLAVICA PHYSIOLOGICA ET PHARMACOLOGICA ACTA: 2: 2004
+mag_Indian Journal of Mathematics: 1: 2012
+mag_International Journal of Engineering and Manufacturing : 1: 2012
+mag_International Journal of Microwave and Wireless Technologies: 2: 2014
+mag_International Journal of Microwave and Wireless Technologies: 1: 2016
+mag_JAPANESE JOURNAL OF APPLIED PHYSICS: 1: 2001
+mag_JAPANESE JOURNAL OF APPLIED PHYSICS: 1: 2002
+mag_JAPANESE JOURNAL OF APPLIED PHYSICS: 4: 2008
+mag_JAPANESE JOURNAL OF APPLIED PHYSICS: 1: 2009
+mag_JAPANESE JOURNAL OF APPLIED PHYSICS: 1: 2011
+mag_JISA INFO: 2: 2000
+mag_JISA INFO: 1: 2002
+mag_JOURNAL DE PHYSIQUE IV: 1: 2005
+mag_JOURNAL DE PHYSIQUE IV: 1: 2005
+mag_JOURNAL OF ALLOYS AND COMPOUNDS: 1: 2007
+mag_JOURNAL OF ALLOYS AND COMPOUNDS: 1: 2008
+mag_JOURNAL OF ALLOYS AND COMPOUNDS: 1: 2009
+mag_JOURNAL OF ALLOYS AND COMPOUNDS: 1: 2009
+mag_JOURNAL OF ALLOYS AND COMPOUNDS: 2: 2016
+mag_JOURNAL OF APPLIED PHYSICS: 2: 2000
+mag_JOURNAL OF APPLIED PHYSICS: 2: 2000
+mag_JOURNAL OF APPLIED PHYSICS: 1: 2002
+mag_JOURNAL OF APPLIED PHYSICS: 1: 2002
+mag_JOURNAL OF APPLIED PHYSICS: 1: 2002
+mag_JOURNAL OF APPLIED PHYSICS: 1: 2002
+mag_JOURNAL OF APPLIED PHYSICS: 2: 2002
+mag_JOURNAL OF APPLIED PHYSICS: 1: 2002
+mag_JOURNAL OF APPLIED PHYSICS: 2: 2002
+mag_JOURNAL OF APPLIED PHYSICS: 1: 2003
+mag_JOURNAL OF APPLIED PHYSICS: 1: 2003
+mag_JOURNAL OF APPLIED PHYSICS: 1: 2005
+mag_JOURNAL OF APPLIED PHYSICS: 1: 2005
+mag_JOURNAL OF APPLIED PHYSICS: 2: 2005
+mag_JOURNAL OF APPLIED PHYSICS: 1: 2005
+mag_JOURNAL OF APPLIED PHYSICS: 2: 2006
+mag_JOURNAL OF APPLIED PHYSICS: 1: 2006
+mag_JOURNAL OF APPLIED PHYSICS: 2: 2007
+mag_JOURNAL OF APPLIED PHYSICS: 2: 2007
+mag_JOURNAL OF APPLIED PHYSICS: 1: 2007
+mag_JOURNAL OF APPLIED PHYSICS: 2: 2008
+mag_JOURNAL OF APPLIED PHYSICS: 1: 2009
+mag_JOURNAL OF APPLIED PHYSICS: 2: 2010
+mag_JOURNAL OF APPLIED PHYSICS: 2: 2011
+mag_JOURNAL OF APPLIED PHYSICS: 2: 2011
+mag_JOURNAL OF APPLIED PHYSICS: 2: 2011
+mag_JOURNAL OF APPLIED PHYSICS: 1: 2012
+mag_JOURNAL OF APPLIED PHYSICS: 2: 2012
+mag_JOURNAL OF APPLIED PHYSICS: 2: 2014
+mag_JOURNAL OF APPLIED PHYSICS: 2: 2014
+mag_JOURNAL OF APPLIED PHYSICS: 2: 2014
+mag_JOURNAL OF ATMOSPHERIC AND OCEANIC TECHNOLOGY / AMERICAN METEOROLOGICAL SOCIETY: 1: 2015
+mag_JOURNAL OF AUTOMATIC CONTROL: 2: 2001
+mag_JOURNAL OF AUTOMATIC CONTROL: 2: 2002
+mag_JOURNAL OF AUTOMATIC CONTROL: 2: 2003
+mag_JOURNAL OF AUTOMATIC CONTROL: 1: 2005
+mag_JOURNAL OF AUTOMATIC CONTROL: 2: 2008
+mag_JOURNAL OF AUTOMATIC CONTROL: 3: 2008
+mag_JOURNAL OF AUTOMATIC CONTROL: 2: 2009
+mag_JOURNAL OF AUTOMATIC CONTROL: 1: 2009
+mag_JOURNAL OF AUTOMATIC CONTROL: 2: 2010
+mag_JOURNAL OF BIOMECHANICS: 1: 2001
+mag_JOURNAL OF BIOMECHANICS: 3: 2012
+mag_JOURNAL OF BIOMEDICINE AND BIOTECHNOLOGY: 1: 2014
+mag_JOURNAL OF CERAMIC PROCESSING RESEARCH: 1: 2013
+mag_JOURNAL OF CIRCUITS, SYSTEMS, AND COMPUTERS: 2: 2014
+mag_JOURNAL OF CIRCUITS, SYSTEMS, AND COMPUTERS: 2: 2014
+mag_JOURNAL OF CIRCUITS, SYSTEMS, AND COMPUTERS: 2: 2016
+mag_JOURNAL OF CIRCUITS, SYSTEMS, AND COMPUTERS: 2: 2016
+mag_JOURNAL OF CLINICAL NEUROSCIENCE: 1: 2016
+mag_JOURNAL OF CLINICAL ULTRASOUND: 1: 2010
+mag_JOURNAL OF COMMUNICATION DISORDERS: 1: 2010
+mag_JOURNAL OF COMPUTATIONAL ANALYSIS AND APPLICATIONS: 1: 2011
+mag_JOURNAL OF COMPUTATIONAL ANALYSIS AND APPLICATIONS: 1: 2016
+mag_JOURNAL OF COMPUTER SCIENCE AND TECHNOLOGY: 2: 2011
+mag_JOURNAL OF DIFFERENCE EQUATIONS AND APPLICATIONS: 1: 2006
+mag_JOURNAL OF DIFFERENCE EQUATIONS AND APPLICATIONS: 1: 2014
+mag_JOURNAL OF ELECTRICAL ENGINEERING-ELEKTROTECHNICKY CASOPIS: 1: 2012
+mag_JOURNAL OF ELECTRICAL ENGINEERING-ELEKTROTECHNICKY CASOPIS: 1: 2013
+mag_JOURNAL OF ELECTRICAL ENGINEERING-ELEKTROTECHNICKY CASOPIS: 2: 2013
+mag_JOURNAL OF ELECTRICAL ENGINEERING-ELEKTROTECHNICKY CASOPIS: 2: 2014
+mag_JOURNAL OF ELECTRICAL ENGINEERING-ELEKTROTECHNICKY CASOPIS: 1: 2014
+mag_JOURNAL OF ELECTRICAL ENGINEERING-ELEKTROTECHNICKY CASOPIS: 1: 2016
+mag_JOURNAL OF ELECTROMAGNETIC WAVES AND APPLICATIONS: 2: 2012
+mag_JOURNAL OF ELECTROMYOGRAPHY AND KINESIOLOGY: 1: 2014
+mag_JOURNAL OF ELECTRONIC IMAGING: 1: 2012
+mag_JOURNAL OF FUNCTION SPACES: 1: 2015
+mag_JOURNAL OF INEQUALITIES AND APPLICATIONS: 1: 2006
+mag_JOURNAL OF INEQUALITIES AND APPLICATIONS: 1: 2006
+mag_JOURNAL OF INEQUALITIES AND APPLICATIONS: 1: 2007
+mag_JOURNAL OF INEQUALITIES AND APPLICATIONS: 1: 2015
+mag_JOURNAL OF INEQUALITIES IN PURE AND APPLIED MATHEMATICS: 1: 2004
+mag_JOURNAL OF INFORMATION TECHNOLOGY AND APPLICATIONS: 2: 2011
+mag_JOURNAL OF INFRARED MILLIMETER AND TERAHERTZ WAVES: 2: 2011
+mag_JOURNAL OF INSTRUMENTATION: 3: 2006
+mag_JOURNAL OF INSTRUMENTATION: 3: 2007
+mag_JOURNAL OF INSTRUMENTATION: 2: 2010
+mag_JOURNAL OF INSTRUMENTATION: 1: 2011
+mag_JOURNAL OF INSTRUMENTATION: 1: 2011
+mag_JOURNAL OF INSTRUMENTATION: 1: 2013
+mag_JOURNAL OF INTEGER SEQUENCES: 2: 2007
+mag_JOURNAL OF INTELLIGENT & ROBOTIC SYSTEMS: 1: 2000
+mag_JOURNAL OF INTELLIGENT & ROBOTIC SYSTEMS: 1: 2002
+mag_JOURNAL OF INTELLIGENT & ROBOTIC SYSTEMS: 1: 2002
+mag_JOURNAL OF INTELLIGENT & ROBOTIC SYSTEMS: 1: 2004
+mag_JOURNAL OF INTELLIGENT & ROBOTIC SYSTEMS: 1: 2007
+mag_JOURNAL OF INTELLIGENT & ROBOTIC SYSTEMS: 1: 2011
+mag_JOURNAL OF INTELLIGENT & ROBOTIC SYSTEMS: 1: 2011
+mag_JOURNAL OF LIGHTWAVE TECHNOLOGY: 1: 2000
+mag_JOURNAL OF LIGHTWAVE TECHNOLOGY: 1: 2003
+mag_JOURNAL OF LIGHTWAVE TECHNOLOGY: 2: 2008
+mag_JOURNAL OF LIGHTWAVE TECHNOLOGY: 1: 2009
+mag_JOURNAL OF LIGHTWAVE TECHNOLOGY: 4: 2014
+mag_JOURNAL OF LIGHTWAVE TECHNOLOGY: 4: 2015
+mag_JOURNAL OF LOGIC AND COMPUTATION: 1: 2006
+mag_JOURNAL OF LUMINESCENCE: 1: 2006
+mag_JOURNAL OF MATERIALS SCIENCE: 1: 2008
+mag_JOURNAL OF MATERIALS SCIENCE: 1: 2010
+mag_JOURNAL OF MATERIALS SCIENCE: 1: 2012
+mag_JOURNAL OF MATERIALS SCIENCE-MATERIALS IN ELECTRONICS: 1: 2009
+mag_JOURNAL OF MATHEMATICAL ANALYSIS AND APPLICATIONS: 1: 2004
+mag_JOURNAL OF MATHEMATICAL ANALYSIS AND APPLICATIONS: 1: 2008
+mag_JOURNAL OF MATHEMATICAL ANALYSIS AND APPLICATIONS: 1: 2010
+mag_JOURNAL OF MICROSCOPY: 1: 2008
+mag_JOURNAL OF NANOPHOTONICS: 2: 2011
+mag_JOURNAL OF NANOPHOTONICS: 2: 2011
+mag_JOURNAL OF NANOPHOTONICS: 1: 2011
+mag_JOURNAL OF NAVIGATION: 3: 2014
+mag_JOURNAL OF NEURAL ENGINEERING: 1: 2014
+mag_JOURNAL OF NEURAL ENGINEERING: 1: 2015
+mag_JOURNAL OF NEURO ENGINEERING AND REHABILITATION / JNER: 1: 2010
+mag_JOURNAL OF NEURO ENGINEERING AND REHABILITATION / JNER: 3: 2012
+mag_JOURNAL OF NEURO ENGINEERING AND REHABILITATION / JNER: 1: 2012
+mag_JOURNAL OF NEUROSCIENCE METHODS: 2: 2009
+mag_JOURNAL OF NEUROSCIENCE METHODS: 2: 2009
+mag_JOURNAL OF NEUROSCIENCE METHODS: 3: 2011
+mag_JOURNAL OF NUCLEAR SCIENCE AND TECHNOLOGY: 1: 2008
+mag_JOURNAL OF OPTICAL COMMUNICATIONS: 2: 2001
+mag_JOURNAL OF OPTICAL COMMUNICATIONS AND NETWORKING: 1: 2013
+mag_JOURNAL OF OPTICAL TECHNOLOGY: 1: 2005
+mag_JOURNAL OF OPTICS A PURE AND APPLIED OPTICS: 2: 2002
+mag_JOURNAL OF OPTICS A PURE AND APPLIED OPTICS: 1: 2002
+mag_JOURNAL OF OPTOELECTRONICS AND ADVANCED MATERIALS: 1: 2000
+mag_JOURNAL OF OPTOELECTRONICS AND ADVANCED MATERIALS: 1: 2004
+mag_JOURNAL OF OPTOELECTRONICS AND ADVANCED MATERIALS: 1: 2006
+mag_JOURNAL OF OPTOELECTRONICS AND ADVANCED MATERIALS: 3: 2006
+mag_JOURNAL OF OPTOELECTRONICS AND ADVANCED MATERIALS: 2: 2006
+mag_JOURNAL OF OPTOELECTRONICS AND ADVANCED MATERIALS: 1: 2006
+mag_JOURNAL OF OPTOELECTRONICS AND ADVANCED MATERIALS: 1: 2006
+mag_JOURNAL OF OPTOELECTRONICS AND ADVANCED MATERIALS: 3: 2006
+mag_JOURNAL OF OPTOELECTRONICS AND ADVANCED MATERIALS: 2: 2007
+mag_JOURNAL OF OPTOELECTRONICS AND ADVANCED MATERIALS: 2: 2007
+mag_JOURNAL OF OPTOELECTRONICS AND ADVANCED MATERIALS: 2: 2007
+mag_JOURNAL OF OPTOELECTRONICS AND ADVANCED MATERIALS: 2: 2007
+mag_JOURNAL OF OPTOELECTRONICS AND ADVANCED MATERIALS: 2: 2007
+mag_JOURNAL OF OPTOELECTRONICS AND ADVANCED MATERIALS: 2: 2007
+mag_JOURNAL OF OPTOELECTRONICS AND ADVANCED MATERIALS: 2: 2007
+mag_JOURNAL OF OPTOELECTRONICS AND ADVANCED MATERIALS: 3: 2007
+mag_JOURNAL OF OPTOELECTRONICS AND ADVANCED MATERIALS: 4: 2008
+mag_JOURNAL OF OPTOELECTRONICS AND ADVANCED MATERIALS: 1: 2008
+mag_JOURNAL OF OPTOELECTRONICS AND ADVANCED MATERIALS: 1: 2008
+mag_JOURNAL OF OPTOELECTRONICS AND ADVANCED MATERIALS: 1: 2008
+mag_JOURNAL OF OPTOELECTRONICS AND ADVANCED MATERIALS: 1: 2009
+mag_JOURNAL OF OPTOELECTRONICS AND ADVANCED MATERIALS: 1: 2013
+mag_JOURNAL OF OPTOELECTRONICS AND ADVANCED MATERIALS: 2: 2014
+mag_JOURNAL OF PARALLEL AND DISTRIBUTED COMPUTING: 2: 2012
+mag_JOURNAL OF PHYSICS CONDENSED MATTER: 1: 2004
+mag_JOURNAL OF PHYSICS CONDENSED MATTER: 2: 2012
+mag_JOURNAL OF PHYSICS CONDENSED MATTER: 3: 2016
+mag_JOURNAL OF PHYSICS CONFERENCE SERIES: 1: 2008
+mag_JOURNAL OF PHYSICS CONFERENCE SERIES: 5: 2014
+mag_JOURNAL OF PHYSICS D APPLIED PHYSICS: 2: 2006
+mag_JOURNAL OF PHYSICS D APPLIED PHYSICS: 2: 2007
+mag_JOURNAL OF PHYSICS D APPLIED PHYSICS: 2: 2007
+mag_JOURNAL OF PHYSICS D APPLIED PHYSICS: 2: 2010
+mag_JOURNAL OF PHYSICS D APPLIED PHYSICS: 2: 2011
+mag_JOURNAL OF PHYSICS D APPLIED PHYSICS: 1: 2015
+mag_JOURNAL OF PHYSICS D APPLIED PHYSICS: 2: 2016
+mag_JOURNAL OF PHYSICS D APPLIED PHYSICS: 2: 2016
+mag_JOURNAL OF PHYSICS. A MATHEMATICAL AND THEORETICAL: 2: 2009
+mag_JOURNAL OF PROCESS CONTROL: 2: 2003
+mag_JOURNAL OF PROCESS CONTROL: 2: 2010
+mag_JOURNAL OF PROCESS CONTROL: 2: 2011
+mag_JOURNAL OF PROCESS CONTROL: 2: 2011
+mag_JOURNAL OF PROCESS CONTROL: 2: 2014
+mag_JOURNAL OF PROCESS CONTROL: 1: 2015
+mag_JOURNAL OF RADIOLOGICAL PROTECTION: 1: 2015
+mag_JOURNAL OF REAL-TIME IMAGE PROCESSING: 1: 2014
+mag_JOURNAL OF REHABILITATION RESEARCH AND DEVELOPMENT / VETERANS ADMINISTRATION, DEPARTMENT OF MEDICINE AND SURGERY, REHABILITATION R&D SERVICE: 2: 2003
+mag_JOURNAL OF RENEWABLE AND SUSTAINABLE ENERGY: 2: 2014
+mag_JOURNAL OF RENEWABLE AND SUSTAINABLE ENERGY: 3: 2014
+mag_JOURNAL OF RENEWABLE AND SUSTAINABLE ENERGY: 3: 2015
+mag_JOURNAL OF RESEARCH IN MEDICAL SCIENCES: 1: 2012
+mag_JOURNAL OF ROBOTIC SYSTEMS: 1: 2004
+mag_JOURNAL OF SUPERCOMPUTING: 2: 2006
+mag_JOURNAL OF SUPERCONDUCTIVITY: 1: 2005
+mag_JOURNAL OF SYSTEMS ARCHITECTURE: 1: 2005
+mag_JOURNAL OF SYSTEMS ARCHITECTURE: 1: 2005
+mag_JOURNAL OF THE ACOUSTICAL SOCIETY OF AMERICA: 1: 2004
+mag_JOURNAL OF THE ACOUSTICAL SOCIETY OF AMERICA: 2: 2005
+mag_JOURNAL OF THE ACOUSTICAL SOCIETY OF AMERICA: 1: 2007
+mag_JOURNAL OF THE ACOUSTICAL SOCIETY OF AMERICA: 1: 2011
+mag_JOURNAL OF THE ACOUSTICAL SOCIETY OF AMERICA: 2: 2012
+mag_JOURNAL OF THE ACOUSTICAL SOCIETY OF AMERICA: 2: 2013
+mag_JOURNAL OF THE ACOUSTICAL SOCIETY OF AMERICA: 2: 2013
+mag_JOURNAL OF THE ACOUSTICAL SOCIETY OF AMERICA: 2: 2015
+mag_JOURNAL OF THE ACOUSTICAL SOCIETY OF AMERICA: 2: 2016
+mag_JOURNAL OF THE ACOUSTICAL SOCIETY OF AMERICA: 2: 2016
+mag_JOURNAL OF THE EUROPEAN CERAMIC SOCIETY: 1: 2007
+mag_JOURNAL OF THE EUROPEAN CERAMIC SOCIETY: 1: 2007
+mag_JOURNAL OF THE OPTICAL SOCIETY OF AMERICA A-OPTICS IMAGE SCIENCE AND VISION: 2: 2013
+mag_JOURNAL OF THE OPTICAL SOCIETY OF AMERICA B-OPTICAL PHYSICS: 1: 2002
+mag_JOURNAL OF THE OPTICAL SOCIETY OF AMERICA B-OPTICAL PHYSICS: 2: 2008
+mag_JOURNAL OF THE OPTICAL SOCIETY OF AMERICA B-OPTICAL PHYSICS: 2: 2009
+mag_JOURNAL OF THE SERBIAN CHEMICAL SOCIETY: 1: 2002
+mag_JOURNAL OF THE SERBIAN CHEMICAL SOCIETY: 2: 2005
+mag_JOURNAL OF VOICE: 1: 2008
+mag_JOURNAL OF X-RAY SCIENCE AND TECHNOLOGY: 1: 2009
+mag_Journal of Big Data: 1: 2015
+mag_Journal of Big Data: 1: 2015
+mag_Journal of Big Data: 1: 2015
+mag_Journal of Computational Electronics: 2: 2016
+mag_Journal of Energy and Power Sources: 2: 2014
+mag_Journal of English for Specific and Academic Purposes: 1: 2013
+mag_Journal of Mathematical Inequalities: 1: 2014
+mag_Journal of Mathematical Inequalities: 2: 2016
+mag_KLIMATIZACIJA, GREJANJE, HLAĐENJE: 1: 2013
+mag_KRAGUJEVAC JOURNAL OF MATHEMATICS: 1: 2007
+mag_KRAGUJEVAC JOURNAL OF MATHEMATICS: 1: 2012
+mag_LECTURE NOTES IN COMPUTER SCIENCE: 1: 2000
+mag_LECTURE NOTES IN COMPUTER SCIENCE: 1: 2005
+mag_LECTURE NOTES IN COMPUTER SCIENCE: 1: 2005
+mag_LECTURE NOTES IN COMPUTER SCIENCE: 1: 2009
+mag_LIGHT (NEWSLETTER OF THE INDIAN SOCIETY OF LIGHTING ENGINEERS): 1: 2011
+mag_LIGHT (NEWSLETTER OF THE INDIAN SOCIETY OF LIGHTING ENGINEERS): 1: 2012
+mag_LIGHTING RESEARCH AND TECHNOLOGY: 2: 2002
+mag_LIGHTING RESEARCH AND TECHNOLOGY: 1: 2012
+mag_LIGHTING RESEARCH AND TECHNOLOGY: 1: 2012
+mag_LIGHTING RESEARCH AND TECHNOLOGY: 1: 2013
+mag_LIGHTING RESEARCH AND TECHNOLOGY: 1: 2014
+mag_LIGHTING RESEARCH AND TECHNOLOGY: 1: 2015
+mag_LINEAR & MULTILINEAR ALGEBRA: 1: 2003
+mag_LINEAR ALGEBRA AND ITS APPLICATIONS: 1: 2006
+mag_LINEAR ALGEBRA AND ITS APPLICATIONS: 1: 2010
+mag_LINEAR ALGEBRA AND ITS APPLICATIONS: 3: 2011
+mag_LINEAR ALGEBRA AND ITS APPLICATIONS: 1: 2011
+mag_LINEAR ALGEBRA AND ITS APPLICATIONS: 1: 2013
+mag_LINEAR ALGEBRA AND ITS APPLICATIONS: 1: 2013
+mag_LINEAR ALGEBRA AND ITS APPLICATIONS: 2: 2015
+mag_LINGUA MONTENEGRINA: 1: 2011
+mag_MATCH-COMMUNICATIONS IN MATHEMATICAL AND IN COMPUTER CHEMISTRY: 1: 2005
+mag_MATERIALS & DESIGN: 1: 2016
+mag_MATERIALS AND MANUFACTURING PROCESSES: 2: 2009
+mag_MATERIALS CHEMISTRY AND PHYSICS: 1: 2008
+mag_MATERIALS CHEMISTRY AND PHYSICS: 1: 2009
+mag_MATERIALS CHEMISTRY AND PHYSICS: 1: 2011
+mag_MATERIALS RESEARCH BULLETIN: 1: 2006
+mag_MATERIALS RESEARCH BULLETIN: 1: 2007
+mag_MATERIALS RESEARCH BULLETIN: 2: 2016
+mag_MATERIALS SCIENCE AND ENGINEERING B-SOLID STATE MATERIALS FOR ADVANCED TECH: 1: 2007
+mag_MATERIALS SCIENCE FORUM: 1: 2000
+mag_MATERIALS SCIENCE FORUM: 2: 2000
+mag_MATERIALS SCIENCE FORUM: 2: 2000
+mag_MATERIALS SCIENCE FORUM: 2: 2000
+mag_MATERIALS SCIENCE FORUM: 1: 2003
+mag_MATERIALS SCIENCE FORUM: 1: 2003
+mag_MATERIALS SCIENCE FORUM: 2: 2003
+mag_MATERIALS SCIENCE FORUM: 2: 2004
+mag_MATERIALS SCIENCE FORUM: 1: 2004
+mag_MATERIALS SCIENCE FORUM: 1: 2005
+mag_MATERIALS SCIENCE FORUM: 2: 2005
+mag_MATERIALS SCIENCE FORUM: 1: 2005
+mag_MATERIALS SCIENCE FORUM: 1: 2005
+mag_MATERIALS SCIENCE FORUM: 3: 2005
+mag_MATERIALS SCIENCE FORUM: 1: 2005
+mag_MATERIALS SCIENCE FORUM: 1: 2005
+mag_MATERIALS SCIENCE FORUM: 2: 2005
+mag_MATERIALS SCIENCE FORUM: 2: 2006
+mag_MATERIALS SCIENCE FORUM: 2: 2006
+mag_MATERIALS SCIENCE FORUM: 1: 2006
+mag_MATERIALS SCIENCE FORUM: 2: 2006
+mag_MATERIALS SCIENCE FORUM: 1: 2006
+mag_MATERIALS SCIENCE FORUM: 1: 2006
+mag_MATERIALS SCIENCE FORUM: 2: 2006
+mag_MATERIALS SCIENCE FORUM: 2: 2007
+mag_MATERIALS SCIENCE FORUM: 2: 2007
+mag_MATERIALS SCIENCE FORUM: 1: 2007
+mag_MATERIALS SCIENCE FORUM: 2: 2007
+mag_MATERIALS SCIENCE FORUM: 1: 2007
+mag_MATERIALS TRANSACTIONS: 1: 2006
+mag_MATHEMATICAL INEQUALITIES & APPLICATIONS: 1: 2007
+mag_MATHEMATICAL INEQUALITIES & APPLICATIONS: 1: 2014
+mag_MATHEMATICAL PROBLEMS IN ENGINEERING: 1: 2008
+mag_MATHEMATICAL PROBLEMS IN ENGINEERING: 1: 2011
+mag_MATHEMATICAL PROBLEMS IN ENGINEERING: 2: 2012
+mag_MATHEMATICAL PROBLEMS IN ENGINEERING: 2: 2013
+mag_MATHEMATICAL PROBLEMS IN ENGINEERING: 2: 2015
+mag_MATHEMATICAL PROBLEMS IN ENGINEERING: 1: 2016
+mag_MD - MEDICAL DATA: 1: 2009
+mag_MD - MEDICAL DATA: 1: 2009
+mag_MD - MEDICAL DATA: 3: 2010
+mag_MD - MEDICAL DATA: 1: 2011
+mag_MD - MEDICAL DATA: 3: 2011
+mag_MD - MEDICAL DATA: 1: 2011
+mag_MD - MEDICAL DATA: 3: 2011
+mag_MD - MEDICAL DATA: 1: 2012
+mag_MD - MEDICAL DATA: 1: 2012
+mag_MD - MEDICAL DATA: 1: 2012
+mag_MEASUREMENT: 1: 2011
+mag_MEASUREMENT: 3: 2011
+mag_MEASUREMENT: 1: 2013
+mag_MEASUREMENT: 1: 2016
+mag_MEASUREMENT SCIENCE AND TECHNOLOGY: 1: 2008
+mag_MECHANISM AND MACHINE THEORY: 1: 2000
+mag_MECHANISM AND MACHINE THEORY: 1: 2000
+mag_MEDICAL AND BIOLOGICAL ENGINEERING AND COMPUTING: 1: 2011
+mag_MEDICAL AND BIOLOGICAL ENGINEERING AND COMPUTING: 2: 2013
+mag_MEDICAL AND BIOLOGICAL ENGINEERING AND COMPUTING: 2: 2015
+mag_MEDICAL ENGINEERING & PHYSICS: 1: 2001
+mag_MEDICAL ENGINEERING & PHYSICS: 1: 2002
+mag_MEDICAL ENGINEERING & PHYSICS: 1: 2003
+mag_MEDICAL ENGINEERING & PHYSICS: 1: 2003
+mag_MEDICAL ENGINEERING & PHYSICS: 1: 2003
+mag_MEDICAL ENGINEERING & PHYSICS: 2: 2016
+mag_MEDICAL PHYSICS: 1: 2013
+mag_MEDICAL PHYSICS: 1: 2015
+mag_MEDICINA DEL LAVORO: 1: 2011
+mag_MEDICINSKI PREGLED: 1: 2008
+mag_MEDICINSKI PREGLED: 1: 2010
+mag_MEDICINSKI PREGLED: 1: 2011
+mag_MELT: 1: 2012
+mag_METALURGIJA: 1: 2004
+mag_METEOROLOGICAL APPLICATIONS: 1: 2011
+mag_METROLOGY AND MEASUREMENT SYSTEMS: 1: 2013
+mag_METROLOGY AND MEASUREMENT SYSTEMS: 1: 2015
+mag_METROLOGY AND MEASUREMENT SYSTEMS: 1: 2016
+mag_MICROELECTRONICS INTERNATIONAL: 1: 2011
+mag_MICROELECTRONICS JOURNAL: 2: 2009
+mag_MICROELECTRONICS RELIABILITY: 1: 2002
+mag_MICROWAVE AND OPTICAL TECHNOLOGY LETTERS: 1: 2002
+mag_MICROWAVE AND OPTICAL TECHNOLOGY LETTERS: 2: 2004
+mag_MICROWAVE AND OPTICAL TECHNOLOGY LETTERS: 2: 2007
+mag_MICROWAVE AND OPTICAL TECHNOLOGY LETTERS: 1: 2008
+mag_MICROWAVE AND OPTICAL TECHNOLOGY LETTERS: 2: 2008
+mag_MICROWAVE AND OPTICAL TECHNOLOGY LETTERS: 2: 2008
+mag_MICROWAVE AND OPTICAL TECHNOLOGY LETTERS: 2: 2011
+mag_MICROWAVE AND OPTICAL TECHNOLOGY LETTERS: 1: 2012
+mag_MICROWAVE AND OPTICAL TECHNOLOGY LETTERS: 2: 2012
+mag_MICROWAVE AND OPTICAL TECHNOLOGY LETTERS: 1: 2014
+mag_MICROWAVE REVIEW - MIKROTALASNA REVIJA: 2: 2002
+mag_MICROWAVE REVIEW - MIKROTALASNA REVIJA: 2: 2012
+mag_MICROWAVE REVIEW - MIKROTALASNA REVIJA: 2: 2013
+mag_MICROWAVE REVIEW - MIKROTALASNA REVIJA: 2: 2013
+mag_MICROWAVE REVIEW - MIKROTALASNA REVIJA: 4: 2016
+mag_MINERALOGICAL MAGAZINE: 1: 2007
+mag_MODERN PHYSICS LETTERS. B, CONDENSED MATTER PHYSICS, STATISTICAL PHYSICS, APPLIED PHYSICS: 1: 2012
+mag_MODERN PHYSICS LETTERS. B, CONDENSED MATTER PHYSICS, STATISTICAL PHYSICS, APPLIED PHYSICS: 1: 2012
+mag_MODERN PHYSICS LETTERS. B, CONDENSED MATTER PHYSICS, STATISTICAL PHYSICS, APPLIED PHYSICS: 1: 2013
+mag_MODERN PHYSICS LETTERS. B, CONDENSED MATTER PHYSICS, STATISTICAL PHYSICS, APPLIED PHYSICS: 2: 2016
+mag_MULTIBODY SYSTEM DYNAMICS: 1: 2007
+mag_MULTICULTURAL EDUCATION & TECHNOLOGY JOURNAL: 2: 2013
+mag_MULTIMEDIA TOOLS AND APPLICATIONS: 4: 2015
+mag_MULTIMEDIA TOOLS AND APPLICATIONS: 1: 2015
+mag_MULTIMEDIA TOOLS AND APPLICATIONS: 1: 2016
+mag_MULTIMEDIA TOOLS AND APPLICATIONS: 1: 2016
+mag_MULTIMEDIA TOOLS AND APPLICATIONS: 1: 2016
+mag_MUSCLE & NERVE: 1: 2010
+mag_MUSCLE & NERVE: 1: 2013
+mag_Mining and Metallurgy Engineering Bor: 1: 2015
+mag_NANOTECHNOLOGY: 1: 2008
+mag_NASTAVA I VASPITANJE: 2: 2012
+mag_NASTAVA I VASPITANJE: 2: 2014
+mag_NEUROCOMPUTING: 1: 2007
+mag_NEUROLOGICAL RESEARCH: 1: 2002
+mag_NEUROMODULATION: 2: 2002
+mag_NEUROMODULATION: 2: 2004
+mag_NEUROQUANTOLOGY: 1: 2004
+mag_NEUROQUANTOLOGY: 1: 2012
+mag_NEUROREHABILITATION: 1: 2009
+mag_NEUROREHABILITATION: 2: 2009
+mag_NEUROREHABILITATION: 2: 2013
+mag_NONLINEAR ANALYSIS-THEORY METHODS & APPLICATIONS: 1: 2008
+mag_NONLINEAR ANALYSIS-THEORY METHODS & APPLICATIONS: 1: 2009
+mag_NOVI SAD JOURNAL OF MATHEMATICS: 1: 2006
+mag_NOVI SAD JOURNAL OF MATHEMATICS: 1: 2013
+mag_NOVI SAD JOURNAL OF MATHEMATICS: 1: 2015
+mag_NUCLEAR INSTRUMENTS & METHODS IN PHYSICS RESEARCH SECTION A-ACCELERATORS SP: 1: 2002
+mag_NUCLEAR PHYSICS B-PROCEEDINGS SUPPLEMENTS: 1: 2009
+mag_NUCLEAR TECHNOLOGY AND RADIATION PROTECTION: 2: 2006
+mag_NUCLEAR TECHNOLOGY AND RADIATION PROTECTION: 2: 2009
+mag_NUCLEAR TECHNOLOGY AND RADIATION PROTECTION: 2: 2009
+mag_NUCLEAR TECHNOLOGY AND RADIATION PROTECTION: 2: 2009
+mag_NUCLEAR TECHNOLOGY AND RADIATION PROTECTION: 2: 2009
+mag_NUCLEAR TECHNOLOGY AND RADIATION PROTECTION: 3: 2010
+mag_NUCLEAR TECHNOLOGY AND RADIATION PROTECTION: 2: 2010
+mag_NUCLEAR TECHNOLOGY AND RADIATION PROTECTION: 3: 2011
+mag_NUCLEAR TECHNOLOGY AND RADIATION PROTECTION: 1: 2011
+mag_NUCLEAR TECHNOLOGY AND RADIATION PROTECTION: 2: 2011
+mag_NUCLEAR TECHNOLOGY AND RADIATION PROTECTION: 3: 2012
+mag_NUCLEAR TECHNOLOGY AND RADIATION PROTECTION: 1: 2012
+mag_NUCLEAR TECHNOLOGY AND RADIATION PROTECTION: 3: 2012
+mag_NUCLEAR TECHNOLOGY AND RADIATION PROTECTION: 1: 2012
+mag_NUCLEAR TECHNOLOGY AND RADIATION PROTECTION: 1: 2012
+mag_NUCLEAR TECHNOLOGY AND RADIATION PROTECTION: 1: 2012
+mag_NUCLEAR TECHNOLOGY AND RADIATION PROTECTION: 2: 2013
+mag_NUCLEAR TECHNOLOGY AND RADIATION PROTECTION: 1: 2013
+mag_NUCLEAR TECHNOLOGY AND RADIATION PROTECTION: 1: 2013
+mag_NUCLEAR TECHNOLOGY AND RADIATION PROTECTION: 1: 2013
+mag_NUCLEAR TECHNOLOGY AND RADIATION PROTECTION: 1: 2013
+mag_NUCLEAR TECHNOLOGY AND RADIATION PROTECTION: 1: 2013
+mag_NUCLEAR TECHNOLOGY AND RADIATION PROTECTION: 2: 2014
+mag_NUCLEAR TECHNOLOGY AND RADIATION PROTECTION: 2: 2014
+mag_NUCLEAR TECHNOLOGY AND RADIATION PROTECTION: 2: 2014
+mag_NUCLEAR TECHNOLOGY AND RADIATION PROTECTION: 1: 2014
+mag_NUCLEAR TECHNOLOGY AND RADIATION PROTECTION: 1: 2014
+mag_NUCLEAR TECHNOLOGY AND RADIATION PROTECTION: 1: 2014
+mag_NUCLEAR TECHNOLOGY AND RADIATION PROTECTION: 1: 2015
+mag_NUCLEAR TECHNOLOGY AND RADIATION PROTECTION: 1: 2015
+mag_NUCLEAR TECHNOLOGY AND RADIATION PROTECTION: 1: 2015
+mag_NUCLEAR TECHNOLOGY AND RADIATION PROTECTION: 1: 2016
+mag_NUMERICAL FUNCTIONAL ANALYSIS AND OPTIMIZATION: 1: 2007
+mag_NUMERICAL FUNCTIONAL ANALYSIS AND OPTIMIZATION: 1: 2009
+mag_OPEN SYSTEMS & INFORMATION DYNAMICS: 1: 2002
+mag_OPTICAL AND QUANTUM ELECTRONICS: 3: 2015
+mag_OPTICAL AND QUANTUM ELECTRONICS: 2: 2015
+mag_OPTICAL AND QUANTUM ELECTRONICS: 3: 2016
+mag_OPTICAL AND QUANTUM ELECTRONICS: 2: 2016
+mag_OPTICAL AND QUANTUM ELECTRONICS: 2: 2016
+mag_OPTICAL AND QUANTUM ELECTRONICS: 1: 2016
+mag_OPTICAL AND QUANTUM ELECTRONICS: 2: 2016
+mag_OPTICAL AND QUANTUM ELECTRONICS: 1: 2016
+mag_OPTICAL FIBER TECHNOLOGY: 2: 2005
+mag_OPTICAL MATERIALS: 3: 2008
+mag_OPTICAL MATERIALS: 2: 2008
+mag_OPTICAL MATERIALS: 3: 2012
+mag_OPTICAL REVIEW: 1: 2016
+mag_OPTICS COMMUNICATIONS: 2: 2001
+mag_OPTICS COMMUNICATIONS: 2: 2007
+mag_OPTICS EXPRESS: 1: 2011
+mag_OPTICS EXPRESS: 3: 2016
+mag_OPTICS LETTERS: 1: 2008
+mag_OPTICS LETTERS: 3: 2011
+mag_OPTIK: 1: 2014
+mag_OPTOELECTRONICS AND ADVANCED MATERIALS-RAPID COMMUNICATIONS: 1: 2010
+mag_OPTOELECTRONICS AND ADVANCED MATERIALS-RAPID COMMUNICATIONS: 1: 2010
+mag_OPTOELECTRONICS AND ADVANCED MATERIALS-RAPID COMMUNICATIONS: 1: 2010
+mag_OPTOELECTRONICS AND ADVANCED MATERIALS-RAPID COMMUNICATIONS: 2: 2012
+mag_OPTOELECTRONICS AND ADVANCED MATERIALS-RAPID COMMUNICATIONS: 2: 2012
+mag_OPTOELECTRONICS AND ADVANCED MATERIALS-RAPID COMMUNICATIONS: 2: 2012
+mag_OPTOELECTRONICS AND ADVANCED MATERIALS-RAPID COMMUNICATIONS: 1: 2012
+mag_OPTOELECTRONICS AND ADVANCED MATERIALS-RAPID COMMUNICATIONS: 2: 2015
+mag_PATTERN RECOGNITION LETTERS: 2: 2016
+mag_PHILOLOGIA: 1: 2003
+mag_PHILOLOGIA: 1: 2010
+mag_PHILOLOGIA: 1: 2011
+mag_PHILOLOGIA: 1: 2012
+mag_PHILOLOGIA: 1: 2012
+mag_PHOTONIC NETWORK COMMUNICATIONS: 2: 2008
+mag_PHOTONIC NETWORK COMMUNICATIONS: 1: 2009
+mag_PHOTONIC NETWORK COMMUNICATIONS: 1: 2010
+mag_PHYSICA A STATISTICAL MECHANICS AND ITS APPLICATIONS: 2: 2006
+mag_PHYSICA A STATISTICAL MECHANICS AND ITS APPLICATIONS: 2: 2008
+mag_PHYSICA A STATISTICAL MECHANICS AND ITS APPLICATIONS: 2: 2014
+mag_PHYSICA C: 1: 2012
+mag_PHYSICA E: 1: 2002
+mag_PHYSICA E: 1: 2002
+mag_PHYSICA E: 1: 2002
+mag_PHYSICA E: 1: 2003
+mag_PHYSICA E: 1: 2005
+mag_PHYSICA E: 1: 2006
+mag_PHYSICA E: 1: 2006
+mag_PHYSICA E: 1: 2008
+mag_PHYSICA E: 2: 2016
+mag_PHYSICA MEDICA: 1: 2015
+mag_PHYSICA MEDICA: 1: 2015
+mag_PHYSICA SCRIPTA: 2: 2000
+mag_PHYSICA SCRIPTA: 1: 2006
+mag_PHYSICA SCRIPTA: 2: 2009
+mag_PHYSICA SCRIPTA: 2: 2012
+mag_PHYSICA SCRIPTA: 1: 2012
+mag_PHYSICA SCRIPTA: 2: 2012
+mag_PHYSICA SCRIPTA: 1: 2012
+mag_PHYSICA SCRIPTA: 1: 2012
+mag_PHYSICA SCRIPTA: 3: 2012
+mag_PHYSICA SCRIPTA: 1: 2012
+mag_PHYSICA SCRIPTA: 1: 2012
+mag_PHYSICA SCRIPTA: 4: 2012
+mag_PHYSICA SCRIPTA: 1: 2013
+mag_PHYSICA SCRIPTA: 2: 2013
+mag_PHYSICA SCRIPTA: 1: 2014
+mag_PHYSICA SCRIPTA: 4: 2014
+mag_PHYSICA SCRIPTA: 1: 2014
+mag_PHYSICA SCRIPTA: 3: 2014
+mag_PHYSICA SCRIPTA: 4: 2014
+mag_PHYSICA SCRIPTA: 3: 2014
+mag_PHYSICA SCRIPTA: 2: 2014
+mag_PHYSICA STATUS SOLIDI A-APPLIED RESEARCH: 1: 2005
+mag_PHYSICA STATUS SOLIDI B-BASIC RESEARCH: 1: 2005
+mag_PHYSICA STATUS SOLIDI. C CURRENT TOPICS IN SOLID STATE PHYSICS: 2: 2005
+mag_PHYSICA STATUS SOLIDI. C CURRENT TOPICS IN SOLID STATE PHYSICS: 1: 2006
+mag_PHYSICA STATUS SOLIDI. C CURRENT TOPICS IN SOLID STATE PHYSICS: 1: 2007
+mag_PHYSICAL REVIEW A: 2: 2008
+mag_PHYSICAL REVIEW A: 2: 2009
+mag_PHYSICAL REVIEW A: 3: 2013
+mag_PHYSICAL REVIEW A: 2: 2016
+mag_PHYSICAL REVIEW B: 1: 2000
+mag_PHYSICAL REVIEW B: 2: 2001
+mag_PHYSICAL REVIEW B: 1: 2002
+mag_PHYSICAL REVIEW B: 1: 2004
+mag_PHYSICAL REVIEW B: 2: 2004
+mag_PHYSICAL REVIEW B: 1: 2005
+mag_PHYSICAL REVIEW B: 1: 2005
+mag_PHYSICAL REVIEW B: 1: 2006
+mag_PHYSICAL REVIEW B: 1: 2006
+mag_PHYSICAL REVIEW B: 1: 2007
+mag_PHYSICAL REVIEW B: 1: 2007
+mag_PHYSICAL REVIEW B: 1: 2008
+mag_PHYSICAL REVIEW B: 1: 2009
+mag_PHYSICAL REVIEW B: 3: 2011
+mag_PHYSICAL REVIEW B: 1: 2011
+mag_PHYSICAL REVIEW B: 3: 2012
+mag_PHYSICAL REVIEW B: 2: 2013
+mag_PHYSICAL REVIEW B: 2: 2013
+mag_PHYSICAL REVIEW B: 1: 2013
+mag_PHYSICAL REVIEW B: 1: 2016
+mag_PHYSICAL REVIEW LETTERS: 1: 2014
+mag_PHYSICS AND CHEMISTRY OF MINERALS: 2: 2000
+mag_PHYSICS IN MEDICINE AND BIOLOGY: 1: 2007
+mag_PHYSICS LETTERS A: 2: 2000
+mag_PHYSICS LETTERS A: 1: 2000
+mag_PHYSICS LETTERS A: 1: 2002
+mag_PHYSICS LETTERS A: 1: 2002
+mag_PHYSICS LETTERS A: 1: 2007
+mag_PHYSICS LETTERS A: 1: 2008
+mag_PHYSICS LETTERS A: 2: 2009
+mag_PHYSICS LETTERS A: 2: 2011
+mag_PHYSICS LETTERS A: 2: 2012
+mag_PHYSICS LETTERS A: 1: 2013
+mag_PHYSICS LETTERS A: 3: 2014
+mag_PHYSICS LETTERS A: 2: 2015
+mag_PHYSICS LETTERS A: 2: 2016
+mag_PHYSICS OF PLASMAS: 2: 2014
+mag_PHYSICS OF THE ALIVE: 1: 2001
+mag_PLASMA DEVICES AND OPERATIONS: 4: 2008
+mag_PLASMA DEVICES AND OPERATIONS: 2: 2009
+mag_PLASMA DEVICES AND OPERATIONS: 1: 2009
+mag_PLASMA SOURCES SCIENCE AND TECHNOLOGY: 1: 2006
+mag_PLASMA SOURCES SCIENCE AND TECHNOLOGY: 3: 2007
+mag_PLASMA SOURCES SCIENCE AND TECHNOLOGY: 4: 2009
+mag_PLASMA SOURCES SCIENCE AND TECHNOLOGY: 2: 2015
+mag_PLASMONICS: 2: 2012
+mag_POWDER METALLURGY: 1: 2000
+mag_PREVODILAC: 1: 2011
+mag_PREVODILAC: 1: 2011
+mag_PREVODILAC: 1: 2011
+mag_PREVODILAC: 1: 2012
+mag_PREVODILAC: 1: 2012
+mag_PREVODILAC: 1: 2013
+mag_PREVODILAC: 1: 2013
+mag_PREVODILAC: 1: 2013
+mag_PREVODILAC: 1: 2016
+mag_PREVODILAC: 1: 2016
+mag_PREVODILAC: 1: 2016
+mag_PREVODILAC: 1: 2016
+mag_PRIMENJENA LINGVISTIKA: 1: 2010
+mag_PROGRESS IN BRAIN RESEARCH: 2: 2011
+mag_PROGRESS IN ELECTROMAGNETICS RESEARCH LETTERS: 2: 2012
+mag_PROGRESS IN ELECTROMAGNETICS RESEARCH-PIER: 1: 2011
+mag_PROMET-TRAFFIC & TRANSPORTATION: 1: 2012
+mag_PRZEGLAD ELEKTROTECHNICZNY: 1: 2012
+mag_PRZEGLAD ELEKTROTECHNICZNY: 1: 2013
+mag_PSIHOLOGIJA: 1: 2009
+mag_PUBLICATIONES MATHEMATICAE-DEBRECEN: 1: 2010
+mag_PUBLICATIONS DE L`INSTITUT MATHEMATIQUE: 1: 2013
+mag_PUBLIKACIJE ELEKTROTEHNIČKOG FAKULTETA – SERIJA MATEMATIKA: 1: 2003
+mag_PUBLIKACIJE ELEKTROTEHNIČKOG FAKULTETA – SERIJA MATEMATIKA: 1: 2005
+mag_Physiological Measurement: 3: 2016
+mag_QUALITY AND RELIABILITY ENGINEERING INTERNATIONAL: 2: 2016
+mag_Quantum Matter: 1: 2015
+mag_RADIATION EFFECTS AND DEFECTS IN SOLIDS: 3: 2009
+mag_RADIATION EFFECTS AND DEFECTS IN SOLIDS: 3: 2010
+mag_RADIATION EFFECTS AND DEFECTS IN SOLIDS: 3: 2010
+mag_RADIATION EFFECTS AND DEFECTS IN SOLIDS: 1: 2011
+mag_RADIATION EFFECTS AND DEFECTS IN SOLIDS: 3: 2011
+mag_RADIATION EFFECTS AND DEFECTS IN SOLIDS: 3: 2011
+mag_RADIATION EFFECTS AND DEFECTS IN SOLIDS: 3: 2011
+mag_RADIATION EFFECTS AND DEFECTS IN SOLIDS: 1: 2015
+mag_RADIATION MEASUREMENTS: 1: 2012
+mag_RADIATION MEASUREMENTS: 1: 2016
+mag_RADIATION PHYSICS AND CHEMISTRY: 1: 2004
+mag_RADIATION PROTECTION DOSIMETRY: 1: 2005
+mag_RADIATION PROTECTION DOSIMETRY: 1: 2005
+mag_RADIATION PROTECTION DOSIMETRY: 1: 2008
+mag_RADIATION PROTECTION DOSIMETRY: 1: 2008
+mag_RADIATION PROTECTION DOSIMETRY: 1: 2009
+mag_RADIATION PROTECTION DOSIMETRY: 1: 2010
+mag_RADIATION PROTECTION DOSIMETRY: 1: 2010
+mag_RADIATION PROTECTION DOSIMETRY: 1: 2010
+mag_RADIATION PROTECTION DOSIMETRY: 1: 2010
+mag_RADIATION PROTECTION DOSIMETRY: 1: 2011
+mag_RADIATION PROTECTION DOSIMETRY: 1: 2011
+mag_RADIATION PROTECTION DOSIMETRY: 1: 2011
+mag_RADIATION PROTECTION DOSIMETRY: 1: 2011
+mag_RADIATION PROTECTION DOSIMETRY: 1: 2012
+mag_RADIATION PROTECTION DOSIMETRY: 4: 2012
+mag_RADIATION PROTECTION DOSIMETRY: 1: 2013
+mag_RADIATION PROTECTION DOSIMETRY: 1: 2013
+mag_RADIATION PROTECTION DOSIMETRY: 1: 2013
+mag_RADIATION PROTECTION DOSIMETRY: 3: 2013
+mag_RADIATION PROTECTION DOSIMETRY: 1: 2014
+mag_RADIATION PROTECTION DOSIMETRY: 4: 2014
+mag_RADIATION PROTECTION DOSIMETRY: 1: 2014
+mag_RADIATION PROTECTION DOSIMETRY: 1: 2014
+mag_RADIATION PROTECTION DOSIMETRY: 1: 2015
+mag_RADIATION PROTECTION DOSIMETRY: 1: 2015
+mag_RADIATION PROTECTION DOSIMETRY: 1: 2015
+mag_RADIATION PROTECTION DOSIMETRY: 1: 2015
+mag_RADIATION PROTECTION DOSIMETRY: 4: 2016
+mag_RADIATION PROTECTION DOSIMETRY: 2: 2016
+mag_RADIO SCIENCE: 1: 2014
+mag_RADIO SCIENCE: 1: 2015
+mag_RADIO SCIENCE: 2: 2016
+mag_RADIOENGINEERING: 2: 2013
+mag_RADIOENGINEERING: 3: 2015
+mag_RADIOENGINEERING: 2: 2015
+mag_RADIOLOGY: 1: 2002
+mag_RENEWABLE & SUSTAINABLE ENERGY REVIEWS: 2: 2012
+mag_RENEWABLE ENERGY: 2: 2012
+mag_RENEWABLE ENERGY: 3: 2012
+mag_RENEWABLE ENERGY: 1: 2015
+mag_RESULTS IN MATHEMATICS: 2: 2016
+mag_REVIEW OF SCIENTIFIC INSTRUMENTS: 1: 2000
+mag_REVIEW OF SCIENTIFIC INSTRUMENTS: 1: 2002
+mag_REVIEW OF SCIENTIFIC INSTRUMENTS: 1: 2003
+mag_REVUE ROUMAINE DES SCIENCES TECHNIQUES-SERIE ELECTROTECHNIQUE ET ENERGETIQUE: 1: 2015
+mag_ROBOTICA: 1: 2001
+mag_ROBOTICA: 1: 2004
+mag_ROBOTICA: 1: 2007
+mag_ROBOTICS AND AUTONOMOUS SYSTEMS: 1: 2000
+mag_ROBOTICS AND AUTONOMOUS SYSTEMS: 1: 2010
+mag_ROBOTICS AND COMPUTER-INTEGRATED MANUFACTURING: 1: 2001
+mag_ROBOTICS AND COMPUTER-INTEGRATED MANUFACTURING: 2: 2001
+mag_ROCKY MOUNTAIN JOURNAL OF MATHEMATICS: 1: 2010
+mag_SCIENCE OF SINTERING: 1: 2004
+mag_SCIENCE OF SINTERING: 1: 2007
+mag_SCIENCE OF SINTERING: 1: 2007
+mag_SCIENCE OF SINTERING: 1: 2010
+mag_SCIENCE OF SINTERING: 1: 2012
+mag_SCIENCE OF SINTERING: 2: 2016
+mag_SCIENTIFIC PUBLICATIONS OF THE STATE UNIVERSITY OF NOVI PAZAR, SERIES A APPLIED MATHEMATICS, INFORMATICS AND MECHANICS - NOV: 2: 2011
+mag_SCIENTIFIC PUBLICATIONS OF THE STATE UNIVERSITY OF NOVI PAZAR, SERIES A APPLIED MATHEMATICS, INFORMATICS AND MECHANICS - NOV: 1: 2011
+mag_SCIENTIFIC PUBLICATIONS OF THE STATE UNIVERSITY OF NOVI PAZAR, SERIES A APPLIED MATHEMATICS, INFORMATICS AND MECHANICS - NOV: 2: 2013
+mag_SCIENTIFIC PUBLICATIONS OF THE STATE UNIVERSITY OF NOVI PAZAR, SERIES A APPLIED MATHEMATICS, INFORMATICS AND MECHANICS - NOV: 2: 2014
+mag_SCIENTIFIC TECHNICAL REVIEW: 1: 2003
+mag_SCIENTIFIC TECHNICAL REVIEW: 1: 2004
+mag_SCIENTIFIC TECHNICAL REVIEW: 1: 2005
+mag_SCIENTIFIC TECHNICAL REVIEW: 1: 2015
+mag_SEMICONDUCTOR SCIENCE AND TECHNOLOGY: 2: 2000
+mag_SEMICONDUCTOR SCIENCE AND TECHNOLOGY: 2: 2000
+mag_SEMICONDUCTOR SCIENCE AND TECHNOLOGY: 2: 2002
+mag_SEMICONDUCTOR SCIENCE AND TECHNOLOGY: 2: 2006
+mag_SEMICONDUCTOR SCIENCE AND TECHNOLOGY: 1: 2006
+mag_SEMICONDUCTOR SCIENCE AND TECHNOLOGY: 1: 2007
+mag_SEMICONDUCTOR SCIENCE AND TECHNOLOGY: 2: 2008
+mag_SEMICONDUCTOR SCIENCE AND TECHNOLOGY: 1: 2009
+mag_SEMICONDUCTOR SCIENCE AND TECHNOLOGY: 2: 2012
+mag_SENSOR REVIEW: 3: 2013
+mag_SENSORS: 1: 2008
+mag_SENSORS: 3: 2009
+mag_SENSORS: 2: 2011
+mag_SENSORS: 1: 2012
+mag_SENSORS: 2: 2012
+mag_SENSORS: 2: 2016
+mag_SENSORS AND ACTUATORS A PHYSICAL: 1: 2001
+mag_SENSORS AND ACTUATORS A PHYSICAL: 1: 2004
+mag_SERBIAN JOURNAL OF ELECTRICAL ENGINEERING: 2: 2004
+mag_SERBIAN JOURNAL OF ELECTRICAL ENGINEERING: 2: 2004
+mag_SERBIAN JOURNAL OF ELECTRICAL ENGINEERING: 1: 2007
+mag_SERBIAN JOURNAL OF ELECTRICAL ENGINEERING: 1: 2009
+mag_SERBIAN JOURNAL OF ELECTRICAL ENGINEERING: 3: 2009
+mag_SERBIAN JOURNAL OF ELECTRICAL ENGINEERING: 2: 2009
+mag_SERBIAN JOURNAL OF ELECTRICAL ENGINEERING: 1: 2009
+mag_SERBIAN JOURNAL OF ELECTRICAL ENGINEERING: 2: 2010
+mag_SERBIAN JOURNAL OF ELECTRICAL ENGINEERING: 2: 2010
+mag_SERBIAN JOURNAL OF ELECTRICAL ENGINEERING: 1: 2011
+mag_SERBIAN JOURNAL OF ELECTRICAL ENGINEERING: 1: 2011
+mag_SERBIAN JOURNAL OF ELECTRICAL ENGINEERING: 4: 2011
+mag_SERBIAN JOURNAL OF ELECTRICAL ENGINEERING: 1: 2011
+mag_SERBIAN JOURNAL OF ELECTRICAL ENGINEERING: 2: 2012
+mag_SERBIAN JOURNAL OF ELECTRICAL ENGINEERING: 2: 2012
+mag_SERBIAN JOURNAL OF ELECTRICAL ENGINEERING: 3: 2013
+mag_SERBIAN JOURNAL OF ELECTRICAL ENGINEERING: 3: 2013
+mag_SERBIAN JOURNAL OF ELECTRICAL ENGINEERING: 1: 2013
+mag_SERBIAN JOURNAL OF ELECTRICAL ENGINEERING: 2: 2015
+mag_SERBIAN JOURNAL OF ELECTRICAL ENGINEERING: 1: 2015
+mag_SERBIAN JOURNAL OF ELECTRICAL ENGINEERING: 3: 2015
+mag_SERBIAN JOURNAL OF ELECTRICAL ENGINEERING: 1: 2016
+mag_SERBIAN JOURNAL OF ELECTRICAL ENGINEERING: 3: 2016
+mag_SERBIAN JOURNAL OF EXPERIMENTAL AND CLINICAL RESEARCH: 1: 2013
+mag_SHOCK AND VIBRATION: 2: 2015
+mag_SIAM JOURNAL ON CONTROL AND OPTIMIZATION: 1: 2003
+mag_SIBERIAN MATHEMATICAL JOURNAL: 1: 2008
+mag_SINGIDUNUM REVIJA: 1: 2010
+mag_SOFTWARE AND SYSTEMS MODELING: 1: 2015
+mag_SOLAR ENERGY: 2: 2016
+mag_SOLAR ENERGY: 2: 2016
+mag_SOLID STATE COMMUNICATIONS: 2: 2001
+mag_SOLID STATE COMMUNICATIONS: 2: 2002
+mag_SOLID STATE COMMUNICATIONS: 1: 2007
+mag_SOLID STATE COMMUNICATIONS: 2: 2014
+mag_SOLID STATE COMMUNICATIONS: 2: 2014
+mag_SOLID STATE COMMUNICATIONS: 2: 2014
+mag_SPEECH COMMUNICATION: 2: 2002
+mag_SPINAL CORD THE OFFICIAL JOURNAL OF THE INTERNATIONAL MEDICAL SOCIETY OF PARAPLEGIA: 1: 2015
+mag_SRPSKI ARHIV ZA CELOKUPNO LEKARSTVO: 1: 2002
+mag_SRPSKI ARHIV ZA CELOKUPNO LEKARSTVO: 1: 2005
+mag_SRPSKI ARHIV ZA CELOKUPNO LEKARSTVO: 2: 2016
+mag_STATISTICS & PROBABILITY LETTERS: 1: 2005
+mag_STIL: 1: 2006
+mag_STROJNISKI VESTNIK-JOURNAL OF MECHANICAL ENGINEERING: 1: 2010
+mag_STROJNISKI VESTNIK-JOURNAL OF MECHANICAL ENGINEERING: 1: 2015
+mag_STUDII ŞI CERCETĂRI FILOLOGICE, SERIA LIMBI STRĂINE APLICATE: 1: 2002
+mag_STUDII ŞI CERCETĂRI FILOLOGICE, SERIA LIMBI STRĂINE APLICATE: 1: 2004
+mag_SUPERLATTICES AND MICROSTRUCTURES: 2: 2000
+mag_SUPERLATTICES AND MICROSTRUCTURES: 2: 2010
+mag_SUPERLATTICES AND MICROSTRUCTURES: 1: 2015
+mag_SUPERLATTICES AND MICROSTRUCTURES: 2: 2016
+mag_SURFACE & COATINGS TECHNOLOGY: 1: 2005
+mag_SURFACE & COATINGS TECHNOLOGY: 2: 2005
+mag_SURFACE ENGINEERING A JOINT PUBLICATION OF THE INSTITUTE OF METALS AND THE WOLFSON INSTITUTE FOR SURFACE ENGINEERING: 2: 2006
+mag_SURFACE ENGINEERING A JOINT PUBLICATION OF THE INSTITUTE OF METALS AND THE WOLFSON INSTITUTE FOR SURFACE ENGINEERING: 1: 2008
+mag_SYSTEMS & CONTROL LETTERS: 1: 2001
+mag_SYSTEMS & CONTROL LETTERS: 1: 2008
+mag_SYSTEMS & CONTROL LETTERS: 1: 2009
+mag_Serbian Journal of  Electrical  Engineering: 1: 2013
+mag_Serbian Journal of  Electrical  Engineering: 1: 2014
+mag_Serbian Journal of  Electrical  Engineering: 2: 2014
+mag_Serbian Journal of  Electrical  Engineering: 2: 2014
+mag_Serbian Journal of  Electrical  Engineering: 2: 2015
+mag_Serbian Journal of  Electrical  Engineering: 1: 2016
+mag_Studies in Health Technology and Informatics: 2: 2012
+mag_TECHNICS TECHNOLOGIES EDUCATION MANAGEMENT-TTEM: 1: 2011
+mag_TECHNOLOGY IN SOCIETY: 2: 2009
+mag_TECNOLOGIA Y CIENCIAS DEL AGUA ****-**** TEHNICKI VJESNIK-TECHNICAL GAZETTE: 1: 2012
+mag_TECNOLOGIA Y CIENCIAS DEL AGUA ****-**** TEHNICKI VJESNIK-TECHNICAL GAZETTE: 1: 2016
+mag_TEHNIKA: 2: 2011
+mag_TEHNIKA: 1: 2013
+mag_TEHNIKA: 2: 2013
+mag_TEHNIKA: 2: 2013
+mag_TEHNIKA: 1: 2014
+mag_TEHNIKA: 1: 2014
+mag_TEHNIKA: 1: 2014
+mag_TEHNIKA: 3: 2015
+mag_TEHNIKA: 3: 2015
+mag_TEHNIKA: 1: 2015
+mag_TEHNIKA: 3: 2015
+mag_TEHNIKA: 2: 2016
+mag_TEHNIKA: 2: 2016
+mag_TEHNIKA - ELEKTROTEHNIKA: 1: 2004
+mag_TEHNIKA - ELEKTROTEHNIKA: 4: 2009
+mag_TEHNIKA - ELEKTROTEHNIKA: 2: 2012
+mag_TEHNIKA - ELEKTROTEHNIKA: 2: 2013
+mag_TEHNIKA - ELEKTROTEHNIKA: 2: 2016
+mag_TEHNIKA - ELEKTROTEHNIKA: 3: 2016
+mag_TEHNIKA - KVALITET, STANDARDIZACIJA I METROLOGIJA: 1: 2010
+mag_TEHNIKA - NOVI MATERIJALI: 1: 2004
+mag_TEHNIKA - NOVI MATERIJALI: 2: 2011
+mag_TEHNIKA - NOVI MATERIJALI: 2: 2012
+mag_TEHNIKA - NOVI MATERIJALI: 2: 2013
+mag_TEHNIKA - NOVI MATERIJALI: 2: 2014
+mag_TEHNIKA - NOVI MATERIJALI: 2: 2014
+mag_TELECOMMUNICATION SYSTEMS: 1: 2001
+mag_TELECOMMUNICATION SYSTEMS: 1: 2001
+mag_TELECOMMUNICATION SYSTEMS: 1: 2003
+mag_TELEKOMUNIKACIJE: 2: 2000
+mag_TELEKOMUNIKACIJE: 2: 2002
+mag_TELEKOMUNIKACIJE: 1: 2002
+mag_TELEKOMUNIKACIJE: 1: 2002
+mag_TELEKOMUNIKACIJE: 2: 2002
+mag_TELEKOMUNIKACIJE: 2: 2002
+mag_TELEKOMUNIKACIJE: 1: 2002
+mag_TELEKOMUNIKACIJE: 1: 2002
+mag_TELEKOMUNIKACIJE: 2: 2002
+mag_TELEKOMUNIKACIJE: 1: 2002
+mag_TELEKOMUNIKACIJE: 1: 2002
+mag_TELEKOMUNIKACIJE: 2: 2003
+mag_TELEKOMUNIKACIJE: 2: 2003
+mag_TELEKOMUNIKACIJE: 2: 2004
+mag_TELEKOMUNIKACIJE: 2: 2005
+mag_TELEKOMUNIKACIJE: 2: 2005
+mag_TELEKOMUNIKACIJE: 1: 2008
+mag_TELEKOMUNIKACIJE: 2: 2008
+mag_TELEKOMUNIKACIJE: 1: 2008
+mag_TELEKOMUNIKACIJE: 1: 2008
+mag_TELEKOMUNIKACIJE: 2: 2009
+mag_TELEKOMUNIKACIJE: 1: 2009
+mag_TELEKOMUNIKACIJE: 4: 2009
+mag_TELEKOMUNIKACIJE: 2: 2009
+mag_TELEKOMUNIKACIJE: 2: 2010
+mag_TELEKOMUNIKACIJE: 1: 2010
+mag_TELEKOMUNIKACIJE: 1: 2010
+mag_TELEKOMUNIKACIJE: 1: 2010
+mag_TELEKOMUNIKACIJE: 1: 2011
+mag_TELEKOMUNIKACIJE: 2: 2011
+mag_TELEKOMUNIKACIJE: 1: 2012
+mag_TELEKOMUNIKACIJE: 1: 2012
+mag_TELEKOMUNIKACIJE: 2: 2013
+mag_TELEKOMUNIKACIJE: 1: 2013
+mag_TELEKOMUNIKACIJE: 2: 2013
+mag_TELEKOMUNIKACIJE: 1: 2013
+mag_TELEKOMUNIKACIJE: 1: 2014
+mag_TELEKOMUNIKACIJE: 2: 2014
+mag_TELFOR JOURNAL: 1: 2009
+mag_TELFOR JOURNAL: 2: 2009
+mag_TELFOR JOURNAL: 2: 2009
+mag_TELFOR JOURNAL: 3: 2010
+mag_TELFOR JOURNAL: 1: 2010
+mag_TELFOR JOURNAL: 2: 2010
+mag_TELFOR JOURNAL: 1: 2010
+mag_TELFOR JOURNAL: 1: 2011
+mag_TELFOR JOURNAL: 2: 2011
+mag_TELFOR JOURNAL: 3: 2011
+mag_TELFOR JOURNAL: 1: 2011
+mag_TELFOR JOURNAL: 2: 2011
+mag_TELFOR JOURNAL: 2: 2011
+mag_TELFOR JOURNAL: 2: 2011
+mag_TELFOR JOURNAL: 1: 2012
+mag_TELFOR JOURNAL: 2: 2012
+mag_TELFOR JOURNAL: 1: 2012
+mag_TELFOR JOURNAL: 2: 2012
+mag_TELFOR JOURNAL: 1: 2013
+mag_TELFOR JOURNAL: 2: 2013
+mag_TELFOR JOURNAL: 2: 2013
+mag_TELFOR JOURNAL: 1: 2013
+mag_TELFOR JOURNAL: 2: 2013
+mag_TELFOR JOURNAL: 1: 2013
+mag_TELFOR JOURNAL: 1: 2013
+mag_TELFOR JOURNAL: 1: 2014
+mag_TELFOR JOURNAL: 1: 2014
+mag_TELFOR JOURNAL: 2: 2014
+mag_TELFOR JOURNAL: 1: 2014
+mag_TELFOR JOURNAL: 1: 2014
+mag_TELFOR JOURNAL: 2: 2014
+mag_TELFOR JOURNAL: 1: 2015
+mag_TELFOR JOURNAL: 2: 2015
+mag_TELFOR JOURNAL: 4: 2015
+mag_TELFOR JOURNAL: 2: 2015
+mag_TELFOR JOURNAL: 3: 2015
+mag_TELFOR JOURNAL: 2: 2016
+mag_TELFOR JOURNAL: 2: 2016
+mag_TELFOR JOURNAL: 2: 2016
+mag_TELFOR JOURNAL: 3: 2016
+mag_TELFOR JOURNAL: 3: 2016
+mag_TERMOTEHNIKA: 3: 2003
+mag_TERMOTEHNIKA: 1: 2013
+mag_THE SCIENTIFIC WORLD JOURNAL: 1: 2014
+mag_THE SCIENTIFIC WORLD JOURNAL: 2: 2014
+mag_THEORETICAL COMPUTER SCIENCE: 1: 2013
+mag_THERMAL SCIENCE: 3: 2006
+mag_THERMAL SCIENCE: 1: 2014
+mag_THERMAL SCIENCE: 2: 2015
+mag_THERMAL SCIENCE: 1: 2015
+mag_THERMAL SCIENCE: 1: 2016
+mag_THIN SOLID FILMS: 1: 2007
+mag_THIN SOLID FILMS: 1: 2008
+mag_TOHOKU JOURNAL OF EXPERIMENTAL MEDICINE: 1: 2008
+mag_TOHOKU JOURNAL OF EXPERIMENTAL MEDICINE: 1: 2011
+mag_TRANSPORT: 1: 2011
+mag_TURKISH JOURNAL OF ELECTRICAL ENGINEERING AND COMPUTER SCIENCES: 2: 2014
+mag_TURKISH JOURNAL OF ELECTRICAL ENGINEERING AND COMPUTER SCIENCES: 2: 2016
+mag_TURKISH JOURNAL OF ELECTRICAL ENGINEERING AND COMPUTER SCIENCES: 1: 2016
+mag_Technics: 2: 2016
+mag_UTILITAS MATHEMATICA: 1: 2013
+mag_VACUUM: 3: 2010
+mag_VACUUM: 3: 2010
+mag_VACUUM: 3: 2011
+mag_VACUUM: 3: 2012
+mag_VACUUM: 3: 2014
+mag_VACUUM: 2: 2014
+mag_VACUUM: 1: 2014
+mag_VACUUM: 2: 2014
+mag_VACUUM: 1: 2016
+mag_VOJNOSANITETSKI PREGLED: 2: 2014
+mag_VOJNOSANITETSKI PREGLED: 1: 2016
+mag_VOJNOSANITETSKI PREGLED: 2: 2016
+mag_VOJNOTEHNIČKI GLASNIK: 1: 2002
+mag_VOJNOTEHNIČKI GLASNIK: 1: 2004
+mag_VOJNOTEHNIČKI GLASNIK: 1: 2010
+mag_VOJNOTEHNIČKI GLASNIK: 1: 2011
+mag_VOJNOTEHNIČKI GLASNIK: 1: 2013
+mag_VOJNOTEHNIČKI GLASNIK: 2: 2013
+mag_VOJNOTEHNIČKI GLASNIK: 1: 2015
+mag_VOJNOTEHNIČKI GLASNIK: 2: 2015
+mag_WIRELESS NETWORKS: 1: 2000
+mag_WIRELESS NETWORKS: 2: 2014
+mag_WIRELESS NETWORKS: 2: 2014
+mag_WIRELESS PERSONAL COMMUNICATIONS: 3: 2005
+mag_WIRELESS PERSONAL COMMUNICATIONS: 1: 2014
+mag_WIRELESS PERSONAL COMMUNICATIONS: 2: 2016
+mag_WSEAS TRANSACTIONS ON COMMUNICATIONS: 2: 2003
+mag_WSEAS TRANSACTIONS ON COMMUNICATIONS: 2: 2004
+mag_ZBORNIK RADOVA - ELEKTROTEHNIČKI INSTITUT NIKOLA TESLA: 1: 2010
+mag_ZBORNIK RADOVA - ELEKTROTEHNIČKI INSTITUT NIKOLA TESLA: 1: 2011
+mag_ZBORNIK RADOVA - ELEKTROTEHNIČKI INSTITUT NIKOLA TESLA: 1: 2015
+mag_ZDRAVNISKI VESTNIK-SLOVENIAN MEDICAL JOURNAL: 2: 2010
+mag_ZEITSCHRIFT FUR METALLKUNDE: 1: 2004
+mag_Živi jezici: 1: 2016
